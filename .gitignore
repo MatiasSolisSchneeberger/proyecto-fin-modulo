@@ -1,2 +1,13 @@
-.git
-.vscode
+# node modules
+node_modules
+
+# Editor directories and files
+.vscode/
+.git/
+.vscode/
+.idea
+.DS_Store
+.gemini/
+
+# env
+.env
