@@ -15,5 +15,8 @@ node_modules/
 dist/
 .agents/
 
+# documentos de teoría
+.docs/
+
 # docker
 db-data/
