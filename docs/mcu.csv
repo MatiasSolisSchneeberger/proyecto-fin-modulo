@@ -1,0 +1,557 @@
+order,title,type,series_title,season_number,episode_number,episode_title,studio_platform,universe,release_date_raw,release_date,duration_raw,duration_minutes,status,is_watched
+1,Eyes of Wakanda S1E1: Into the Lion's Den,episode,Eyes of Wakanda,1,1,Into the Lion's Den,Disney+,Earth-616 (MCU),27 de ago de 2025,2025-08-27,32m,32,To watch,false
+2,Eyes of Wakanda S1E2: Legends and Lies,episode,Eyes of Wakanda,1,2,Legends and Lies,Disney+,Earth-616 (MCU),27 de ago de 2025,2025-08-27,32m,32,To watch,false
+3,Eyes of Wakanda S1E3: Lost and Found,episode,Eyes of Wakanda,1,3,Lost and Found,Disney+,Earth-616 (MCU),27 de ago de 2025,2025-08-27,31m,31,To watch,false
+4,Eyes of Wakanda S1E4: The Last Panther,episode,Eyes of Wakanda,1,4,The Last Panther,Disney+,Earth-616 (MCU),27 de ago de 2025,2025-08-27,30m,30,To watch,false
+5,Captain America: The First Avenger,movie,,,,,Marvel Studios,Earth-616 (MCU),22 de jul de 2011,2011-07-22,2h 4m,124,Watched,true
+6,Agent Carter S1E1: Now is Not the End,episode,Agent Carter,1,1,Now is Not the End,ABC,Earth-616 (MCU),6 de ene de 2015,2015-01-06,43m,43,To watch,false
+7,Agent Carter S1E2: Bridge and Tunnel,episode,Agent Carter,1,2,Bridge and Tunnel,ABC,Earth-616 (MCU),6 de ene de 2015,2015-01-06,41m,41,To watch,false
+8,Agent Carter S1E3: Time and Tide,episode,Agent Carter,1,3,Time and Tide,ABC,Earth-616 (MCU),13 de ene de 2015,2015-01-13,41m,41,To watch,false
+9,Agent Carter S1E4: The Blitzkrieg Button,episode,Agent Carter,1,4,The Blitzkrieg Button,ABC,Earth-616 (MCU),27 de ene de 2015,2015-01-27,41m,41,To watch,false
+10,Agent Carter S1E5: The Iron Ceiling,episode,Agent Carter,1,5,The Iron Ceiling,ABC,Earth-616 (MCU),3 de feb de 2015,2015-02-03,43m,43,To watch,false
+11,Agent Carter S1E6: A Sin to Err,episode,Agent Carter,1,6,A Sin to Err,ABC,Earth-616 (MCU),10 de feb de 2015,2015-02-10,41m,41,To watch,false
+12,Agent Carter S1E7: Snafu,episode,Agent Carter,1,7,Snafu,ABC,Earth-616 (MCU),17 de feb de 2015,2015-02-17,41m,41,To watch,false
+13,Agent Carter S1E8: Valediction,episode,Agent Carter,1,8,Valediction,ABC,Earth-616 (MCU),24 de feb de 2015,2015-02-24,43m,43,To watch,false
+14,Agent Carter S2E1: The Lady in the Lake,episode,Agent Carter,2,1,The Lady in the Lake,ABC,Earth-616 (MCU),19 de ene de 2016,2016-01-19,42m,42,To watch,false
+15,Agent Carter S2E2: A View in the Dark,episode,Agent Carter,2,2,A View in the Dark,ABC,Earth-616 (MCU),19 de ene de 2016,2016-01-19,43m,43,To watch,false
+16,Agent Carter S2E3: Better Angels,episode,Agent Carter,2,3,Better Angels,ABC,Earth-616 (MCU),26 de ene de 2016,2016-01-26,43m,43,To watch,false
+17,Agent Carter S2E4: Smoke & Mirrors,episode,Agent Carter,2,4,Smoke & Mirrors,ABC,Earth-616 (MCU),2 de feb de 2016,2016-02-02,43m,43,To watch,false
+18,Agent Carter S2E5: The Atomic Job,episode,Agent Carter,2,5,The Atomic Job,ABC,Earth-616 (MCU),9 de feb de 2016,2016-02-09,42m,42,To watch,false
+19,Agent Carter S2E6: Life of the Party,episode,Agent Carter,2,6,Life of the Party,ABC,Earth-616 (MCU),16 de feb de 2016,2016-02-16,43m,43,To watch,false
+20,Agent Carter S2E7: Monsters,episode,Agent Carter,2,7,Monsters,ABC,Earth-616 (MCU),16 de feb de 2016,2016-02-16,43m,43,To watch,false
+21,Agent Carter S2E8: The Edge Of Mystery,episode,Agent Carter,2,8,The Edge Of Mystery,ABC,Earth-616 (MCU),23 de feb de 2016,2016-02-23,43m,43,To watch,false
+22,Agent Carter S2E9: Little Song and Dance,episode,Agent Carter,2,9,Little Song and Dance,ABC,Earth-616 (MCU),23 de feb de 2016,2016-02-23,42m,42,To watch,false
+23,Agent Carter S2E10: Hollywood Ending,episode,Agent Carter,2,10,Hollywood Ending,ABC,Earth-616 (MCU),1 de mar de 2016,2016-03-01,41m,41,To watch,false
+24,Captain Marvel,movie,,,,,Marvel Studios,Earth-616 (MCU),8 de mar de 2019,2019-03-08,2h 5m,125,Watched,true
+25,Iron Man,movie,,,,,Marvel Studios,Earth-616 (MCU),29 de abr de 2008,2008-04-29,2h 6m,126,Watched,true
+26,Iron Man 2,movie,,,,,Marvel Studios,Earth-616 (MCU),7 de may de 2010,2010-05-07,2h 4m,124,Watched,true
+27,The Incredible Hulk,movie,,,,,Marvel Studios,Earth-616 (MCU),13 de jun de 2008,2008-06-13,1h 52m,112,To watch,false
+28,Thor,movie,,,,,Marvel Studios,Earth-616 (MCU),6 de may de 2011,2011-05-06,1h 55m,115,Watched,true
+29,Avengers,movie,,,,,Marvel Studios,Earth-616 (MCU),4 de may de 2012,2012-05-04,2h 23m,143,Watched,true
+30,Agents of S.H.I.E.L.D. S1E1: Pilot,episode,Agents of S.H.I.E.L.D.,1,1,Pilot,ABC,Earth-616 (MCU),24 de sept de 2013,2013-09-24,44m,44,Watched,true
+31,Agents of S.H.I.E.L.D. S1E2: 0-8-4,episode,Agents of S.H.I.E.L.D.,1,2,0-8-4,ABC,Earth-616 (MCU),1 de oct de 2013,2013-10-01,41m,41,Watched,true
+32,Agents of S.H.I.E.L.D. S1E3: The Asset,episode,Agents of S.H.I.E.L.D.,1,3,The Asset,ABC,Earth-616 (MCU),8 de oct de 2013,2013-10-08,43m,43,Watched,true
+33,Agents of S.H.I.E.L.D. S1E4: Eye Spy,episode,Agents of S.H.I.E.L.D.,1,4,Eye Spy,ABC,Earth-616 (MCU),15 de oct de 2013,2013-10-15,42m,42,Watched,true
+34,Agents of S.H.I.E.L.D. S1E5: Girl In The Flower Dress,episode,Agents of S.H.I.E.L.D.,1,5,Girl In The Flower Dress,ABC,Earth-616 (MCU),22 de oct de 2013,2013-10-22,42m,42,Watched,true
+35,Agents of S.H.I.E.L.D. S1E6: F.Z.Z.T.,episode,Agents of S.H.I.E.L.D.,1,6,F.Z.Z.T.,ABC,Earth-616 (MCU),5 de nov de 2013,2013-11-05,43m,43,Watched,true
+36,Agents of S.H.I.E.L.D. S1E7: The Hub,episode,Agents of S.H.I.E.L.D.,1,7,The Hub,ABC,Earth-616 (MCU),12 de nov de 2013,2013-11-12,42m,42,Watched,true
+37,Thor: The Dark World,movie,,,,,Marvel Studios,Earth-616 (MCU),8 de nov de 2013,2013-11-08,1h 52m,112,Watched,true
+38,Agents of S.H.I.E.L.D. S1E8: The Well,episode,Agents of S.H.I.E.L.D.,1,8,The Well,ABC,Earth-616 (MCU),19 de nov de 2013,2013-11-19,42m,42,Watched,true
+39,Agents of S.H.I.E.L.D. S1E9: Repairs,episode,Agents of S.H.I.E.L.D.,1,9,Repairs,ABC,Earth-616 (MCU),26 de nov de 2013,2013-11-26,43m,43,Watched,true
+40,Agents of S.H.I.E.L.D. S1E10: The Bridge,episode,Agents of S.H.I.E.L.D.,1,10,The Bridge,ABC,Earth-616 (MCU),10 de dic de 2013,2013-12-10,41m,41,Watched,true
+41,Agents of S.H.I.E.L.D. S1E11: The Magical Place,episode,Agents of S.H.I.E.L.D.,1,11,The Magical Place,ABC,Earth-616 (MCU),7 de ene de 2014,2014-01-07,42m,42,Watched,true
+42,Agents of S.H.I.E.L.D. S1E12: Seeds,episode,Agents of S.H.I.E.L.D.,1,12,Seeds,ABC,Earth-616 (MCU),14 de ene de 2014,2014-01-14,43m,43,Watched,true
+43,Iron Man 3,movie,,,,,Marvel Studios,Earth-616 (MCU),3 de may de 2013,2013-05-03,2h 10m,130,Watched,true
+44,Agents of S.H.I.E.L.D. S1E13: T.R.A.C.K.S.,episode,Agents of S.H.I.E.L.D.,1,13,T.R.A.C.K.S.,ABC,Earth-616 (MCU),4 de feb de 2014,2014-02-04,42m,42,Watched,true
+45,Agents of S.H.I.E.L.D. S1E14: T.A.H.I.T.I,episode,Agents of S.H.I.E.L.D.,1,14,T.A.H.I.T.I,ABC,Earth-616 (MCU),4 de mar de 2014,2014-03-04,42m,42,Watched,true
+46,Agents of S.H.I.E.L.D. S1E15: Yes Men,episode,Agents of S.H.I.E.L.D.,1,15,Yes Men,ABC,Earth-616 (MCU),11 de mar de 2014,2014-03-11,43m,43,Watched,true
+47,Agents of S.H.I.E.L.D. S1E16: End Of The Beginning,episode,Agents of S.H.I.E.L.D.,1,16,End Of The Beginning,ABC,Earth-616 (MCU),1 de abr de 2014,2014-04-01,41m,41,Watched,true
+48,Captain America: The Winter Soldier,movie,,,,,Marvel Studios,Earth-616 (MCU),4 de abr de 2014,2014-04-04,2h 16m,136,Watched,true
+49,"Agents of S.H.I.E.L.D. S1E17: Turn, Turn, Turn",episode,Agents of S.H.I.E.L.D.,1,17,"Turn, Turn, Turn",ABC,Earth-616 (MCU),8 de abr de 2014,2014-04-08,43m,43,Watched,true
+50,Agents of S.H.I.E.L.D. S1E18: Providence,episode,Agents of S.H.I.E.L.D.,1,18,Providence,ABC,Earth-616 (MCU),15 de abr de 2014,2014-04-15,43m,43,Watched,true
+51,Agents of S.H.I.E.L.D. S1E19: The Only Light In The Darkness,episode,Agents of S.H.I.E.L.D.,1,19,The Only Light In The Darkness,ABC,Earth-616 (MCU),22 de abr de 2014,2014-04-22,43m,43,Watched,true
+52,Agents of S.H.I.E.L.D. S1E20: Nothing personal,episode,Agents of S.H.I.E.L.D.,1,20,Nothing personal,ABC,Earth-616 (MCU),29 de abr de 2014,2014-04-29,43m,43,Watched,true
+53,Agents of S.H.I.E.L.D. S1E21: Ragtag,episode,Agents of S.H.I.E.L.D.,1,21,Ragtag,ABC,Earth-616 (MCU),6 de may de 2014,2014-05-06,43m,43,Watched,true
+54,Agents of S.H.I.E.L.D. S1E22: Beginning Of The End,episode,Agents of S.H.I.E.L.D.,1,22,Beginning Of The End,ABC,Earth-616 (MCU),13 de may de 2014,2014-05-13,43m,43,Watched,true
+55,Agents of S.H.I.E.L.D. S2E1: Shadows,episode,Agents of S.H.I.E.L.D.,2,1,Shadows,ABC,Earth-616 (MCU),23 de sept de 2014,2014-09-23,43m,43,Watched,true
+56,Agents of S.H.I.E.L.D. S2E2: Heavy Is The Head,episode,Agents of S.H.I.E.L.D.,2,2,Heavy Is The Head,ABC,Earth-616 (MCU),30 de sept de 2014,2014-09-30,43m,43,Watched,true
+57,Guardians Of The Galaxy,movie,,,,,Marvel Studios,Earth-616 (MCU),1 de ago de 2014,2014-08-01,2h 1m,121,Watched,true
+58,I Am Groot S1E1: Groot's First Steps,episode,I Am Groot,1,1,Groot's First Steps,Disney+,Earth-616 (MCU),10 de ago de 2022,2022-08-10,6m,6,Watched,true
+59,Agents of S.H.I.E.L.D. S2E3: Making Friends And Influencing People,episode,Agents of S.H.I.E.L.D.,2,3,Making Friends And Influencing People,ABC,Earth-616 (MCU),7 de oct de 2014,2014-10-07,43m,43,Watched,true
+60,Guardians Of The Galaxy Vol. 2,movie,,,,,Marvel Studios,Earth-616 (MCU),5 de may de 2017,2017-05-05,2h 16m,136,Watched,true
+61,I Am Groot S1E2: The Little Guy,episode,I Am Groot,1,2,The Little Guy,Disney+,Earth-616 (MCU),10 de ago de 2022,2022-08-10,6m,6,Watched,true
+62,I Am Groot S1E3: Groot's Pursuit,episode,I Am Groot,1,3,Groot's Pursuit,Disney+,Earth-616 (MCU),10 de ago de 2022,2022-08-10,6m,6,Watched,true
+63,I Am Groot S1E4: Groot Takes a Bath,episode,I Am Groot,1,4,Groot Takes a Bath,Disney+,Earth-616 (MCU),10 de ago de 2022,2022-08-10,6m,6,Watched,true
+64,I Am Groot S1E5: Magnum Opus,episode,I Am Groot,1,5,Magnum Opus,Disney+,Earth-616 (MCU),10 de ago de 2022,2022-08-10,6m,6,Watched,true
+65,I Am Groot S2E1: Are You My Groot?,episode,I Am Groot,2,1,Are You My Groot?,Disney+,Earth-616 (MCU),6 de sept de 2023,2023-09-06,5m,5,To watch,false
+66,I Am Groot S2E2: Groot Noses Around,episode,I Am Groot,2,2,Groot Noses Around,Disney+,Earth-616 (MCU),6 de sept de 2023,2023-09-06,4m,4,To watch,false
+67,I Am Groot S2E3: Groot's Snow Day,episode,I Am Groot,2,3,Groot's Snow Day,Disney+,Earth-616 (MCU),6 de sept de 2023,2023-09-06,5m,5,To watch,false
+68,I Am Groot S2E4: Groot's Sweet Treat,episode,I Am Groot,2,4,Groot's Sweet Treat,Disney+,Earth-616 (MCU),6 de sept de 2023,2023-09-06,5m,5,To watch,false
+69,I Am Groot S2E5: Groot and the Great Prophecy,episode,I Am Groot,2,5,Groot and the Great Prophecy,Disney+,Earth-616 (MCU),6 de sept de 2023,2023-09-06,6m,6,To watch,false
+70,Agents of S.H.I.E.L.D. S2E4: I Will Face My Enemy,episode,Agents of S.H.I.E.L.D.,2,4,I Will Face My Enemy,ABC,Earth-616 (MCU),14 de oct de 2014,2014-10-14,41m,41,Watched,true
+71,Agents of S.H.I.E.L.D. S2E5: A Hen In The Wolf House,episode,Agents of S.H.I.E.L.D.,2,5,A Hen In The Wolf House,ABC,Earth-616 (MCU),21 de oct de 2014,2014-10-21,43m,43,Watched,true
+72,Daredevil S1E1: Into the Ring,episode,Daredevil,1,1,Into the Ring,Netflix,Earth-616 (MCU),10 de abr de 2015,2015-04-10,53m,53,To watch,false
+73,Daredevil S1E2: Cut Man,episode,Daredevil,1,2,Cut Man,Netflix,Earth-616 (MCU),10 de abr de 2015,2015-04-10,53m,53,To watch,false
+74,Daredevil S1E3: Rabbit in a Snowstorm,episode,Daredevil,1,3,Rabbit in a Snowstorm,Netflix,Earth-616 (MCU),10 de abr de 2015,2015-04-10,52m,52,To watch,false
+75,Daredevil S1E4: In the Blood,episode,Daredevil,1,4,In the Blood,Netflix,Earth-616 (MCU),10 de abr de 2015,2015-04-10,52m,52,To watch,false
+76,Daredevil S1E5: World on Fire,episode,Daredevil,1,5,World on Fire,Netflix,Earth-616 (MCU),10 de abr de 2015,2015-04-10,56m,56,To watch,false
+77,Daredevil S1E6: Condemned,episode,Daredevil,1,6,Condemned,Netflix,Earth-616 (MCU),10 de abr de 2015,2015-04-10,48m,48,To watch,false
+78,Daredevil S1E7: Stick,episode,Daredevil,1,7,Stick,Netflix,Earth-616 (MCU),10 de abr de 2015,2015-04-10,50m,50,To watch,false
+79,Daredevil S1E8: Shadows in the Glass,episode,Daredevil,1,8,Shadows in the Glass,Netflix,Earth-616 (MCU),10 de abr de 2015,2015-04-10,53m,53,To watch,false
+80,Daredevil S1E9: Speak of the Devil,episode,Daredevil,1,9,Speak of the Devil,Netflix,Earth-616 (MCU),10 de abr de 2015,2015-04-10,58m,58,To watch,false
+81,Daredevil S1E10: Nelson v. Murdock,episode,Daredevil,1,10,Nelson v. Murdock,Netflix,Earth-616 (MCU),10 de abr de 2015,2015-04-10,57m,57,To watch,false
+82,Daredevil S1E11: The Path of the Righteous,episode,Daredevil,1,11,The Path of the Righteous,Netflix,Earth-616 (MCU),10 de abr de 2015,2015-04-10,59m,59,To watch,false
+83,Daredevil S1E12: The Ones We Leave Behind,episode,Daredevil,1,12,The Ones We Leave Behind,Netflix,Earth-616 (MCU),10 de abr de 2015,2015-04-10,1h,60,To watch,false
+84,Daredevil S1E13: Daredevil,episode,Daredevil,1,13,Daredevil,Netflix,Earth-616 (MCU),10 de abr de 2015,2015-04-10,56m,56,To watch,false
+85,Agents of S.H.I.E.L.D. S2E6: A Fractured House,episode,Agents of S.H.I.E.L.D.,2,6,A Fractured House,ABC,Earth-616 (MCU),28 de oct de 2014,2014-10-28,41m,41,Watched,true
+86,Jessica Jones S1E1: AKA Ladies Night,episode,Jessica Jones,1,1,AKA Ladies Night,Netflix,Earth-616 (MCU),20 de nov de 2015,2015-11-20,52m,52,To watch,false
+87,Jessica Jones S1E2: AKA Crush Syndrome,episode,Jessica Jones,1,2,AKA Crush Syndrome,Netflix,Earth-616 (MCU),20 de nov de 2015,2015-11-20,52m,52,To watch,false
+88,Agents of S.H.I.E.L.D. S2E7: The Writing On The Wall,episode,Agents of S.H.I.E.L.D.,2,7,The Writing On The Wall,ABC,Earth-616 (MCU),11 de nov de 2014,2014-11-11,42m,42,Watched,true
+89,Jessica Jones S1E3: AKA It's Called Whiskey,episode,Jessica Jones,1,3,AKA It's Called Whiskey,Netflix,Earth-616 (MCU),20 de nov de 2015,2015-11-20,54m,54,To watch,false
+90,Jessica Jones S1E4: AKA 99 Friends,episode,Jessica Jones,1,4,AKA 99 Friends,Netflix,Earth-616 (MCU),20 de nov de 2015,2015-11-20,49m,49,To watch,false
+91,Jessica Jones S1E5: AKA The Sandwich Saved Me,episode,Jessica Jones,1,5,AKA The Sandwich Saved Me,Netflix,Earth-616 (MCU),20 de nov de 2015,2015-11-20,50m,50,To watch,false
+92,Agents of S.H.I.E.L.D. S2E8: The Things We Bury,episode,Agents of S.H.I.E.L.D.,2,8,The Things We Bury,ABC,Earth-616 (MCU),18 de nov de 2014,2014-11-18,43m,43,Watched,true
+93,Agents of S.H.I.E.L.D. S2E9: Ye Who Enters Here,episode,Agents of S.H.I.E.L.D.,2,9,Ye Who Enters Here,ABC,Earth-616 (MCU),2 de dic de 2014,2014-12-02,43m,43,Watched,true
+94,Agents of S.H.I.E.L.D. S2E10: What They Become,episode,Agents of S.H.I.E.L.D.,2,10,What They Become,ABC,Earth-616 (MCU),9 de dic de 2014,2014-12-09,43m,43,Watched,true
+95,Agents of S.H.I.E.L.D. S2E11: Aftershocks,episode,Agents of S.H.I.E.L.D.,2,11,Aftershocks,ABC,Earth-616 (MCU),3 de mar de 2015,2015-03-03,43m,43,Watched,true
+96,Jessica Jones S1E6: AKA You're a Winner,episode,Jessica Jones,1,6,AKA You're a Winner,Netflix,Earth-616 (MCU),20 de nov de 2015,2015-11-20,54m,54,To watch,false
+97,Jessica Jones S1E7: AKA Top Shelf Perverts,episode,Jessica Jones,1,7,AKA Top Shelf Perverts,Netflix,Earth-616 (MCU),20 de nov de 2015,2015-11-20,55m,55,To watch,false
+98,Agents of S.H.I.E.L.D. S2E12: Who You Really Are,episode,Agents of S.H.I.E.L.D.,2,12,Who You Really Are,ABC,Earth-616 (MCU),10 de mar de 2015,2015-03-10,41m,41,Watched,true
+99,Jessica Jones S1E8: AKA WWJD?,episode,Jessica Jones,1,8,AKA WWJD?,Netflix,Earth-616 (MCU),20 de nov de 2015,2015-11-20,50m,50,To watch,false
+100,Agents of S.H.I.E.L.D. S2E13: One of Us,episode,Agents of S.H.I.E.L.D.,2,13,One of Us,ABC,Earth-616 (MCU),17 de mar de 2015,2015-03-17,43m,43,Watched,true
+101,Jessica Jones S1E9: AKA Sin Bin,episode,Jessica Jones,1,9,AKA Sin Bin,Netflix,Earth-616 (MCU),20 de nov de 2015,2015-11-20,55m,55,To watch,false
+102,"Jessica Jones S1E10: AKA 1,000 Cuts",episode,Jessica Jones,1,10,"AKA 1,000 Cuts",Netflix,Earth-616 (MCU),20 de nov de 2015,2015-11-20,46m,46,To watch,false
+103,Agents of S.H.I.E.L.D. S2E14: Love in the Time of Hydra,episode,Agents of S.H.I.E.L.D.,2,14,Love in the Time of Hydra,ABC,Earth-616 (MCU),24 de mar de 2015,2015-03-24,43m,43,Watched,true
+104,Agents of S.H.I.E.L.D. S2E15: One Door Closes,episode,Agents of S.H.I.E.L.D.,2,15,One Door Closes,ABC,Earth-616 (MCU),31 de mar de 2015,2015-03-31,43m,43,Watched,true
+105,Jessica Jones S1E11: AKA I've Got the Blues,episode,Jessica Jones,1,11,AKA I've Got the Blues,Netflix,Earth-616 (MCU),20 de nov de 2015,2015-11-20,50m,50,To watch,false
+106,Jessica Jones S1E12: AKA Take A Bloody Number,episode,Jessica Jones,1,12,AKA Take A Bloody Number,Netflix,Earth-616 (MCU),20 de nov de 2015,2015-11-20,54m,54,To watch,false
+107,Jessica Jones S1E13: AKA Smile,episode,Jessica Jones,1,13,AKA Smile,Netflix,Earth-616 (MCU),20 de nov de 2015,2015-11-20,52m,52,To watch,false
+108,Agents of S.H.I.E.L.D. S2E16: Afterlife,episode,Agents of S.H.I.E.L.D.,2,16,Afterlife,ABC,Earth-616 (MCU),7 de abr de 2015,2015-04-07,43m,43,Watched,true
+109,Agents of S.H.I.E.L.D. S2E17: Melinda,episode,Agents of S.H.I.E.L.D.,2,17,Melinda,ABC,Earth-616 (MCU),14 de abr de 2015,2015-04-14,43m,43,Watched,true
+110,Agents of S.H.I.E.L.D. S2E18: The Frenemy of My Enemy,episode,Agents of S.H.I.E.L.D.,2,18,The Frenemy of My Enemy,ABC,Earth-616 (MCU),21 de abr de 2015,2015-04-21,43m,43,Watched,true
+111,Agents of S.H.I.E.L.D. S2E19: The Dirty Half Dozen,episode,Agents of S.H.I.E.L.D.,2,19,The Dirty Half Dozen,ABC,Earth-616 (MCU),28 de abr de 2015,2015-04-28,41m,41,Watched,true
+112,Avengers: Age Of Ultron,movie,,,,,Marvel Studios,Earth-616 (MCU),1 de may de 2015,2015-05-01,2h 21m,141,Watched,true
+113,Agents of S.H.I.E.L.D. S2E20: Scars,episode,Agents of S.H.I.E.L.D.,2,20,Scars,ABC,Earth-616 (MCU),5 de may de 2015,2015-05-05,43m,43,Watched,true
+114,Agents of S.H.I.E.L.D. S2E21: S.O.S. Part 1,episode,Agents of S.H.I.E.L.D.,2,21,S.O.S. Part 1,ABC,Earth-616 (MCU),12 de may de 2015,2015-05-12,43m,43,Watched,true
+115,Agents of S.H.I.E.L.D. S2E22: S.O.S. Part 2,episode,Agents of S.H.I.E.L.D.,2,22,S.O.S. Part 2,ABC,Earth-616 (MCU),12 de may de 2015,2015-05-12,43m,43,Watched,true
+116,Ant-Man,movie,,,,,Marvel Studios,Earth-616 (MCU),17 de jul de 2015,2015-07-17,1h 57m,117,Watched,true
+117,Daredevil S2E1: Bang,episode,Daredevil,2,1,Bang,Netflix,Earth-616 (MCU),18 de mar de 2016,2016-03-18,48m,48,To watch,false
+118,Daredevil S2E2: Dogs To A Gunfight,episode,Daredevil,2,2,Dogs To A Gunfight,Netflix,Earth-616 (MCU),18 de mar de 2016,2016-03-18,50m,50,To watch,false
+119,Daredevil S2E3: New York's Finest,episode,Daredevil,2,3,New York's Finest,Netflix,Earth-616 (MCU),18 de mar de 2016,2016-03-18,48m,48,To watch,false
+120,Daredevil S2E4: Penny and Dime,episode,Daredevil,2,4,Penny and Dime,Netflix,Earth-616 (MCU),18 de mar de 2016,2016-03-18,1h,60,To watch,false
+121,Daredevil S2E5: Kinbaku,episode,Daredevil,2,5,Kinbaku,Netflix,Earth-616 (MCU),18 de mar de 2016,2016-03-18,56m,56,To watch,false
+122,Daredevil S2E6: Regrets Only,episode,Daredevil,2,6,Regrets Only,Netflix,Earth-616 (MCU),18 de mar de 2016,2016-03-18,56m,56,To watch,false
+123,Daredevil S2E7: Semper Fidelis,episode,Daredevil,2,7,Semper Fidelis,Netflix,Earth-616 (MCU),18 de mar de 2016,2016-03-18,56m,56,To watch,false
+124,Luke Cage S1E1: Moment of Truth,episode,Luke Cage,1,1,Moment of Truth,Netflix,Earth-616 (MCU),30 de sept de 2016,2016-09-30,55m,55,To watch,false
+125,Daredevil S2E8: Guilty as Sin,episode,Daredevil,2,8,Guilty as Sin,Netflix,Earth-616 (MCU),18 de mar de 2016,2016-03-18,54m,54,To watch,false
+126,Luke Cage S1E2: Code of the Streets,episode,Luke Cage,1,2,Code of the Streets,Netflix,Earth-616 (MCU),30 de sept de 2016,2016-09-30,59m,59,To watch,false
+127,Daredevil S2E9: Seven Minutes in Heaven,episode,Daredevil,2,9,Seven Minutes in Heaven,Netflix,Earth-616 (MCU),18 de mar de 2016,2016-03-18,59m,59,To watch,false
+128,Luke Cage S1E3: Who's Gonna Take the Weight?,episode,Luke Cage,1,3,Who's Gonna Take the Weight?,Netflix,Earth-616 (MCU),30 de sept de 2016,2016-09-30,56m,56,To watch,false
+129,Luke Cage S1E4: Step in the Arena,episode,Luke Cage,1,4,Step in the Arena,Netflix,Earth-616 (MCU),30 de sept de 2016,2016-09-30,52m,52,To watch,false
+130,Daredevil S2E10: The Man in The Box,episode,Daredevil,2,10,The Man in The Box,Netflix,Earth-616 (MCU),18 de mar de 2016,2016-03-18,52m,52,To watch,false
+131,Daredevil S2E11: .380,episode,Daredevil,2,11,.380,Netflix,Earth-616 (MCU),18 de mar de 2016,2016-03-18,55m,55,To watch,false
+132,Luke Cage S1E5: Just to Get a Rep.,episode,Luke Cage,1,5,Just to Get a Rep.,Netflix,Earth-616 (MCU),30 de sept de 2016,2016-09-30,52m,52,To watch,false
+133,Daredevil S2E12: The Dark at the End of the Tunnel,episode,Daredevil,2,12,The Dark at the End of the Tunnel,Netflix,Earth-616 (MCU),18 de mar de 2016,2016-03-18,52m,52,To watch,false
+134,Daredevil S2E13: A Cold Day in Hell's Kitchen,episode,Daredevil,2,13,A Cold Day in Hell's Kitchen,Netflix,Earth-616 (MCU),18 de mar de 2016,2016-03-18,58m,58,To watch,false
+135,Agents of S.H.I.E.L.D. S3E1: Laws Of Nature,episode,Agents of S.H.I.E.L.D.,3,1,Laws Of Nature,ABC,Earth-616 (MCU),29 de sept de 2015,2015-09-29,43m,43,Watched,true
+136,Luke Cage S1E6: Suckas Need Bodyguards,episode,Luke Cage,1,6,Suckas Need Bodyguards,Netflix,Earth-616 (MCU),30 de sept de 2016,2016-09-30,53m,53,To watch,false
+137,Agents of S.H.I.E.L.D. S3E2: Purpose In The Machine,episode,Agents of S.H.I.E.L.D.,3,2,Purpose In The Machine,ABC,Earth-616 (MCU),6 de oct de 2015,2015-10-06,42m,42,Watched,true
+138,Luke Cage S1E7: Manifest,episode,Luke Cage,1,7,Manifest,Netflix,Earth-616 (MCU),30 de sept de 2016,2016-09-30,52m,52,To watch,false
+139,Luke Cage S1E8: Blowin' up the Spot,episode,Luke Cage,1,8,Blowin' up the Spot,Netflix,Earth-616 (MCU),30 de sept de 2016,2016-09-30,48m,48,To watch,false
+140,Agents of S.H.I.E.L.D. S3E3: A Wanted (Inhu)man,episode,Agents of S.H.I.E.L.D.,3,3,A Wanted (Inhu)man,ABC,Earth-616 (MCU),13 de oct de 2015,2015-10-13,41m,41,Watched,true
+141,Luke Cage S1E9: DWYCK,episode,Luke Cage,1,9,DWYCK,Netflix,Earth-616 (MCU),30 de sept de 2016,2016-09-30,1h 5m,65,To watch,false
+142,Luke Cage S1E10: Take it Personal,episode,Luke Cage,1,10,Take it Personal,Netflix,Earth-616 (MCU),30 de sept de 2016,2016-09-30,48m,48,To watch,false
+143,Luke Cage S1E11: Now You're Mine,episode,Luke Cage,1,11,Now You're Mine,Netflix,Earth-616 (MCU),30 de sept de 2016,2016-09-30,54m,54,To watch,false
+144,Luke Cage S1E12: Soliloquy of Chaos,episode,Luke Cage,1,12,Soliloquy of Chaos,Netflix,Earth-616 (MCU),30 de sept de 2016,2016-09-30,1h 2m,62,To watch,false
+145,Luke Cage S1E13: You Know My Steez,episode,Luke Cage,1,13,You Know My Steez,Netflix,Earth-616 (MCU),30 de sept de 2016,2016-09-30,46m,46,To watch,false
+146,Agents of S.H.I.E.L.D. S3E4: Devils You Know,episode,Agents of S.H.I.E.L.D.,3,4,Devils You Know,ABC,Earth-616 (MCU),20 de oct de 2015,2015-10-20,43m,43,Watched,true
+147,"Agents of S.H.I.E.L.D. S3E5: 4,772 Hours",episode,Agents of S.H.I.E.L.D.,3,5,"4,772 Hours",ABC,Earth-616 (MCU),27 de oct de 2015,2015-10-27,43m,43,Watched,true
+148,Agents of S.H.I.E.L.D. S3E6: Among Us Hide,episode,Agents of S.H.I.E.L.D.,3,6,Among Us Hide,ABC,Earth-616 (MCU),3 de nov de 2015,2015-11-03,43m,43,Watched,true
+149,Agents of S.H.I.E.L.D. S3E7: Chaos Theory,episode,Agents of S.H.I.E.L.D.,3,7,Chaos Theory,ABC,Earth-616 (MCU),10 de nov de 2015,2015-11-10,43m,43,Watched,true
+150,"Agents of S.H.I.E.L.D. S3E8: Many Heads, One Tale",episode,Agents of S.H.I.E.L.D.,3,8,"Many Heads, One Tale",ABC,Earth-616 (MCU),17 de nov de 2015,2015-11-17,43m,43,Watched,true
+151,Agents of S.H.I.E.L.D. S3E9: Closure,episode,Agents of S.H.I.E.L.D.,3,9,Closure,ABC,Earth-616 (MCU),1 de dic de 2015,2015-12-01,43m,43,Watched,true
+152,Agents of S.H.I.E.L.D. S3E10: Maveth,episode,Agents of S.H.I.E.L.D.,3,10,Maveth,ABC,Earth-616 (MCU),8 de dic de 2015,2015-12-08,43m,43,Watched,true
+153,Iron Fist S1E1: Snow Gives Way,episode,Iron Fist,1,1,Snow Gives Way,Netflix,Earth-616 (MCU),17 de mar de 2017,2017-03-17,57m,57,To watch,false
+154,Iron Fist S1E2: Shadow Hawk Takes Flight,episode,Iron Fist,1,2,Shadow Hawk Takes Flight,Netflix,Earth-616 (MCU),17 de mar de 2017,2017-03-17,1h 1m,61,To watch,false
+155,Iron Fist S1E3: Rolling Thunder Cannon Punch,episode,Iron Fist,1,3,Rolling Thunder Cannon Punch,Netflix,Earth-616 (MCU),17 de mar de 2017,2017-03-17,59m,59,To watch,false
+156,Iron Fist S1E4: Eight Diagram Dragon Palm,episode,Iron Fist,1,4,Eight Diagram Dragon Palm,Netflix,Earth-616 (MCU),17 de mar de 2017,2017-03-17,54m,54,To watch,false
+157,Iron Fist S1E5: Under Leaf Pluck Lotus,episode,Iron Fist,1,5,Under Leaf Pluck Lotus,Netflix,Earth-616 (MCU),17 de mar de 2017,2017-03-17,56m,56,To watch,false
+158,Iron Fist S1E6: Immortal Emerges From Cave,episode,Iron Fist,1,6,Immortal Emerges From Cave,Netflix,Earth-616 (MCU),17 de mar de 2017,2017-03-17,53m,53,To watch,false
+159,Iron Fist S1E7: Felling With Tree Routes,episode,Iron Fist,1,7,Felling With Tree Routes,Netflix,Earth-616 (MCU),17 de mar de 2017,2017-03-17,58m,58,To watch,false
+160,Iron Fist S1E8: The Blessing Of Many Fractures,episode,Iron Fist,1,8,The Blessing Of Many Fractures,Netflix,Earth-616 (MCU),17 de mar de 2017,2017-03-17,55m,55,To watch,false
+161,Iron Fist S1E9: The Mistress Of All Agonies,episode,Iron Fist,1,9,The Mistress Of All Agonies,Netflix,Earth-616 (MCU),17 de mar de 2017,2017-03-17,54m,54,To watch,false
+162,Iron Fist S1E10: Black Tiger Steals Heart,episode,Iron Fist,1,10,Black Tiger Steals Heart,Netflix,Earth-616 (MCU),17 de mar de 2017,2017-03-17,56m,56,To watch,false
+163,Iron Fist S1E11: Lead Horse Back To Stable,episode,Iron Fist,1,11,Lead Horse Back To Stable,Netflix,Earth-616 (MCU),17 de mar de 2017,2017-03-17,52m,52,To watch,false
+164,Iron Fist S1E12: Bar The Big Boss,episode,Iron Fist,1,12,Bar The Big Boss,Netflix,Earth-616 (MCU),17 de mar de 2017,2017-03-17,50m,50,To watch,false
+165,Iron Fist S1E13: Dragon Plays With Fire,episode,Iron Fist,1,13,Dragon Plays With Fire,Netflix,Earth-616 (MCU),17 de mar de 2017,2017-03-17,53m,53,To watch,false
+166,Agents of S.H.I.E.L.D. S3E11: Bouncing Back,episode,Agents of S.H.I.E.L.D.,3,11,Bouncing Back,ABC,Earth-616 (MCU),8 de mar de 2016,2016-03-08,43m,43,Watched,true
+167,Agents of S.H.I.E.L.D. S3E12: The Inside Man,episode,Agents of S.H.I.E.L.D.,3,12,The Inside Man,ABC,Earth-616 (MCU),15 de mar de 2016,2016-03-15,43m,43,Watched,true
+168,Agents of S.H.I.E.L.D. S3E13: Parting Shot,episode,Agents of S.H.I.E.L.D.,3,13,Parting Shot,ABC,Earth-616 (MCU),22 de mar de 2016,2016-03-22,42m,42,Watched,true
+169,Agents of S.H.I.E.L.D. S3E14: Watchdogs,episode,Agents of S.H.I.E.L.D.,3,14,Watchdogs,ABC,Earth-616 (MCU),29 de mar de 2016,2016-03-29,42m,42,Watched,true
+170,Agents of S.H.I.E.L.D. S3E15: Spacetime,episode,Agents of S.H.I.E.L.D.,3,15,Spacetime,ABC,Earth-616 (MCU),5 de abr de 2016,2016-04-05,43m,43,Watched,true
+171,Agents of S.H.I.E.L.D. S3E16: Paradise Lost,episode,Agents of S.H.I.E.L.D.,3,16,Paradise Lost,ABC,Earth-616 (MCU),12 de abr de 2016,2016-04-12,43m,43,Watched,true
+172,Agents of S.H.I.E.L.D. S3E17: The Team,episode,Agents of S.H.I.E.L.D.,3,17,The Team,ABC,Earth-616 (MCU),19 de abr de 2016,2016-04-19,43m,43,Watched,true
+173,Agents of S.H.I.E.L.D. S3E18: The Singularity,episode,Agents of S.H.I.E.L.D.,3,18,The Singularity,ABC,Earth-616 (MCU),26 de abr de 2016,2016-04-26,43m,43,Watched,true
+174,The Defenders S1E1: The H Word,episode,The Defenders,1,1,The H Word,Netflix,Earth-616 (MCU),18 de ago de 2017,2017-08-18,51m,51,To watch,false
+175,The Defenders S1E2: Mean Right Hook,episode,The Defenders,1,2,Mean Right Hook,Netflix,Earth-616 (MCU),18 de ago de 2017,2017-08-18,44m,44,To watch,false
+176,The Defenders S1E3: Worst Behavior,episode,The Defenders,1,3,Worst Behavior,Netflix,Earth-616 (MCU),18 de ago de 2017,2017-08-18,55m,55,To watch,false
+177,The Defenders S1E4: Royal Dragon,episode,The Defenders,1,4,Royal Dragon,Netflix,Earth-616 (MCU),18 de ago de 2017,2017-08-18,45m,45,To watch,false
+178,The Defenders S1E5: Take Shelter,episode,The Defenders,1,5,Take Shelter,Netflix,Earth-616 (MCU),18 de ago de 2017,2017-08-18,50m,50,To watch,false
+179,"The Defenders S1E6: Ashes, Ashes",episode,The Defenders,1,6,"Ashes, Ashes",Netflix,Earth-616 (MCU),18 de ago de 2017,2017-08-18,51m,51,To watch,false
+180,The Defenders S1E7: Fish in the Jailhouse,episode,The Defenders,1,7,Fish in the Jailhouse,Netflix,Earth-616 (MCU),18 de ago de 2017,2017-08-18,45m,45,To watch,false
+181,The Defenders S1E8: The Defenders,episode,The Defenders,1,8,The Defenders,Netflix,Earth-616 (MCU),18 de ago de 2017,2017-08-18,57m,57,To watch,false
+182,Agents of S.H.I.E.L.D. S3E19: Failed Experiments,episode,Agents of S.H.I.E.L.D.,3,19,Failed Experiments,ABC,Earth-616 (MCU),3 de may de 2016,2016-05-03,41m,41,Watched,true
+183,Captain America: Civil War,movie,,,,,Marvel Studios,Earth-616 (MCU),6 de may de 2016,2016-05-06,2h 27m,147,Watched,true
+184,Agents of S.H.I.E.L.D. S3E20: Emancipation,episode,Agents of S.H.I.E.L.D.,3,20,Emancipation,ABC,Earth-616 (MCU),10 de may de 2016,2016-05-10,42m,42,Watched,true
+185,Black Widow,movie,,,,,Marvel Studios,Earth-616 (MCU),9 de jul de 2021,2021-07-09,2h 15m,135,Watched,true
+186,Agents of S.H.I.E.L.D. S3E21: Absolution,episode,Agents of S.H.I.E.L.D.,3,21,Absolution,ABC,Earth-616 (MCU),17 de may de 2016,2016-05-17,43m,43,Watched,true
+187,Agents of S.H.I.E.L.D. S3E22: Ascension,episode,Agents of S.H.I.E.L.D.,3,22,Ascension,ABC,Earth-616 (MCU),17 de may de 2016,2016-05-17,43m,43,Watched,true
+188,Black Panther,movie,,,,,Marvel Studios,Earth-616 (MCU),16 de feb de 2018,2018-02-16,2h 15m,135,Watched,true
+189,Inhumans S1E1: Behold... The Inhumans,episode,Inhumans,1,1,Behold... The Inhumans,ABC,Earth-616 (MCU),29 de sept de 2017,2017-09-29,42m,42,To watch,false
+190,Inhumans S1E2: Those Who Would Destroy Us,episode,Inhumans,1,2,Those Who Would Destroy Us,ABC,Earth-616 (MCU),29 de sept de 2017,2017-09-29,43m,43,To watch,false
+191,Inhumans S1E3: Divide - And Conquer,episode,Inhumans,1,3,Divide - And Conquer,ABC,Earth-616 (MCU),6 de oct de 2017,2017-10-06,42m,42,To watch,false
+192,Inhumans S1E4: Make Way For... Medusa,episode,Inhumans,1,4,Make Way For... Medusa,ABC,Earth-616 (MCU),13 de oct de 2017,2017-10-13,42m,42,To watch,false
+193,Inhumans S1E5: Something Inhuman This Way Comes...,episode,Inhumans,1,5,Something Inhuman This Way Comes...,ABC,Earth-616 (MCU),20 de oct de 2017,2017-10-20,43m,43,To watch,false
+194,Inhumans S1E6: The Gentleman's Name Is Gorgon,episode,Inhumans,1,6,The Gentleman's Name Is Gorgon,ABC,Earth-616 (MCU),27 de oct de 2017,2017-10-27,42m,42,To watch,false
+195,Inhumans S1E7: Havoc In The Hidden Land,episode,Inhumans,1,7,Havoc In The Hidden Land,ABC,Earth-616 (MCU),3 de nov de 2017,2017-11-03,43m,43,To watch,false
+196,Inhumans S1E8: ...And Finally: Black Bolt,episode,Inhumans,1,8,...And Finally: Black Bolt,ABC,Earth-616 (MCU),10 de nov de 2017,2017-11-10,43m,43,To watch,false
+197,Midtown School of Science and Technology News,short,,,,,ABC,Earth-616 (MCU),17 de oct de 2017,2017-10-17,3m,3,To watch,false
+198,Spider-Man: Homecoming,movie,,,,,Marvel Studios,Earth-616 (MCU),7 de jul de 2017,2017-07-07,2h 13m,133,To watch,false
+199,The Punisher S1E1: 3 AM,episode,The Punisher,1,1,3 AM,Netflix,Earth-616 (MCU),17 de nov de 2017,2017-11-17,51m,51,To watch,false
+200,The Punisher S1E2: Two Dead Men,episode,The Punisher,1,2,Two Dead Men,Netflix,Earth-616 (MCU),17 de nov de 2017,2017-11-17,57m,57,To watch,false
+201,The Punisher S1E3: Kandahar,episode,The Punisher,1,3,Kandahar,Netflix,Earth-616 (MCU),17 de nov de 2017,2017-11-17,57m,57,To watch,false
+202,The Punisher S1E4: Resupply,episode,The Punisher,1,4,Resupply,Netflix,Earth-616 (MCU),17 de nov de 2017,2017-11-17,49m,49,To watch,false
+203,The Punisher S1E5: Gunner,episode,The Punisher,1,5,Gunner,Netflix,Earth-616 (MCU),17 de nov de 2017,2017-11-17,55m,55,To watch,false
+204,The Punisher S1E6: The Judas Goat,episode,The Punisher,1,6,The Judas Goat,Netflix,Earth-616 (MCU),17 de nov de 2017,2017-11-17,54m,54,To watch,false
+205,The Punisher S1E7: Crosshairs,episode,The Punisher,1,7,Crosshairs,Netflix,Earth-616 (MCU),17 de nov de 2017,2017-11-17,49m,49,To watch,false
+206,The Punisher S1E8: Cold Steel,episode,The Punisher,1,8,Cold Steel,Netflix,Earth-616 (MCU),17 de nov de 2017,2017-11-17,53m,53,To watch,false
+207,The Punisher S1E9: Front Towards Enemy,episode,The Punisher,1,9,Front Towards Enemy,Netflix,Earth-616 (MCU),17 de nov de 2017,2017-11-17,53m,53,To watch,false
+208,The Punisher S1E10: Virtue of the Vicious,episode,The Punisher,1,10,Virtue of the Vicious,Netflix,Earth-616 (MCU),17 de nov de 2017,2017-11-17,49m,49,To watch,false
+209,The Punisher S1E11: Danger Close,episode,The Punisher,1,11,Danger Close,Netflix,Earth-616 (MCU),17 de nov de 2017,2017-11-17,52m,52,To watch,false
+210,The Punisher S1E12: Home,episode,The Punisher,1,12,Home,Netflix,Earth-616 (MCU),17 de nov de 2017,2017-11-17,51m,51,To watch,false
+211,The Punisher S1E13: Memento Mori,episode,The Punisher,1,13,Memento Mori,Netflix,Earth-616 (MCU),17 de nov de 2017,2017-11-17,55m,55,To watch,false
+212,Doctor Strange,movie,,,,,Marvel Studios,Earth-616 (MCU),4 de nov de 2016,2016-11-04,1h 55m,115,To watch,false
+213,Agents of S.H.I.E.L.D. S4E1: The Ghost,episode,Agents of S.H.I.E.L.D.,4,1,The Ghost,ABC,Earth-616 (MCU),20 de sept de 2016,2016-09-20,43m,43,To watch,false
+214,Agents of S.H.I.E.L.D. S4E2: Meet the New Boss,episode,Agents of S.H.I.E.L.D.,4,2,Meet the New Boss,ABC,Earth-616 (MCU),27 de sept de 2016,2016-09-27,43m,43,To watch,false
+215,Agents of S.H.I.E.L.D. S4E3: Uprising,episode,Agents of S.H.I.E.L.D.,4,3,Uprising,ABC,Earth-616 (MCU),11 de oct de 2016,2016-10-11,42m,42,To watch,false
+216,Agents of S.H.I.E.L.D. S4E4: Let Me Stand Next to Your Fire,episode,Agents of S.H.I.E.L.D.,4,4,Let Me Stand Next to Your Fire,ABC,Earth-616 (MCU),18 de oct de 2016,2016-10-18,43m,43,To watch,false
+217,Agents of S.H.I.E.L.D. S4E5: Lockup,episode,Agents of S.H.I.E.L.D.,4,5,Lockup,ABC,Earth-616 (MCU),25 de oct de 2016,2016-10-25,42m,42,To watch,false
+218,Agents of S.H.I.E.L.D. S4E6: The Good Samaritan,episode,Agents of S.H.I.E.L.D.,4,6,The Good Samaritan,ABC,Earth-616 (MCU),1 de nov de 2016,2016-11-01,41m,41,To watch,false
+219,Agents of S.H.I.E.L.D. S4E7: Deals With Our Devils,episode,Agents of S.H.I.E.L.D.,4,7,Deals With Our Devils,ABC,Earth-616 (MCU),29 de nov de 2016,2016-11-29,43m,43,To watch,false
+220,Agents of S.H.I.E.L.D. S4E8: The Laws of Inferno Dynamics,episode,Agents of S.H.I.E.L.D.,4,8,The Laws of Inferno Dynamics,ABC,Earth-616 (MCU),6 de dic de 2016,2016-12-06,42m,42,To watch,false
+221,Agents of S.H.I.E.L.D. S4E9: Broken Promises,episode,Agents of S.H.I.E.L.D.,4,9,Broken Promises,ABC,Earth-616 (MCU),10 de ene de 2017,2017-01-10,43m,43,To watch,false
+222,Agents of S.H.I.E.L.D. S4E10: The Patriot,episode,Agents of S.H.I.E.L.D.,4,10,The Patriot,ABC,Earth-616 (MCU),17 de ene de 2017,2017-01-17,42m,42,To watch,false
+223,Agents of S.H.I.E.L.D. S4E11: Wake Up,episode,Agents of S.H.I.E.L.D.,4,11,Wake Up,ABC,Earth-616 (MCU),24 de ene de 2017,2017-01-24,42m,42,To watch,false
+224,Agents of S.H.I.E.L.D. S4E12: Hot Potato Soup,episode,Agents of S.H.I.E.L.D.,4,12,Hot Potato Soup,ABC,Earth-616 (MCU),31 de ene de 2017,2017-01-31,43m,43,To watch,false
+225,Agents of S.H.I.E.L.D. S4E13: BOOM,episode,Agents of S.H.I.E.L.D.,4,13,BOOM,ABC,Earth-616 (MCU),7 de feb de 2017,2017-02-07,43m,43,To watch,false
+226,Jessica Jones S2E1: AKA Start At The Beginning,episode,Jessica Jones,2,1,AKA Start At The Beginning,Netflix,Earth-616 (MCU),8 de mar de 2018,2018-03-08,53m,53,To watch,false
+227,Agents of S.H.I.E.L.D. S4E14: The Man Behind the Shield,episode,Agents of S.H.I.E.L.D.,4,14,The Man Behind the Shield,ABC,Earth-616 (MCU),14 de feb de 2017,2017-02-14,42m,42,To watch,false
+228,Agents of S.H.I.E.L.D. S4E15: Self Control,episode,Agents of S.H.I.E.L.D.,4,15,Self Control,ABC,Earth-616 (MCU),21 de feb de 2017,2017-02-21,43m,43,To watch,false
+229,Jessica Jones S2E2: AKA Freak Accident,episode,Jessica Jones,2,2,AKA Freak Accident,Netflix,Earth-616 (MCU),8 de mar de 2018,2018-03-08,56m,56,To watch,false
+230,Jessica Jones S2E3: AKA Sole Survivor,episode,Jessica Jones,2,3,AKA Sole Survivor,Netflix,Earth-616 (MCU),8 de mar de 2018,2018-03-08,54m,54,To watch,false
+231,Jessica Jones S2E4: AKA God Help The Hobo,episode,Jessica Jones,2,4,AKA God Help The Hobo,Netflix,Earth-616 (MCU),8 de mar de 2018,2018-03-08,50m,50,To watch,false
+232,Jessica Jones S2E5: AKA The Octopus,episode,Jessica Jones,2,5,AKA The Octopus,Netflix,Earth-616 (MCU),8 de mar de 2018,2018-03-08,52m,52,To watch,false
+233,Agents of S.H.I.E.L.D. S4E16: What If...,episode,Agents of S.H.I.E.L.D.,4,16,What If...,ABC,Earth-616 (MCU),4 de abr de 2017,2017-04-04,43m,43,To watch,false
+234,Agents of S.H.I.E.L.D. S4E17: Identity and Change,episode,Agents of S.H.I.E.L.D.,4,17,Identity and Change,ABC,Earth-616 (MCU),11 de abr de 2017,2017-04-11,43m,43,To watch,false
+235,Agents of S.H.I.E.L.D. S4E18: No Regrets,episode,Agents of S.H.I.E.L.D.,4,18,No Regrets,ABC,Earth-616 (MCU),18 de abr de 2017,2017-04-18,43m,43,To watch,false
+236,Agents of S.H.I.E.L.D. S4E19: All The Madame’s Men,episode,Agents of S.H.I.E.L.D.,4,19,All The Madame’s Men,ABC,Earth-616 (MCU),25 de abr de 2017,2017-04-25,43m,43,To watch,false
+237,"Agents of S.H.I.E.L.D. S4E20: Farewell, Cruel World!",episode,Agents of S.H.I.E.L.D.,4,20,"Farewell, Cruel World!",ABC,Earth-616 (MCU),2 de may de 2017,2017-05-02,41m,41,To watch,false
+238,Agents of S.H.I.E.L.D. S4E21: The Return,episode,Agents of S.H.I.E.L.D.,4,21,The Return,ABC,Earth-616 (MCU),9 de may de 2017,2017-05-09,43m,43,To watch,false
+239,Agents of S.H.I.E.L.D. S4E22: World’s End,episode,Agents of S.H.I.E.L.D.,4,22,World’s End,ABC,Earth-616 (MCU),16 de may de 2017,2017-05-16,43m,43,To watch,false
+240,Agents of S.H.I.E.L.D. S5E1: Orientation Part 1,episode,Agents of S.H.I.E.L.D.,5,1,Orientation Part 1,ABC,Earth-616 (MCU),1 de dic de 2017,2017-12-01,43m,43,To watch,false
+241,Jessica Jones S2E6: AKA Facetime,episode,Jessica Jones,2,6,AKA Facetime,Netflix,Earth-616 (MCU),8 de mar de 2018,2018-03-08,49m,49,To watch,false
+242,Jessica Jones S2E7: AKA I Want Your Cray Cray,episode,Jessica Jones,2,7,AKA I Want Your Cray Cray,Netflix,Earth-616 (MCU),8 de mar de 2018,2018-03-08,53m,53,To watch,false
+243,Jessica Jones S2E8: AKA Ain't We Got Fun,episode,Jessica Jones,2,8,AKA Ain't We Got Fun,Netflix,Earth-616 (MCU),8 de mar de 2018,2018-03-08,50m,50,To watch,false
+244,"Jessica Jones S2E9: AKA Shark In The Bathtub, Monster In The Bed",episode,Jessica Jones,2,9,"AKA Shark In The Bathtub, Monster In The Bed",Netflix,Earth-616 (MCU),8 de mar de 2018,2018-03-08,50m,50,To watch,false
+245,Jessica Jones S2E10: AKA Pork Chop,episode,Jessica Jones,2,10,AKA Pork Chop,Netflix,Earth-616 (MCU),8 de mar de 2018,2018-03-08,55m,55,To watch,false
+246,Jessica Jones S2E11: AKA Three Lives And Counting,episode,Jessica Jones,2,11,AKA Three Lives And Counting,Netflix,Earth-616 (MCU),8 de mar de 2018,2018-03-08,49m,49,To watch,false
+247,Jessica Jones S2E12: AKA Pray For My Patsy,episode,Jessica Jones,2,12,AKA Pray For My Patsy,Netflix,Earth-616 (MCU),8 de mar de 2018,2018-03-08,47m,47,To watch,false
+248,Jessica Jones S2E13: AKA Playland,episode,Jessica Jones,2,13,AKA Playland,Netflix,Earth-616 (MCU),8 de mar de 2018,2018-03-08,53m,53,To watch,false
+249,Luke Cage S2E1: Soul Brother,episode,Luke Cage,2,1,Soul Brother,Netflix,Earth-616 (MCU),22 de jun de 2018,2018-06-22,56m,56,To watch,false
+250,Luke Cage S2E2: Straighten It Out,episode,Luke Cage,2,2,Straighten It Out,Netflix,Earth-616 (MCU),22 de jun de 2018,2018-06-22,55m,55,To watch,false
+251,Luke Cage S2E3: Wig Out,episode,Luke Cage,2,3,Wig Out,Netflix,Earth-616 (MCU),22 de jun de 2018,2018-06-22,1h,60,To watch,false
+252,Luke Cage S2E4: I Get Physical,episode,Luke Cage,2,4,I Get Physical,Netflix,Earth-616 (MCU),22 de jun de 2018,2018-06-22,54m,54,To watch,false
+253,Luke Cage S2E5: All Souled Out,episode,Luke Cage,2,5,All Souled Out,Netflix,Earth-616 (MCU),22 de jun de 2018,2018-06-22,57m,57,To watch,false
+254,Luke Cage S2E6: The Basement,episode,Luke Cage,2,6,The Basement,Netflix,Earth-616 (MCU),22 de jun de 2018,2018-06-22,1h 4m,64,To watch,false
+255,Luke Cage S2E7: On and On,episode,Luke Cage,2,7,On and On,Netflix,Earth-616 (MCU),22 de jun de 2018,2018-06-22,55m,55,To watch,false
+256,"Luke Cage S2E8: If It Ain't Rough, it Ain't Right",episode,Luke Cage,2,8,"If It Ain't Rough, it Ain't Right",Netflix,Earth-616 (MCU),22 de jun de 2018,2018-06-22,55m,55,To watch,false
+257,Luke Cage S2E9: For Pete's Sake,episode,Luke Cage,2,9,For Pete's Sake,Netflix,Earth-616 (MCU),22 de jun de 2018,2018-06-22,59m,59,To watch,false
+258,Luke Cage S2E10: The Main Ingredient,episode,Luke Cage,2,10,The Main Ingredient,Netflix,Earth-616 (MCU),22 de jun de 2018,2018-06-22,59m,59,To watch,false
+259,Luke Cage S2E11: The Creator,episode,Luke Cage,2,11,The Creator,Netflix,Earth-616 (MCU),22 de jun de 2018,2018-06-22,56m,56,To watch,false
+260,Luke Cage S2E12: Can't Front on Me,episode,Luke Cage,2,12,Can't Front on Me,Netflix,Earth-616 (MCU),22 de jun de 2018,2018-06-22,1h 2m,62,To watch,false
+261,Luke Cage S2E13: They Reminisce Over You,episode,Luke Cage,2,13,They Reminisce Over You,Netflix,Earth-616 (MCU),22 de jun de 2018,2018-06-22,1h 9m,69,To watch,false
+262,Iron Fist S2E1: The Fury Of Iron Fist,episode,Iron Fist,2,1,The Fury Of Iron Fist,Netflix,Earth-616 (MCU),7 de sept de 2018,2018-09-07,57m,57,To watch,false
+263,Iron Fist S2E2: The City's Not For Burning,episode,Iron Fist,2,2,The City's Not For Burning,Netflix,Earth-616 (MCU),7 de sept de 2018,2018-09-07,52m,52,To watch,false
+264,Iron Fist S2E3: This Deadly Secret,episode,Iron Fist,2,3,This Deadly Secret,Netflix,Earth-616 (MCU),7 de sept de 2018,2018-09-07,51m,51,To watch,false
+265,Iron Fist S2E4: Target: Iron Fist,episode,Iron Fist,2,4,Target: Iron Fist,Netflix,Earth-616 (MCU),7 de sept de 2018,2018-09-07,52m,52,To watch,false
+266,Iron Fist S2E5: Heart Of The Dragon,episode,Iron Fist,2,5,Heart Of The Dragon,Netflix,Earth-616 (MCU),7 de sept de 2018,2018-09-07,54m,54,To watch,false
+267,Iron Fist S2E6: The Dragon Dies At Dawn,episode,Iron Fist,2,6,The Dragon Dies At Dawn,Netflix,Earth-616 (MCU),7 de sept de 2018,2018-09-07,50m,50,To watch,false
+268,Iron Fist S2E7: Morning Of The Mindstorm,episode,Iron Fist,2,7,Morning Of The Mindstorm,Netflix,Earth-616 (MCU),7 de sept de 2018,2018-09-07,53m,53,To watch,false
+269,Daredevil S3E1: Resurrection,episode,Daredevil,3,1,Resurrection,Netflix,Earth-616 (MCU),19 de oct de 2018,2018-10-19,53m,53,To watch,false
+270,Daredevil S3E2: Please,episode,Daredevil,3,2,Please,Netflix,Earth-616 (MCU),19 de oct de 2018,2018-10-19,49m,49,To watch,false
+271,Daredevil S3E3: No Good Deed,episode,Daredevil,3,3,No Good Deed,Netflix,Earth-616 (MCU),19 de oct de 2018,2018-10-19,49m,49,To watch,false
+272,Daredevil S3E4: Blindsided,episode,Daredevil,3,4,Blindsided,Netflix,Earth-616 (MCU),19 de oct de 2018,2018-10-19,54m,54,To watch,false
+273,Iron Fist S2E8: Citadel On The Edge Of Vengeance,episode,Iron Fist,2,8,Citadel On The Edge Of Vengeance,Netflix,Earth-616 (MCU),7 de sept de 2018,2018-09-07,49m,49,To watch,false
+274,Iron Fist S2E9: War Without End,episode,Iron Fist,2,9,War Without End,Netflix,Earth-616 (MCU),7 de sept de 2018,2018-09-07,50m,50,To watch,false
+275,Daredevil S3E5: The Perfect Game,episode,Daredevil,3,5,The Perfect Game,Netflix,Earth-616 (MCU),19 de oct de 2018,2018-10-19,49m,49,To watch,false
+276,Iron Fist S2E10: A Duel Of Iron,episode,Iron Fist,2,10,A Duel Of Iron,Netflix,Earth-616 (MCU),7 de sept de 2018,2018-09-07,52m,52,To watch,false
+277,Daredevil S3E6: The Devil You Know,episode,Daredevil,3,6,The Devil You Know,Netflix,Earth-616 (MCU),19 de oct de 2018,2018-10-19,54m,54,To watch,false
+278,Daredevil S3E7: Aftermath,episode,Daredevil,3,7,Aftermath,Netflix,Earth-616 (MCU),19 de oct de 2018,2018-10-19,49m,49,To watch,false
+279,Daredevil S3E8: Upstairs/Downstairs,episode,Daredevil,3,8,Upstairs/Downstairs,Netflix,Earth-616 (MCU),19 de oct de 2018,2018-10-19,50m,50,To watch,false
+280,Daredevil S3E9: Revelations,episode,Daredevil,3,9,Revelations,Netflix,Earth-616 (MCU),19 de oct de 2018,2018-10-19,53m,53,To watch,false
+281,Daredevil S3E10: Karen,episode,Daredevil,3,10,Karen,Netflix,Earth-616 (MCU),19 de oct de 2018,2018-10-19,46m,46,To watch,false
+282,Daredevil S3E11: Reunion,episode,Daredevil,3,11,Reunion,Netflix,Earth-616 (MCU),19 de oct de 2018,2018-10-19,49m,49,To watch,false
+283,Daredevil S3E12: One Last Shot,episode,Daredevil,3,12,One Last Shot,Netflix,Earth-616 (MCU),19 de oct de 2018,2018-10-19,55m,55,To watch,false
+284,Daredevil S3E13: A New Napkin,episode,Daredevil,3,13,A New Napkin,Netflix,Earth-616 (MCU),19 de oct de 2018,2018-10-19,53m,53,To watch,false
+285,Agents of S.H.I.E.L.D. S5E2: Orientation Part 2,episode,Agents of S.H.I.E.L.D.,5,2,Orientation Part 2,ABC,Earth-616 (MCU),1 de dic de 2017,2017-12-01,43m,43,To watch,false
+286,Agents of S.H.I.E.L.D. S5E3: A Life Spent,episode,Agents of S.H.I.E.L.D.,5,3,A Life Spent,ABC,Earth-616 (MCU),8 de dic de 2017,2017-12-08,43m,43,To watch,false
+287,Agents of S.H.I.E.L.D. S5E4: A Life Earned,episode,Agents of S.H.I.E.L.D.,5,4,A Life Earned,ABC,Earth-616 (MCU),15 de dic de 2017,2017-12-15,43m,43,To watch,false
+288,Agents of S.H.I.E.L.D. S5E5: Rewind,episode,Agents of S.H.I.E.L.D.,5,5,Rewind,ABC,Earth-616 (MCU),22 de dic de 2017,2017-12-22,43m,43,To watch,false
+289,Agents of S.H.I.E.L.D. S5E6: Fun & Games,episode,Agents of S.H.I.E.L.D.,5,6,Fun & Games,ABC,Earth-616 (MCU),5 de ene de 2018,2018-01-05,42m,42,To watch,false
+290,Agents of S.H.I.E.L.D. S5E7: Together Or Not At All,episode,Agents of S.H.I.E.L.D.,5,7,Together Or Not At All,ABC,Earth-616 (MCU),12 de ene de 2018,2018-01-12,41m,41,To watch,false
+291,Agents of S.H.I.E.L.D. S5E8: The Last Day,episode,Agents of S.H.I.E.L.D.,5,8,The Last Day,ABC,Earth-616 (MCU),19 de ene de 2018,2018-01-19,43m,43,To watch,false
+292,Agents of S.H.I.E.L.D. S5E9: Best Laid Plans,episode,Agents of S.H.I.E.L.D.,5,9,Best Laid Plans,ABC,Earth-616 (MCU),26 de ene de 2018,2018-01-26,41m,41,To watch,false
+293,Agents of S.H.I.E.L.D. S5E10: Past Life,episode,Agents of S.H.I.E.L.D.,5,10,Past Life,ABC,Earth-616 (MCU),2 de feb de 2018,2018-02-02,42m,42,To watch,false
+294,Thor: Ragnarok,movie,,,,,Marvel Studios,Earth-616 (MCU),3 de nov de 2017,2017-11-03,2h 10m,130,To watch,false
+295,Agents of S.H.I.E.L.D. S5E11: All the Comforts of Home,episode,Agents of S.H.I.E.L.D.,5,11,All the Comforts of Home,ABC,Earth-616 (MCU),2 de mar de 2018,2018-03-02,42m,42,To watch,false
+296,Agents of S.H.I.E.L.D. S5E12: The Real Deal,episode,Agents of S.H.I.E.L.D.,5,12,The Real Deal,ABC,Earth-616 (MCU),9 de mar de 2018,2018-03-09,43m,43,To watch,false
+297,Agents of S.H.I.E.L.D. S5E13: Principia,episode,Agents of S.H.I.E.L.D.,5,13,Principia,ABC,Earth-616 (MCU),16 de mar de 2018,2018-03-16,42m,42,To watch,false
+298,The Punisher S2E1: Roadhouse Blues,episode,The Punisher,2,1,Roadhouse Blues,Netflix,Earth-616 (MCU),18 de ene de 2019,2019-01-18,53m,53,To watch,false
+299,Jessica Jones S3E1: AKA The Perfect Burger,episode,Jessica Jones,3,1,AKA The Perfect Burger,Netflix,Earth-616 (MCU),14 de jun de 2019,2019-06-14,52m,52,To watch,false
+300,The Punisher S2E2: Fight or Flight,episode,The Punisher,2,2,Fight or Flight,Netflix,Earth-616 (MCU),18 de ene de 2019,2019-01-18,54m,54,To watch,false
+301,Jessica Jones S3E2: AKA You're Welcome,episode,Jessica Jones,3,2,AKA You're Welcome,Netflix,Earth-616 (MCU),14 de jun de 2019,2019-06-14,55m,55,To watch,false
+302,The Punisher S2E3: Trouble the Water,episode,The Punisher,2,3,Trouble the Water,Netflix,Earth-616 (MCU),18 de ene de 2019,2019-01-18,51m,51,To watch,false
+303,Jessica Jones S3E3: AKA I Have No Spleen,episode,Jessica Jones,3,3,AKA I Have No Spleen,Netflix,Earth-616 (MCU),14 de jun de 2019,2019-06-14,56m,56,To watch,false
+304,The Punisher S2E4: Scar Tissue,episode,The Punisher,2,4,Scar Tissue,Netflix,Earth-616 (MCU),18 de ene de 2019,2019-01-18,58m,58,To watch,false
+305,Ant-Man and the Wasp,movie,,,,,Marvel Studios,Earth-616 (MCU),6 de jul de 2018,2018-07-06,2h 5m,125,To watch,false
+306,The Punisher S2E5: One-Eyed Jacks,episode,The Punisher,2,5,One-Eyed Jacks,Netflix,Earth-616 (MCU),18 de ene de 2019,2019-01-18,51m,51,To watch,false
+307,Jessica Jones S3E4: AKA Customer Service Is Standing By,episode,Jessica Jones,3,4,AKA Customer Service Is Standing By,Netflix,Earth-616 (MCU),14 de jun de 2019,2019-06-14,46m,46,To watch,false
+308,The Punisher S2E6: Nakazat,episode,The Punisher,2,6,Nakazat,Netflix,Earth-616 (MCU),18 de ene de 2019,2019-01-18,56m,56,To watch,false
+309,Jessica Jones S3E5: AKA I Wish,episode,Jessica Jones,3,5,AKA I Wish,Netflix,Earth-616 (MCU),14 de jun de 2019,2019-06-14,53m,53,To watch,false
+310,Jessica Jones S3E6: AKA Sorry Face,episode,Jessica Jones,3,6,AKA Sorry Face,Netflix,Earth-616 (MCU),14 de jun de 2019,2019-06-14,53m,53,To watch,false
+311,The Punisher S2E7: One Bad Day,episode,The Punisher,2,7,One Bad Day,Netflix,Earth-616 (MCU),18 de ene de 2019,2019-01-18,51m,51,To watch,false
+312,Jessica Jones S3E7: AKA The Double Half-Wappinger,episode,Jessica Jones,3,7,AKA The Double Half-Wappinger,Netflix,Earth-616 (MCU),14 de jun de 2019,2019-06-14,51m,51,To watch,false
+313,The Punisher S2E8: My Brother's Keeper,episode,The Punisher,2,8,My Brother's Keeper,Netflix,Earth-616 (MCU),18 de ene de 2019,2019-01-18,48m,48,To watch,false
+314,Jessica Jones S3E8: AKA Camera Friendly,episode,Jessica Jones,3,8,AKA Camera Friendly,Netflix,Earth-616 (MCU),14 de jun de 2019,2019-06-14,44m,44,To watch,false
+315,The Punisher S2E9: Flustercluck,episode,The Punisher,2,9,Flustercluck,Netflix,Earth-616 (MCU),18 de ene de 2019,2019-01-18,57m,57,To watch,false
+316,Jessica Jones S3E9: AKA I Did Something Today,episode,Jessica Jones,3,9,AKA I Did Something Today,Netflix,Earth-616 (MCU),14 de jun de 2019,2019-06-14,52m,52,To watch,false
+317,The Punisher S2E10: The Dark Hearts of Men,episode,The Punisher,2,10,The Dark Hearts of Men,Netflix,Earth-616 (MCU),18 de ene de 2019,2019-01-18,47m,47,To watch,false
+318,The Punisher S2E11: The Abyss,episode,The Punisher,2,11,The Abyss,Netflix,Earth-616 (MCU),18 de ene de 2019,2019-01-18,54m,54,To watch,false
+319,The Punisher S2E12: Collision Course,episode,The Punisher,2,12,Collision Course,Netflix,Earth-616 (MCU),18 de ene de 2019,2019-01-18,49m,49,To watch,false
+320,Jessica Jones S3E10: AKA Hero Pants,episode,Jessica Jones,3,10,AKA Hero Pants,Netflix,Earth-616 (MCU),14 de jun de 2019,2019-06-14,50m,50,To watch,false
+321,The Punisher S2E13: The Whirlwind,episode,The Punisher,2,13,The Whirlwind,Netflix,Earth-616 (MCU),18 de ene de 2019,2019-01-18,57m,57,To watch,false
+322,Agents of S.H.I.E.L.D. S5E14: The Devil Complex,episode,Agents of S.H.I.E.L.D.,5,14,The Devil Complex,ABC,Earth-616 (MCU),23 de mar de 2018,2018-03-23,42m,42,To watch,false
+323,Jessica Jones S3E11: AKA Hellcat,episode,Jessica Jones,3,11,AKA Hellcat,Netflix,Earth-616 (MCU),14 de jun de 2019,2019-06-14,48m,48,To watch,false
+324,Agents of S.H.I.E.L.D. S5E15: Rise and Shine,episode,Agents of S.H.I.E.L.D.,5,15,Rise and Shine,ABC,Earth-616 (MCU),30 de mar de 2018,2018-03-30,43m,43,To watch,false
+325,Agents of S.H.I.E.L.D. S5E16: Inside Voices,episode,Agents of S.H.I.E.L.D.,5,16,Inside Voices,ABC,Earth-616 (MCU),6 de abr de 2018,2018-04-06,42m,42,To watch,false
+326,Agents of S.H.I.E.L.D. S5E17: The Honeymoon,episode,Agents of S.H.I.E.L.D.,5,17,The Honeymoon,ABC,Earth-616 (MCU),13 de abr de 2018,2018-04-13,42m,42,To watch,false
+327,Agents of S.H.I.E.L.D. S5E18: All Roads Lead...,episode,Agents of S.H.I.E.L.D.,5,18,All Roads Lead...,ABC,Earth-616 (MCU),20 de abr de 2018,2018-04-20,41m,41,To watch,false
+328,Jessica Jones S3E12: AKA A Lotta Worms,episode,Jessica Jones,3,12,AKA A Lotta Worms,Netflix,Earth-616 (MCU),14 de jun de 2019,2019-06-14,49m,49,To watch,false
+329,Jessica Jones S3E13: AKA Everything,episode,Jessica Jones,3,13,AKA Everything,Netflix,Earth-616 (MCU),14 de jun de 2019,2019-06-14,51m,51,To watch,false
+330,Agents of S.H.I.E.L.D. S5E19: Option Two,episode,Agents of S.H.I.E.L.D.,5,19,Option Two,ABC,Earth-616 (MCU),27 de abr de 2018,2018-04-27,42m,42,To watch,false
+331,Agents of S.H.I.E.L.D. S5E20: The One Who Will Save Us All,episode,Agents of S.H.I.E.L.D.,5,20,The One Who Will Save Us All,ABC,Earth-616 (MCU),4 de may de 2018,2018-05-04,42m,42,To watch,false
+332,Agents of S.H.I.E.L.D. S5E21: The Force of Gravity,episode,Agents of S.H.I.E.L.D.,5,21,The Force of Gravity,ABC,Earth-616 (MCU),11 de may de 2018,2018-05-11,43m,43,To watch,false
+333,Avengers: Infinity War,movie,,,,,Marvel Studios,Earth-616 (MCU),27 de abr de 2018,2018-04-27,2h 40m,160,To watch,false
+334,Agents of S.H.I.E.L.D. S5E22: The End,episode,Agents of S.H.I.E.L.D.,5,22,The End,ABC,Earth-616 (MCU),18 de may de 2018,2018-05-18,43m,43,To watch,false
+335,Agents of S.H.I.E.L.D. S6E1: Missing Pieces,episode,Agents of S.H.I.E.L.D.,6,1,Missing Pieces,ABC,Earth-616 (MCU),10 de may de 2019,2019-05-10,42m,42,To watch,false
+336,Agents of S.H.I.E.L.D. S6E2: Window of Opportunity,episode,Agents of S.H.I.E.L.D.,6,2,Window of Opportunity,ABC,Earth-616 (MCU),17 de may de 2019,2019-05-17,43m,43,To watch,false
+337,Agents of S.H.I.E.L.D. S6E3: Fear and Loathing on the Planet of Kitson,episode,Agents of S.H.I.E.L.D.,6,3,Fear and Loathing on the Planet of Kitson,ABC,Earth-616 (MCU),24 de may de 2019,2019-05-24,43m,43,To watch,false
+338,Agents of S.H.I.E.L.D. S6E4: Code Yellow,episode,Agents of S.H.I.E.L.D.,6,4,Code Yellow,ABC,Earth-616 (MCU),31 de may de 2019,2019-05-31,41m,41,To watch,false
+339,Agents of S.H.I.E.L.D. S6E5: The Other Thing,episode,Agents of S.H.I.E.L.D.,6,5,The Other Thing,ABC,Earth-616 (MCU),14 de jun de 2019,2019-06-14,43m,43,To watch,false
+340,Agents of S.H.I.E.L.D. S6E6: Inescapable,episode,Agents of S.H.I.E.L.D.,6,6,Inescapable,ABC,Earth-616 (MCU),21 de jun de 2019,2019-06-21,43m,43,To watch,false
+341,Agents of S.H.I.E.L.D. S6E7: Toldja,episode,Agents of S.H.I.E.L.D.,6,7,Toldja,ABC,Earth-616 (MCU),28 de jun de 2019,2019-06-28,42m,42,To watch,false
+342,Agents of S.H.I.E.L.D. S6E8: Collision Course Part 1,episode,Agents of S.H.I.E.L.D.,6,8,Collision Course Part 1,ABC,Earth-616 (MCU),5 de jul de 2019,2019-07-05,42m,42,To watch,false
+343,Agents of S.H.I.E.L.D. S6E9: Collision Course Part 2,episode,Agents of S.H.I.E.L.D.,6,9,Collision Course Part 2,ABC,Earth-616 (MCU),12 de jul de 2019,2019-07-12,42m,42,To watch,false
+344,Agents of S.H.I.E.L.D. S6E10: Leap,episode,Agents of S.H.I.E.L.D.,6,10,Leap,ABC,Earth-616 (MCU),19 de jul de 2019,2019-07-19,42m,42,To watch,false
+345,Agents of S.H.I.E.L.D. S6E11: From the Ashes,episode,Agents of S.H.I.E.L.D.,6,11,From the Ashes,ABC,Earth-616 (MCU),26 de jul de 2019,2019-07-26,42m,42,To watch,false
+346,Agents of S.H.I.E.L.D. S6E12: The Sign,episode,Agents of S.H.I.E.L.D.,6,12,The Sign,ABC,Earth-616 (MCU),2 de ago de 2019,2019-08-02,41m,41,To watch,false
+347,Agents of S.H.I.E.L.D. S6E13: New Life,episode,Agents of S.H.I.E.L.D.,6,13,New Life,ABC,Earth-616 (MCU),2 de ago de 2019,2019-08-02,43m,43,To watch,false
+348,Agents of S.H.I.E.L.D. S7E1: The New Deal,episode,Agents of S.H.I.E.L.D.,7,1,The New Deal,ABC,Earth-616 (MCU),27 de may de 2020,2020-05-27,43m,43,To watch,false
+349,Agents of S.H.I.E.L.D. S7E2: Know Your Onions,episode,Agents of S.H.I.E.L.D.,7,2,Know Your Onions,ABC,Earth-616 (MCU),3 de jun de 2020,2020-06-03,42m,42,To watch,false
+350,Agents of S.H.I.E.L.D. S7E3: Alien Commies from the Future,episode,Agents of S.H.I.E.L.D.,7,3,Alien Commies from the Future,ABC,Earth-616 (MCU),10 de jun de 2020,2020-06-10,42m,42,To watch,false
+351,Agents of S.H.I.E.L.D. S7E4: Out of the Past,episode,Agents of S.H.I.E.L.D.,7,4,Out of the Past,ABC,Earth-616 (MCU),17 de jun de 2020,2020-06-17,43m,43,To watch,false
+352,Agents of S.H.I.E.L.D. S7E5: A Trout in the Milk,episode,Agents of S.H.I.E.L.D.,7,5,A Trout in the Milk,ABC,Earth-616 (MCU),24 de jun de 2020,2020-06-24,42m,42,To watch,false
+353,Agents of S.H.I.E.L.D. S7E6: Adapt or Die,episode,Agents of S.H.I.E.L.D.,7,6,Adapt or Die,ABC,Earth-616 (MCU),1 de jul de 2020,2020-07-01,43m,43,To watch,false
+354,Agents of S.H.I.E.L.D. S7E7: The Totally Excellent Adventures of Mack and the D,episode,Agents of S.H.I.E.L.D.,7,7,The Totally Excellent Adventures of Mack and the D,ABC,Earth-616 (MCU),8 de jul de 2020,2020-07-08,43m,43,To watch,false
+355,"Agents of S.H.I.E.L.D. S7E8: After, Before",episode,Agents of S.H.I.E.L.D.,7,8,"After, Before",ABC,Earth-616 (MCU),15 de jul de 2020,2020-07-15,42m,42,To watch,false
+356,Agents of S.H.I.E.L.D. S7E9: As I Have Always Been,episode,Agents of S.H.I.E.L.D.,7,9,As I Have Always Been,ABC,Earth-616 (MCU),22 de jul de 2020,2020-07-22,43m,43,To watch,false
+357,Agents of S.H.I.E.L.D. S7E10: Stolen,episode,Agents of S.H.I.E.L.D.,7,10,Stolen,ABC,Earth-616 (MCU),29 de jul de 2020,2020-07-29,42m,42,To watch,false
+358,Agents of S.H.I.E.L.D. S7E11: Brand New Day,episode,Agents of S.H.I.E.L.D.,7,11,Brand New Day,ABC,Earth-616 (MCU),5 de ago de 2020,2020-08-05,43m,43,To watch,false
+359,Agents of S.H.I.E.L.D. S7E12: The End is at Hand,episode,Agents of S.H.I.E.L.D.,7,12,The End is at Hand,ABC,Earth-616 (MCU),12 de ago de 2020,2020-08-12,43m,43,To watch,false
+360,Agents of S.H.I.E.L.D. S7E13: What We’re Fighting For,episode,Agents of S.H.I.E.L.D.,7,13,What We’re Fighting For,ABC,Earth-616 (MCU),12 de ago de 2020,2020-08-12,43m,43,To watch,false
+361,Avengers: Endgame,movie,,,,,Marvel Studios,Earth-616 (MCU),26 de abr de 2019,2019-04-26,3h 2m,182,To watch,false
+362,Avengers: Endgame | Re-Release,movie,,,,,Marvel Studios,Earth-616 (MCU),28 de jun de 2019,2019-06-28,7m,7,To watch,false
+363,Avengers: Endgame Encore,short,,,,,Marvel Studios,Earth-616 (MCU),25 de sept de 2026,2026-09-25,4m,4,To watch,false
+364,Loki S1E1: Glorious Purpose,episode,Loki,1,1,Glorious Purpose,Disney+,Earth-616 (MCU),9 de jun de 2021,2021-06-09,52m,52,To watch,false
+365,Loki S1E2: The Variant,episode,Loki,1,2,The Variant,Disney+,Loki,16 de jun de 2021,2021-06-16,55m,55,To watch,false
+366,Loki S1E3: Lamentis,episode,Loki,1,3,Lamentis,Disney+,Loki,23 de jun de 2021,2021-06-23,43m,43,To watch,false
+367,Loki S1E4: The Nexus Event,episode,Loki,1,4,The Nexus Event,Disney+,Loki,30 de jun de 2021,2021-06-30,49m,49,To watch,false
+368,Loki S1E5: Journey Into Mystery,episode,Loki,1,5,Journey Into Mystery,Disney+,Loki,7 de jul de 2021,2021-07-07,50m,50,To watch,false
+369,Loki S1E6: For All Time. Always.,episode,Loki,1,6,For All Time. Always.,Disney+,Loki,14 de jul de 2021,2021-07-14,47m,47,To watch,false
+370,What If...? S1E1: What If... Captain Carter Were The First Avenger?,episode,What If...?,1,1,What If... Captain Carter Were The First Avenger?,Disney+,Earth-82111 (Super Soldier Peggy Carter),11 de ago de 2021,2021-08-11,34m,34,To watch,false
+371,What If...? S1E2: What If... T'Challa Became a Star-Lord?,episode,What If...?,1,2,What If... T'Challa Became a Star-Lord?,Disney+,Earth-21818 (Ravager T'Challa),18 de ago de 2021,2021-08-18,35m,35,To watch,false
+372,What If...? S1E3: What If... The World Lost Its Mightiest Heroes?,episode,What If...?,1,3,What If... The World Lost Its Mightiest Heroes?,Disney+,Earth-51825 (Avengers Assassinated),25 de ago de 2021,2021-08-25,33m,33,To watch,false
+373,What If...? S1E4: What If... Doctor Strange Lost His Heart Instead of His Hands?,episode,What If...?,1,4,What If... Doctor Strange Lost His Heart Instead of His Hands?,Disney+,Earth-91233 (Corrupted Doctor Strange),1 de sept de 2021,2021-09-01,37m,37,To watch,false
+374,What If...? S1E5: What If... Zombies!?,episode,What If...?,1,5,What If... Zombies!?,Disney+,Earth-89521 (Zombie Outbreak),8 de sept de 2021,2021-09-08,33m,33,To watch,false
+375,What If...? S1E6: What If... Killmonger Rescued Tony Stark?,episode,What If...?,1,6,What If... Killmonger Rescued Tony Stark?,Disney+,Earth-32938 (Killmonger's War),15 de sept de 2021,2021-09-15,34m,34,To watch,false
+376,What If...? S1E7: What If... Thor Were an Only Child?,episode,What If...?,1,7,What If... Thor Were an Only Child?,Disney+,Earth-72124 (Party Prince Thor),22 de sept de 2021,2021-09-22,36m,36,To watch,false
+377,What If...? S1E8: What If... Ultron Won?,episode,What If...?,1,8,What If... Ultron Won?,Disney+,Earth-29929 (Age of Ultron),29 de sept de 2021,2021-09-29,31m,31,To watch,false
+378,What If...? S1E9: What If… The Watcher Broke His Oath?,episode,What If...?,1,9,What If… The Watcher Broke His Oath?,Disney+,Barren Wasteland,6 de oct de 2021,2021-10-06,36m,36,To watch,false
+379,X-Men: First Class,movie,,,,,Fox,Earth-TRN414 (X-Men Days Of Future Past),25 de may de 2011,2011-05-25,2h 12m,132,To watch,false
+380,X-Men Origins: Wolverine,movie,,,,,Fox,Earth-10005 (X-Men),1 de may de 2009,2009-05-01,1h 59m,119,To watch,false
+381,X-Men,movie,,,,,Fox,Earth-10005 (X-Men),14 de jul de 2000,2000-07-14,1h 44m,104,To watch,false
+382,Daredevil,movie,,,,,Fox,Earth-701306 (Daredevil - Fox),14 de feb de 2003,2003-02-14,2h 13m,133,To watch,false
+383,X2,movie,,,,,Fox,Earth-10005 (X-Men),2 de may de 2003,2003-05-02,2h 13m,133,To watch,false
+384,Madame Web,movie,,,,,Sony,Earth-688 (SSU),14 de feb de 2024,2024-02-14,1h 54m,114,To watch,false
+385,Fantastic Four,movie,,,,,Fox,Earth-121698 (Fantastic Four 2005),8 de jul de 2005,2005-07-08,2h 5m,125,To watch,false
+386,Elektra,movie,,,,,Fox,Earth-701306 (Daredevil - Fox),14 de ene de 2005,2005-01-14,1h 37m,97,To watch,false
+387,X-Men: The Last Stand,movie,,,,,Fox,Earth-10005 (X-Men),26 de may de 2006,2006-05-26,1h 44m,104,To watch,false
+388,Fantastic Four: Rise of the Silver Surfer,movie,,,,,Fox,Earth-121698 (Fantastic Four 2005),15 de jun de 2007,2007-06-15,1h 32m,92,To watch,false
+389,The Wolverine,movie,,,,,Fox,Earth-10005 (X-Men),26 de jul de 2013,2013-07-26,2h 6m,126,To watch,false
+390,X-Men: Days of Future Past,movie,,,,,Fox,Earth-TRN414 (X-Men Days Of Future Past),23 de may de 2014,2014-05-23,2h 12m,132,To watch,false
+391,X-Men: Apocalypse,movie,,,,,Fox,Earth-TRN414 (X-Men Days Of Future Past),27 de may de 2016,2016-05-27,2h 24m,144,To watch,false
+392,Dark Phoenix,movie,,,,,Fox,Earth-TRN414 (X-Men Days Of Future Past),13 de jun de 2019,2019-06-13,1h 54m,114,To watch,false
+393,Deadpool,movie,,,,,Fox,Earth-TRN414 (X-Men Days Of Future Past),12 de feb de 2016,2016-02-12,1h 48m,108,To watch,false
+394,Logan,movie,,,,,Fox,Earth-TRN414 (X-Men Days Of Future Past),3 de mar de 2017,2017-03-03,2h 17m,137,To watch,false
+395,Deadpool 2,movie,,,,,Fox,Earth-TRN414 (X-Men Days Of Future Past),1 de may de 2018,2018-05-01,1h 59m,119,To watch,false
+396,Deadpool 2 (Super Duper Cut),movie,,,,,Fox,Earth-TRN414 (X-Men Days Of Future Past),7 de ago de 2018,2018-08-07,14m,14,To watch,false
+397,What If...? An Immersive Story,movie,,,,,Marvel Studios,What If...? - An Immersive Story,30 de may de 2024,2024-05-30,1h,60,To watch,false
+398,Marvel Zombies S1E1: Episode 1,episode,Marvel Zombies,1,1,Episode 1,Disney+,Earth-89521 (Zombie Outbreak),24 de sept de 2025,2025-09-24,38m,38,To watch,false
+399,Marvel Zombies S1E2: Episode 2,episode,Marvel Zombies,1,2,Episode 2,Disney+,Earth-89521 (Zombie Outbreak),24 de sept de 2025,2025-09-24,34m,34,To watch,false
+400,Marvel Zombies S1E3: Episode 3,episode,Marvel Zombies,1,3,Episode 3,Disney+,Earth-89521 (Zombie Outbreak),24 de sept de 2025,2025-09-24,33m,33,To watch,false
+401,Marvel Zombies S1E4: Episode 4,episode,Marvel Zombies,1,4,Episode 4,Disney+,Earth-89521 (Zombie Outbreak),24 de sept de 2025,2025-09-24,32m,32,To watch,false
+402,WandaVision S1E1: Filmed Before a Live Studio Audience,episode,WandaVision,1,1,Filmed Before a Live Studio Audience,Disney+,Earth-616 (MCU),15 de ene de 2021,2021-01-15,30m,30,To watch,false
+403,WandaVision S1E2: Don't Touch That Dial,episode,WandaVision,1,2,Don't Touch That Dial,Disney+,Earth-616 (MCU),15 de ene de 2021,2021-01-15,37m,37,To watch,false
+404,WandaVision S1E3: Now In Color,episode,WandaVision,1,3,Now In Color,Disney+,Earth-616 (MCU),22 de ene de 2021,2021-01-22,33m,33,To watch,false
+405,WandaVision S1E4: We Interrupt This Program,episode,WandaVision,1,4,We Interrupt This Program,Disney+,Earth-616 (MCU),29 de ene de 2021,2021-01-29,35m,35,To watch,false
+406,WandaVision S1E5: On A Very Special Episode...,episode,WandaVision,1,5,On A Very Special Episode...,Disney+,Earth-616 (MCU),5 de feb de 2021,2021-02-05,42m,42,To watch,false
+407,WandaVision S1E6: All-New Halloween Spooktacular!,episode,WandaVision,1,6,All-New Halloween Spooktacular!,Disney+,Earth-616 (MCU),12 de feb de 2021,2021-02-12,38m,38,To watch,false
+408,WandaVision S1E7: Breaking the Fourth Wall,episode,WandaVision,1,7,Breaking the Fourth Wall,Disney+,Earth-616 (MCU),19 de feb de 2021,2021-02-19,38m,38,To watch,false
+409,WandaVision S1E8: Previously On,episode,WandaVision,1,8,Previously On,Disney+,Earth-616 (MCU),26 de feb de 2021,2021-02-26,47m,47,To watch,false
+410,WandaVision S1E9: The Series Finale,episode,WandaVision,1,9,The Series Finale,Disney+,Earth-616 (MCU),5 de mar de 2021,2021-03-05,50m,50,To watch,false
+411,Spider-Man: Into the Spider-Verse,movie,,,,,Sony,Earth-1610 (Spiderverse),14 de dic de 2018,2018-12-14,1h 56m,116,To watch,false
+412,Shang-Chi And The Legend Of The Ten Rings,movie,,,,,Marvel Studios,Earth-616 (MCU),3 de sept de 2021,2021-09-03,2h 12m,132,To watch,false
+413,The Falcon And The Winter Soldier S1E1: New World Order,episode,The Falcon And The Winter Soldier,1,1,New World Order,Disney+,Earth-616 (MCU),19 de mar de 2021,2021-03-19,50m,50,To watch,false
+414,The Falcon And The Winter Soldier S1E2: The Star-Spangled Man,episode,The Falcon And The Winter Soldier,1,2,The Star-Spangled Man,Disney+,Earth-616 (MCU),26 de mar de 2021,2021-03-26,50m,50,To watch,false
+415,The Falcon And The Winter Soldier S1E3: Power Broker,episode,The Falcon And The Winter Soldier,1,3,Power Broker,Disney+,Earth-616 (MCU),2 de abr de 2021,2021-04-02,54m,54,To watch,false
+416,The Falcon And The Winter Soldier S1E4: The Whole World Is Watching,episode,The Falcon And The Winter Soldier,1,4,The Whole World Is Watching,Disney+,Earth-616 (MCU),9 de abr de 2021,2021-04-09,54m,54,To watch,false
+417,The Falcon And The Winter Soldier S1E5: Truth,episode,The Falcon And The Winter Soldier,1,5,Truth,Disney+,Earth-616 (MCU),16 de abr de 2021,2021-04-16,1h 1m,61,To watch,false
+418,"The Falcon And The Winter Soldier S1E6: One World, One People",episode,The Falcon And The Winter Soldier,1,6,"One World, One People",Disney+,Earth-616 (MCU),23 de abr de 2021,2021-04-23,52m,52,To watch,false
+419,Spider-Man,movie,,,,,Sony,"Earth-96283 (Spider-Man, 2002)",3 de may de 2002,2002-05-03,2h 1m,121,To watch,false
+420,Spider-Man 2,movie,,,,,Sony,"Earth-96283 (Spider-Man, 2002)",30 de jun de 2004,2004-06-30,2h 15m,135,To watch,false
+421,Spider-Man 3,movie,,,,,Sony,"Earth-96283 (Spider-Man, 2002)",4 de may de 2007,2007-05-04,2h 36m,156,To watch,false
+422,The Amazing Spider-Man,movie,,,,,Sony,Earth-120703 (The Amazing Spider-Man),3 de jul de 2012,2012-07-03,2h 33m,153,To watch,false
+423,The Amazing Spider-Man 2,movie,,,,,Sony,Earth-120703 (The Amazing Spider-Man),2 de may de 2014,2014-05-02,2h 22m,142,To watch,false
+424,Venom,movie,,,,,Sony,Earth-688 (SSU),5 de oct de 2018,2018-10-05,2h 20m,140,To watch,false
+425,Venom: Let There Be Carnage,movie,,,,,Sony,Earth-688 (SSU),1 de oct de 2021,2021-10-01,1h 30m,90,To watch,false
+426,Spider-Man: Far From Home,movie,,,,,Marvel Studios,Earth-616 (MCU),2 de jul de 2019,2019-07-02,2h 9m,129,To watch,false
+427,Spider-Man: Far From Home | Re-Release,movie,,,,,Marvel Studios,Earth-616 (MCU),29 de ago de 2019,2019-08-29,4m,4,To watch,false
+428,Spider-Man: No Way Home,movie,,,,,Marvel Studios,Earth-616 (MCU),17 de dic de 2021,2021-12-17,2h 28m,148,To watch,false
+429,Spider-Man: No Way Home | Re-Release,movie,,,,,Marvel Studios,Earth-616 (MCU),2 de sept de 2022,2022-09-02,11m,11,To watch,false
+430,Venom: The Last Dance,movie,,,,,Sony,Earth-688 (SSU),25 de oct de 2024,2024-10-25,1h 50m,110,To watch,false
+431,Morbius,movie,,,,,Sony,Earth-688 (SSU),1 de abr de 2022,2022-04-01,1h 44m,104,To watch,false
+432,Kraven The Hunter,movie,,,,,Sony,Earth-688 (SSU),13 de dic de 2024,2024-12-13,2h 7m,127,To watch,false
+433,Spider-Man: Across The Spider-Verse,movie,,,,,Sony,Earth-1610 (Spiderverse),2 de jun de 2023,2023-06-02,2h 20m,140,To watch,false
+434,Eternals,movie,,,,,Marvel Studios,Earth-616 (MCU),5 de nov de 2021,2021-11-05,2h 37m,157,To watch,false
+435,Doctor Strange In The Multiverse Of Madness,movie,,,,,Marvel Studios,Earth-616 (MCU),6 de may de 2022,2022-05-06,2h 6m,126,To watch,false
+436,Hawkeye S1E1: Never Meet Your Heroes,episode,Hawkeye,1,1,Never Meet Your Heroes,Disney+,Earth-616 (MCU),24 de nov de 2021,2021-11-24,50m,50,To watch,false
+437,Hawkeye S1E2: Hide and Seek,episode,Hawkeye,1,2,Hide and Seek,Disney+,Earth-616 (MCU),24 de nov de 2021,2021-11-24,52m,52,To watch,false
+438,Hawkeye S1E3: Echoes,episode,Hawkeye,1,3,Echoes,Disney+,Earth-616 (MCU),1 de dic de 2021,2021-12-01,44m,44,To watch,false
+439,"Hawkeye S1E4: Partners, Am I Right?",episode,Hawkeye,1,4,"Partners, Am I Right?",Disney+,Earth-616 (MCU),8 de dic de 2021,2021-12-08,41m,41,To watch,false
+440,Hawkeye S1E5: Ronin,episode,Hawkeye,1,5,Ronin,Disney+,Earth-616 (MCU),15 de dic de 2021,2021-12-15,45m,45,To watch,false
+441,Hawkeye S1E6: So This Is Christmas?,episode,Hawkeye,1,6,So This Is Christmas?,Disney+,Earth-616 (MCU),22 de dic de 2021,2021-12-22,1h 2m,62,To watch,false
+442,Moon Knight S1E1: The Goldfish Problem,episode,Moon Knight,1,1,The Goldfish Problem,Disney+,Earth-616 (MCU),30 de mar de 2022,2022-03-30,47m,47,To watch,false
+443,Moon Knight S1E2: Summon the Suit,episode,Moon Knight,1,2,Summon the Suit,Disney+,Earth-616 (MCU),6 de abr de 2022,2022-04-06,53m,53,To watch,false
+444,Moon Knight S1E3: The Friendly Type,episode,Moon Knight,1,3,The Friendly Type,Disney+,Earth-616 (MCU),13 de abr de 2022,2022-04-13,53m,53,To watch,false
+445,Moon Knight S1E4: The Tomb,episode,Moon Knight,1,4,The Tomb,Disney+,Earth-616 (MCU),20 de abr de 2022,2022-04-20,53m,53,To watch,false
+446,Moon Knight S1E5: Asylum,episode,Moon Knight,1,5,Asylum,Disney+,Earth-616 (MCU),27 de abr de 2022,2022-04-27,50m,50,To watch,false
+447,Moon Knight S1E6: Gods and Monsters,episode,Moon Knight,1,6,Gods and Monsters,Disney+,Earth-616 (MCU),4 de may de 2022,2022-05-04,44m,44,To watch,false
+448,Black Panther: Wakanda Forever,movie,,,,,Marvel Studios,Earth-616 (MCU),11 de nov de 2022,2022-11-11,2h 41m,161,To watch,false
+449,Echo S1E1: Chafa,episode,Echo,1,1,Chafa,Disney+,Earth-616 (MCU),9 de ene de 2024,2024-01-09,51m,51,To watch,false
+450,Echo S1E2: Lowak,episode,Echo,1,2,Lowak,Disney+,Earth-616 (MCU),9 de ene de 2024,2024-01-09,41m,41,To watch,false
+451,Echo S1E3: Tuklo,episode,Echo,1,3,Tuklo,Disney+,Earth-616 (MCU),9 de ene de 2024,2024-01-09,45m,45,To watch,false
+452,Echo S1E4: Taloa,episode,Echo,1,4,Taloa,Disney+,Earth-616 (MCU),9 de ene de 2024,2024-01-09,40m,40,To watch,false
+453,Echo S1E5: Maya,episode,Echo,1,5,Maya,Disney+,Earth-616 (MCU),9 de ene de 2024,2024-01-09,37m,37,To watch,false
+454,She-Hulk: Attorney at Law S1E1: A Normal Amount Of Rage,episode,She-Hulk: Attorney at Law,1,1,A Normal Amount Of Rage,Disney+,Earth-616 (MCU),18 de ago de 2022,2022-08-18,38m,38,To watch,false
+455,She-Hulk: Attorney at Law S1E2: Superhuman Law,episode,She-Hulk: Attorney at Law,1,2,Superhuman Law,Disney+,Earth-616 (MCU),25 de ago de 2022,2022-08-25,31m,31,To watch,false
+456,She-Hulk: Attorney at Law S1E3: The People vs. Emil Blonsky,episode,She-Hulk: Attorney at Law,1,3,The People vs. Emil Blonsky,Disney+,Earth-616 (MCU),1 de sept de 2022,2022-09-01,35m,35,To watch,false
+457,She-Hulk: Attorney at Law S1E4: Is this Not Real Magic?,episode,She-Hulk: Attorney at Law,1,4,Is this Not Real Magic?,Disney+,Earth-616 (MCU),8 de sept de 2022,2022-09-08,37m,37,To watch,false
+458,"She-Hulk: Attorney at Law S1E5: Mean, Green, and Straight Poured Into These Jeans",episode,She-Hulk: Attorney at Law,1,5,"Mean, Green, and Straight Poured Into These Jeans",Disney+,Earth-616 (MCU),15 de sept de 2022,2022-09-15,31m,31,To watch,false
+459,She-Hulk: Attorney at Law S1E6: Just Jen,episode,She-Hulk: Attorney at Law,1,6,Just Jen,Disney+,Earth-616 (MCU),22 de sept de 2022,2022-09-22,31m,31,To watch,false
+460,She-Hulk: Attorney at Law S1E7: The Retreat,episode,She-Hulk: Attorney at Law,1,7,The Retreat,Disney+,Earth-616 (MCU),29 de sept de 2022,2022-09-29,35m,35,To watch,false
+461,She-Hulk: Attorney at Law S1E8: Ribbit and Rip It,episode,She-Hulk: Attorney at Law,1,8,Ribbit and Rip It,Disney+,Earth-616 (MCU),6 de oct de 2022,2022-10-06,36m,36,To watch,false
+462,She-Hulk: Attorney at Law S1E9: Whose Show is This,episode,She-Hulk: Attorney at Law,1,9,Whose Show is This,Disney+,Earth-616 (MCU),13 de oct de 2022,2022-10-13,35m,35,To watch,false
+463,Ms. Marvel S1E1: Generation Why,episode,Ms. Marvel,1,1,Generation Why,Disney+,Earth-616 (MCU),8 de jun de 2022,2022-06-08,50m,50,To watch,false
+464,Ms. Marvel S1E2: Crushed,episode,Ms. Marvel,1,2,Crushed,Disney+,Earth-616 (MCU),15 de jun de 2022,2022-06-15,52m,52,To watch,false
+465,Ms. Marvel S1E3: Destined,episode,Ms. Marvel,1,3,Destined,Disney+,Earth-616 (MCU),22 de jun de 2022,2022-06-22,48m,48,To watch,false
+466,Ms. Marvel S1E4: Seeing Red,episode,Ms. Marvel,1,4,Seeing Red,Disney+,Earth-616 (MCU),29 de jun de 2022,2022-06-29,48m,48,To watch,false
+467,Ms. Marvel S1E5: Time and Again,episode,Ms. Marvel,1,5,Time and Again,Disney+,Earth-616 (MCU),6 de jul de 2022,2022-07-06,41m,41,To watch,false
+468,Ms. Marvel S1E6: No Normal,episode,Ms. Marvel,1,6,No Normal,Disney+,Earth-616 (MCU),13 de jul de 2022,2022-07-13,50m,50,To watch,false
+469,Thor: Love And Thunder,movie,,,,,Marvel Studios,Earth-616 (MCU),8 de jul de 2022,2022-07-08,1h 59m,119,To watch,false
+470,Ironheart S1E1: Take Me Home,episode,Ironheart,1,1,Take Me Home,Disney+,Earth-616 (MCU),24 de jun de 2025,2025-06-24,44m,44,To watch,false
+471,Ironheart S1E2: Will the Real Natalie Please Stand Up,episode,Ironheart,1,2,Will the Real Natalie Please Stand Up,Disney+,Earth-616 (MCU),24 de jun de 2025,2025-06-24,50m,50,To watch,false
+472,"Ironheart S1E3: We in Danger, Girl",episode,Ironheart,1,3,"We in Danger, Girl",Disney+,Earth-616 (MCU),24 de jun de 2025,2025-06-24,56m,56,To watch,false
+473,Ironheart S1E4: Bad Magic,episode,Ironheart,1,4,Bad Magic,Disney+,Earth-616 (MCU),1 de jul de 2025,2025-07-01,53m,53,To watch,false
+474,Ironheart S1E5: Karma's a Glitch,episode,Ironheart,1,5,Karma's a Glitch,Disney+,Earth-616 (MCU),1 de jul de 2025,2025-07-01,59m,59,To watch,false
+475,Ironheart S1E6: The Past is the Past,episode,Ironheart,1,6,The Past is the Past,Disney+,Earth-616 (MCU),1 de jul de 2025,2025-07-01,42m,42,To watch,false
+476,Werewolf By Night,movie,,,,,Disney+,Earth-616 (MCU),7 de oct de 2022,2022-10-07,55m,55,To watch,false
+477,The Guardians of the Galaxy Holiday Special,special,,,,,Disney+,Earth-616 (MCU),25 de nov de 2022,2022-11-25,44m,44,To watch,false
+478,Ant-Man and the Wasp: Quantumania,movie,,,,,Marvel Studios,Earth-616 (MCU),17 de feb de 2023,2023-02-17,2h 5m,125,To watch,false
+479,Guardians of the Galaxy Vol. 3,movie,,,,,Marvel Studios,Earth-616 (MCU),5 de may de 2023,2023-05-05,2h 29m,149,To watch,false
+480,Daredevil: Born Again S1E1: Heaven's Half Hour,episode,Daredevil: Born Again,1,1,Heaven's Half Hour,Disney+,Earth-616 (MCU),4 de mar de 2025,2025-03-04,1h,60,To watch,false
+481,Secret Invasion S1E1: Resurrection,episode,Secret Invasion,1,1,Resurrection,Disney+,Earth-616 (MCU),21 de jun de 2023,2023-06-21,55m,55,To watch,false
+482,Secret Invasion S1E2: Promises,episode,Secret Invasion,1,2,Promises,Disney+,Earth-616 (MCU),28 de jun de 2023,2023-06-28,58m,58,To watch,false
+483,Secret Invasion S1E3: Betrayed,episode,Secret Invasion,1,3,Betrayed,Disney+,Earth-616 (MCU),5 de jul de 2023,2023-07-05,44m,44,To watch,false
+484,Secret Invasion S1E4: Beloved,episode,Secret Invasion,1,4,Beloved,Disney+,Earth-616 (MCU),12 de jul de 2023,2023-07-12,38m,38,To watch,false
+485,Secret Invasion S1E5: Harvest,episode,Secret Invasion,1,5,Harvest,Disney+,Earth-616 (MCU),19 de jul de 2023,2023-07-19,39m,39,To watch,false
+486,Secret Invasion S1E6: Home,episode,Secret Invasion,1,6,Home,Disney+,Earth-616 (MCU),26 de jul de 2023,2023-07-26,38m,38,To watch,false
+487,The Marvels,movie,,,,,Marvel Studios,Earth-616 (MCU),10 de nov de 2023,2023-11-10,1h 45m,105,To watch,false
+488,The New Mutants,movie,,,,,Fox,Earth-10005 (X-Men),28 de ago de 2020,2020-08-28,1h 34m,94,To watch,false
+489,Loki S2E1: Ouroboros,episode,Loki,2,1,Ouroboros,Disney+,Loki,5 de oct de 2023,2023-10-05,48m,48,To watch,false
+490,Loki S2E2: Breaking Brad,episode,Loki,2,2,Breaking Brad,Disney+,Loki,12 de oct de 2023,2023-10-12,52m,52,To watch,false
+491,Loki S2E3: 1893,episode,Loki,2,3,1893,Disney+,Loki,19 de oct de 2023,2023-10-19,56m,56,To watch,false
+492,Loki S2E4: Heart of the TVA,episode,Loki,2,4,Heart of the TVA,Disney+,Loki,26 de oct de 2023,2023-10-26,51m,51,To watch,false
+493,Loki S2E5: Science/Fiction,episode,Loki,2,5,Science/Fiction,Disney+,Loki,2 de nov de 2023,2023-11-02,47m,47,To watch,false
+494,Loki S2E6: Glorious Purpose,episode,Loki,2,6,Glorious Purpose,Disney+,Loki,9 de nov de 2023,2023-11-09,59m,59,To watch,false
+495,What If...? S2E1: What If... Nebula Joined the Nova Corps?,episode,What If...?,2,1,What If... Nebula Joined the Nova Corps?,Disney+,Earth-625 (Nova Corps Nebula),22 de dic de 2023,2023-12-22,31m,31,To watch,false
+496,What If...? S2E2: What If... Peter Quill Attacked Earth's Mightiest Heroes?,episode,What If...?,2,2,What If... Peter Quill Attacked Earth's Mightiest Heroes?,Disney+,Celestial Invader Ego Universe,23 de dic de 2023,2023-12-23,32m,32,To watch,false
+497,What If...? S2E3: What If... Happy Hogan Saved Christmas?,episode,What If...?,2,3,What If... Happy Hogan Saved Christmas?,Disney+,Gamma Enhanced Happy Hogan Universe,24 de dic de 2023,2023-12-24,29m,29,To watch,false
+498,What If...? S2E4: What If... Iron Man Crashed into the Grandmaster?,episode,What If...?,2,4,What If... Iron Man Crashed into the Grandmaster?,Disney+,Sakaarian Iron Man Universe,25 de dic de 2023,2023-12-25,34m,34,To watch,false
+499,What If...? S2E5: What If... Captain Carter Fought the Hydra Stomper?,episode,What If...?,2,5,What If... Captain Carter Fought the Hydra Stomper?,Disney+,Earth-82111 (Super Soldier Peggy Carter),26 de dic de 2023,2023-12-26,33m,33,To watch,false
+500,What If...? S2E6: What If... Kahhori Reshaped the World?,episode,What If...?,2,6,What If... Kahhori Reshaped the World?,Disney+,Earth-43166 (Tesseract Powered Kahhori),27 de dic de 2023,2023-12-27,34m,34,To watch,false
+501,What If...? S2E7: What If... Hela Found the Ten Rings?,episode,What If...?,2,7,What If... Hela Found the Ten Rings?,Disney+,Merciful Hela Universe,28 de dic de 2023,2023-12-28,31m,31,To watch,false
+502,What If...? S2E8: What If... The Avengers Assembled in 1602?,episode,What If...?,2,8,What If... The Avengers Assembled in 1602?,Disney+,Forerunner Steve Rogers Universe,29 de dic de 2023,2023-12-29,32m,32,To watch,false
+503,What If...? S2E9: What If... Strange Supreme Intervened?,episode,What If...?,2,9,What If... Strange Supreme Intervened?,Disney+,Reforged Universe,30 de dic de 2023,2023-12-30,33m,33,To watch,false
+504,Deadpool & Wolverine,movie,,,,,Marvel Studios,Earth-616 (MCU),26 de jul de 2024,2024-07-26,2h 7m,127,To watch,false
+505,Agatha All Along S1E1: Seekest Thou the Road,episode,Agatha All Along,1,1,Seekest Thou the Road,Disney+,Earth-616 (MCU),18 de sept de 2024,2024-09-18,42m,42,To watch,false
+506,Agatha All Along S1E2: Circle Sewn With Fate / Unlock Thy Hidden Gate,episode,Agatha All Along,1,2,Circle Sewn With Fate / Unlock Thy Hidden Gate,Disney+,Earth-616 (MCU),18 de sept de 2024,2024-09-18,44m,44,To watch,false
+507,Agatha All Along S1E3: Through Many Miles / Of Tricks and Trials,episode,Agatha All Along,1,3,Through Many Miles / Of Tricks and Trials,Disney+,Earth-616 (MCU),25 de sept de 2024,2024-09-25,39m,39,To watch,false
+508,Agatha All Along S1E4: If I Can't Reach You / Let My Song Teach You,episode,Agatha All Along,1,4,If I Can't Reach You / Let My Song Teach You,Disney+,Earth-616 (MCU),2 de oct de 2024,2024-10-02,44m,44,To watch,false
+509,Agatha All Along S1E5: Darkest Hour / Wake Thy Power,episode,Agatha All Along,1,5,Darkest Hour / Wake Thy Power,Disney+,Earth-616 (MCU),9 de oct de 2024,2024-10-09,32m,32,To watch,false
+510,Agatha All Along S1E6: Familiar by Thy Side,episode,Agatha All Along,1,6,Familiar by Thy Side,Disney+,Earth-616 (MCU),16 de oct de 2024,2024-10-16,50m,50,To watch,false
+511,Agatha All Along S1E7: Death's Hand in Mine,episode,Agatha All Along,1,7,Death's Hand in Mine,Disney+,Earth-616 (MCU),23 de oct de 2024,2024-10-23,37m,37,To watch,false
+512,Agatha All Along S1E8: Follow Me My Friend / To Glory at the End,episode,Agatha All Along,1,8,Follow Me My Friend / To Glory at the End,Disney+,Earth-616 (MCU),30 de oct de 2024,2024-10-30,49m,49,To watch,false
+513,Agatha All Along S1E9: Maiden Mother Crone,episode,Agatha All Along,1,9,Maiden Mother Crone,Disney+,Earth-616 (MCU),30 de oct de 2024,2024-10-30,42m,42,To watch,false
+514,What If...? S3E1: The Hulk Fought the Mech Avengers?,episode,What If...?,3,1,The Hulk Fought the Mech Avengers?,Disney+,Invading Gamma Beasts Universe,22 de dic de 2024,2024-12-22,31m,31,To watch,false
+515,What If...? S3E2: Agatha Went to Hollywood?,episode,What If...?,3,2,Agatha Went to Hollywood?,Disney+,Cosmic Queen Agatha Harkness Universe,23 de dic de 2024,2024-12-23,30m,30,To watch,false
+516,What If...? S3E3: The Red Guardian Stopped the Winter Soldier?,episode,What If...?,3,3,The Red Guardian Stopped the Winter Soldier?,Disney+,Stark Assassination Prevented Universe,24 de dic de 2024,2024-12-24,33m,33,To watch,false
+517,What If...? S3E4: Howard the Duck Got Hitched?,episode,What If...?,3,4,Howard the Duck Got Hitched?,Disney+,Earth-72124 (Party Prince Thor),25 de dic de 2024,2024-12-25,33m,33,To watch,false
+518,What If...? S3E5: The Emergence Destroyed the Earth?,episode,What If...?,3,5,The Emergence Destroyed the Earth?,Disney+,Emergence Destroyed Earth Universe,26 de dic de 2024,2024-12-26,33m,33,To watch,false
+519,What If...? S3E6: 1872?,episode,What If...?,3,6,1872?,Disney+,Wild West Heroes Universe,27 de dic de 2024,2024-12-27,32m,32,To watch,false
+520,What If...? S3E7: The Watcher Disappeared?,episode,What If...?,3,7,The Watcher Disappeared?,Disney+,Reflective Infinity Ultron Universe,28 de dic de 2024,2024-12-28,28m,28,To watch,false
+521,What If...? S3E8: What If?,episode,What If...?,3,8,What If?,Disney+,Reforged Universe,29 de dic de 2024,2024-12-29,34m,34,To watch,false
+522,Daredevil: Born Again S1E2: Optics,episode,Daredevil: Born Again,1,2,Optics,Disney+,Earth-616 (MCU),4 de mar de 2025,2025-03-04,49m,49,To watch,false
+523,Daredevil: Born Again S1E3: The Hollow of His Hand,episode,Daredevil: Born Again,1,3,The Hollow of His Hand,Disney+,Earth-616 (MCU),11 de mar de 2025,2025-03-11,47m,47,To watch,false
+524,Daredevil: Born Again S1E4: Sic Semper Systema,episode,Daredevil: Born Again,1,4,Sic Semper Systema,Disney+,Earth-616 (MCU),18 de mar de 2025,2025-03-18,55m,55,To watch,false
+525,Daredevil: Born Again S1E5: With Interest,episode,Daredevil: Born Again,1,5,With Interest,Disney+,Earth-616 (MCU),25 de mar de 2025,2025-03-25,42m,42,To watch,false
+526,Daredevil: Born Again S1E6: Excessive Force,episode,Daredevil: Born Again,1,6,Excessive Force,Disney+,Earth-616 (MCU),25 de mar de 2025,2025-03-25,45m,45,To watch,false
+527,Daredevil: Born Again S1E7: Art for Art's Sake,episode,Daredevil: Born Again,1,7,Art for Art's Sake,Disney+,Earth-616 (MCU),1 de abr de 2025,2025-04-01,43m,43,To watch,false
+528,Daredevil: Born Again S1E8: Isle of Joy,episode,Daredevil: Born Again,1,8,Isle of Joy,Disney+,Earth-616 (MCU),8 de abr de 2025,2025-04-08,52m,52,To watch,false
+529,Daredevil: Born Again S1E9: Straight to Hell,episode,Daredevil: Born Again,1,9,Straight to Hell,Disney+,Earth-616 (MCU),15 de abr de 2025,2025-04-15,1h,60,To watch,false
+530,Captain America: Brave New World,movie,,,,,Marvel Studios,Earth-616 (MCU),14 de feb de 2025,2025-02-14,1h 58m,118,To watch,false
+531,Thunderbolts*,movie,,,,,Marvel Studios,Earth-616 (MCU),2 de may de 2025,2025-05-02,2h 6m,126,To watch,false
+532,The Fantastic Four: First Steps,movie,,,,,Marvel Studios,Earth-828 (Fantastic Four: First Steps),25 de jul de 2025,2025-07-25,1h 55m,115,To watch,false
+533,Daredevil: Born Again S2E1: The Northern Star,episode,Daredevil: Born Again,2,1,The Northern Star,Disney+,Earth-616 (MCU),24 de mar de 2026,2026-03-24,54m,54,To watch,false
+534,Daredevil: Born Again S2E2: Shoot The Moon,episode,Daredevil: Born Again,2,2,Shoot The Moon,Disney+,Earth-616 (MCU),31 de mar de 2026,2026-03-31,49m,49,To watch,false
+535,Daredevil: Born Again S2E3: The Scales & the Sword,episode,Daredevil: Born Again,2,3,The Scales & the Sword,Disney+,Earth-616 (MCU),31 de mar de 2026,2026-03-31,50m,50,To watch,false
+536,Daredevil: Born Again S2E4: Gloves off,episode,Daredevil: Born Again,2,4,Gloves off,Disney+,Earth-616 (MCU),7 de abr de 2026,2026-04-07,54m,54,To watch,false
+537,Daredevil: Born Again S2E5: The Grand Design,episode,Daredevil: Born Again,2,5,The Grand Design,Disney+,Earth-616 (MCU),14 de abr de 2026,2026-04-14,53m,53,To watch,false
+538,Daredevil: Born Again S2E6: Requiem,episode,Daredevil: Born Again,2,6,Requiem,Disney+,Earth-616 (MCU),21 de abr de 2026,2026-04-21,52m,52,To watch,false
+539,Daredevil: Born Again S2E7: The Hateful Darkness,episode,Daredevil: Born Again,2,7,The Hateful Darkness,Disney+,Earth-616 (MCU),28 de abr de 2026,2026-04-28,48m,48,To watch,false
+540,Daredevil: Born Again S2E8: The Southern Cross,episode,Daredevil: Born Again,2,8,The Southern Cross,Disney+,Earth-616 (MCU),5 de may de 2026,2026-05-05,51m,51,To watch,false
+541,Wonder Man S1E1: Matinee,episode,Wonder Man,1,1,Matinee,Disney+,Earth-616 (MCU),27 de ene de 2026,2026-01-27,35m,35,To watch,false
+542,Wonder Man S1E2: Self-Tape,episode,Wonder Man,1,2,Self-Tape,Disney+,Earth-616 (MCU),27 de ene de 2026,2026-01-27,34m,34,To watch,false
+543,Wonder Man S1E3: Pacoima,episode,Wonder Man,1,3,Pacoima,Disney+,Earth-616 (MCU),27 de ene de 2026,2026-01-27,34m,34,To watch,false
+544,Wonder Man S1E4: Doorman,episode,Wonder Man,1,4,Doorman,Disney+,Earth-616 (MCU),27 de ene de 2026,2026-01-27,32m,32,To watch,false
+545,Wonder Man S1E5: Found Footage,episode,Wonder Man,1,5,Found Footage,Disney+,Earth-616 (MCU),27 de ene de 2026,2026-01-27,26m,26,To watch,false
+546,Wonder Man S1E6: Call Back,episode,Wonder Man,1,6,Call Back,Disney+,Earth-616 (MCU),27 de ene de 2026,2026-01-27,36m,36,To watch,false
+547,Wonder Man S1E7: Kathy Friedman,episode,Wonder Man,1,7,Kathy Friedman,Disney+,Earth-616 (MCU),27 de ene de 2026,2026-01-27,35m,35,To watch,false
+548,Wonder Man S1E8: Yucca Valley,episode,Wonder Man,1,8,Yucca Valley,Disney+,Earth-616 (MCU),27 de ene de 2026,2026-01-27,35m,35,To watch,false
+549,The Punisher: One Last Kill,movie,,,,,Disney+,Earth-616 (MCU),12 de may de 2026,2026-05-12,51m,51,To watch,false
+550,VisionQuest S1E1: No Strings,episode,VisionQuest,1,1,No Strings,Disney+,Earth-616 (MCU),13 de oct de 2026,2026-10-13,56m,56,To watch,false
+551,VisionQuest S1E2: Theseus,episode,VisionQuest,1,2,Theseus,Disney+,Earth-616 (MCU),13 de oct de 2026,2026-10-13,48m,48,To watch,false
+552,VisionQuest S1E3: Reboot,episode,VisionQuest,1,3,Reboot,Disney+,Earth-616 (MCU),20 de oct de 2026,2026-10-20,54m,54,To watch,false
+553,VisionQuest S1E4: Malware,episode,VisionQuest,1,4,Malware,Disney+,Earth-616 (MCU),20 de oct de 2026,2026-10-20,51m,51,To watch,false
+554,VisionQuest S1E5: Firewall,episode,VisionQuest,1,5,Firewall,Disney+,Earth-616 (MCU),27 de oct de 2026,2026-10-27,48m,48,To watch,false
+555,VisionQuest S1E6: Deadlock,episode,VisionQuest,1,6,Deadlock,Disney+,Earth-616 (MCU),27 de oct de 2026,2026-10-27,57m,57,To watch,false
+556,Spider-Man: Brand New Day,movie,,,,,Marvel Studios,Earth-616 (MCU),31 de jul de 2026,2026-07-31,2h 25m,145,To watch,false
