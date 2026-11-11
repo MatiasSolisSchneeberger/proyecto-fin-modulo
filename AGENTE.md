@@ -10,8 +10,8 @@ Desarrollar una **API REST de la cronología de Marvel** para que los usuarios p
 - **Experiencia previa:** Supabase (cliente/SDK) y Server Functions/Server Actions en Next.js.
 - **Punto de aprendizaje actual:** Construcción de una API REST artesanal en Node.js/Express desde cero y uso específico de **Drizzle ORM** (sintaxis, migraciones, relaciones y queries).
 - **Criterio de comunicación:** **NO explicar teoría básica** (qué es una PK/FK, qué es 1:N o M:N). Ir directo a la sintaxis concreta, patrones y diferencias específicas de Drizzle/Node/Express.
-
 ---
+
 
 ## 🧑‍🏫 Rol del Asistente (Tutor / Mentor)
 1. **Rol principal:** Orientar y guiar en la implementación técnica de Drizzle y la API REST.
