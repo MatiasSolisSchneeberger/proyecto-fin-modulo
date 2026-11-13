@@ -1,41 +1,52 @@
+import { sql } from "drizzle-orm";
 import {
+	index,
 	integer,
-	pgEnum,
 	pgTable,
+	primaryKey,
 	timestamp,
-	unique,
+	uniqueIndex,
 	uuid,
 	varchar,
 } from "drizzle-orm/pg-core";
-import { media } from "./media.js";
+import { userRole, watchStatus } from "./enums.js";
+import { timelineItems } from "./timeline.js";
 
-// listas
-export const watchStatus = pgEnum("watch_status", ["watched", "skipped"]);
-export const userRole = pgEnum("user_role", ["user", "admin"]);
+export const users = pgTable(
+	"users",
+	{
+		id: uuid("id").defaultRandom().primaryKey(),
+		username: varchar("username", { length: 50 }).notNull().unique(),
+		email: varchar("email", { length: 255 }).notNull(),
+		role: userRole("role").notNull().default("user"),
+		password: varchar("password", { length: 255 }).notNull(),
+		createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
+		updatedAt: timestamp("updated_at", { withTimezone: true })
+			.notNull()
+			.defaultNow()
+			.$onUpdate(() => new Date()),
+	},
+	(table) => [
+		// email único sin distinguir mayúsculas
+		uniqueIndex("uq_users_email_lower").on(sql`lower(${table.email})`),
+	],
+);
 
-// tablas
-export const users = pgTable("users", {
-	id: uuid("id").defaultRandom().primaryKey(),
-	username: varchar("username", { length: 50 }).notNull().unique(),
-	email: varchar("email", { length: 255 }).notNull().unique(),
-	role: userRole("role").notNull().default("user"),
-	password: varchar("password", { length: 255 }).notNull(),
-	createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
-	updatedAt: timestamp("updated_at", { withTimezone: true }).notNull().defaultNow(),
-});
-
+// La ausencia de fila = pendiente.
 export const userWatchProgress = pgTable(
 	"user_watch_progress",
 	{
-		id: uuid("id").defaultRandom().primaryKey(),
 		userId: uuid("user_id")
 			.notNull()
 			.references(() => users.id, { onDelete: "cascade" }),
-		mediaId: integer("media_id")
+		itemId: integer("item_id")
 			.notNull()
-			.references(() => media.id, { onDelete: "cascade" }),
+			.references(() => timelineItems.id, { onDelete: "cascade" }),
 		status: watchStatus("status").notNull().default("watched"),
-		createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
+		watchedAt: timestamp("watched_at", { withTimezone: true }).notNull().defaultNow(),
 	},
-	(table) => [unique().on(table.userId, table.mediaId)],
+	(table) => [
+		primaryKey({ columns: [table.userId, table.itemId] }),
+		index("idx_progress_item").on(table.itemId),
+	],
 );
