@@ -1,0 +1,3401 @@
+{
+  "type": "base",
+  "version": "9",
+  "dialect": "postgres",
+  "id": "7552012b-a2ec-4314-ab28-05642b947804",
+  "prevIds": [
+    "00000000-0000-0000-0000-000000000000"
+  ],
+  "footprints": [
+    {
+      "statementType": "create_enum",
+      "statementTarget": [
+        "enum",
+        "public",
+        "item_segment"
+      ],
+      "writes": [
+        "s|enum|public.item_segment",
+        "n|enum|public.item_segment",
+        "e|enum|public.item_segment",
+        "n|type|public.item_segment"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_enum",
+      "statementTarget": [
+        "enum",
+        "public",
+        "title_kind"
+      ],
+      "writes": [
+        "s|enum|public.title_kind",
+        "n|enum|public.title_kind",
+        "e|enum|public.title_kind",
+        "n|type|public.title_kind"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_enum",
+      "statementTarget": [
+        "enum",
+        "public",
+        "user_role"
+      ],
+      "writes": [
+        "s|enum|public.user_role",
+        "n|enum|public.user_role",
+        "e|enum|public.user_role",
+        "n|type|public.user_role"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_enum",
+      "statementTarget": [
+        "enum",
+        "public",
+        "watch_status"
+      ],
+      "writes": [
+        "s|enum|public.watch_status",
+        "n|enum|public.watch_status",
+        "e|enum|public.watch_status",
+        "n|type|public.watch_status"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "platforms"
+      ],
+      "writes": [
+        "s|tbl|public.platforms",
+        "n|tbl|public.platforms",
+        "e|tbl|public.platforms",
+        "n|rel|public.platforms",
+        "n|type|public.platforms",
+        "n|rel|public.platforms_pkey",
+        "n|rel|public.platforms_name_key"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "production_studios"
+      ],
+      "writes": [
+        "s|tbl|public.production_studios",
+        "n|tbl|public.production_studios",
+        "e|tbl|public.production_studios",
+        "n|rel|public.production_studios",
+        "n|type|public.production_studios",
+        "n|rel|public.production_studios_pkey",
+        "n|rel|public.production_studios_name_key"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "tag_categories"
+      ],
+      "writes": [
+        "s|tbl|public.tag_categories",
+        "n|tbl|public.tag_categories",
+        "e|tbl|public.tag_categories",
+        "n|rel|public.tag_categories",
+        "n|type|public.tag_categories",
+        "n|rel|public.tag_categories_pkey",
+        "n|rel|public.tag_categories_name_key"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "tags"
+      ],
+      "writes": [
+        "s|tbl|public.tags",
+        "n|tbl|public.tags",
+        "e|tbl|public.tags",
+        "n|rel|public.tags",
+        "n|type|public.tags",
+        "n|rel|public.tags_pkey",
+        "n|rel|public.tags_slug_key"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "universes"
+      ],
+      "writes": [
+        "s|tbl|public.universes",
+        "n|tbl|public.universes",
+        "e|tbl|public.universes",
+        "n|rel|public.universes",
+        "n|type|public.universes",
+        "n|rel|public.universes_pkey",
+        "n|rel|public.universes_code_key"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "episodes"
+      ],
+      "writes": [
+        "s|tbl|public.episodes",
+        "n|tbl|public.episodes",
+        "e|tbl|public.episodes",
+        "n|rel|public.episodes",
+        "n|type|public.episodes",
+        "n|rel|public.episodes_pkey",
+        "n|rel|public.uq_episodes_series_season_number"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "title_editions"
+      ],
+      "writes": [
+        "s|tbl|public.title_editions",
+        "n|tbl|public.title_editions",
+        "e|tbl|public.title_editions",
+        "n|rel|public.title_editions",
+        "n|type|public.title_editions",
+        "n|rel|public.title_editions_pkey",
+        "n|rel|public.uq_editions_title_slug"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "title_platforms"
+      ],
+      "writes": [
+        "s|tbl|public.title_platforms",
+        "n|tbl|public.title_platforms",
+        "e|tbl|public.title_platforms",
+        "n|rel|public.title_platforms",
+        "n|type|public.title_platforms",
+        "n|rel|public.title_platforms_pkey"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "title_production_studios"
+      ],
+      "writes": [
+        "s|tbl|public.title_production_studios",
+        "n|tbl|public.title_production_studios",
+        "e|tbl|public.title_production_studios",
+        "n|rel|public.title_production_studios",
+        "n|type|public.title_production_studios",
+        "n|rel|public.title_production_studios_pkey"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "title_tags"
+      ],
+      "writes": [
+        "s|tbl|public.title_tags",
+        "n|tbl|public.title_tags",
+        "e|tbl|public.title_tags",
+        "n|rel|public.title_tags",
+        "n|type|public.title_tags",
+        "n|rel|public.title_tags_pkey"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "titles"
+      ],
+      "writes": [
+        "s|tbl|public.titles",
+        "n|tbl|public.titles",
+        "e|tbl|public.titles",
+        "n|rel|public.titles",
+        "n|type|public.titles",
+        "n|rel|public.titles_pkey",
+        "n|rel|public.titles_slug_key"
+      ],
+      "reads": [
+        "n|sch|public",
+        "n|enum|public.title_kind"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "timeline_entries"
+      ],
+      "writes": [
+        "s|tbl|public.timeline_entries",
+        "n|tbl|public.timeline_entries",
+        "e|tbl|public.timeline_entries",
+        "n|rel|public.timeline_entries",
+        "n|type|public.timeline_entries",
+        "n|rel|public.timeline_entries_pkey"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "timeline_item_notes"
+      ],
+      "writes": [
+        "s|tbl|public.timeline_item_notes",
+        "n|tbl|public.timeline_item_notes",
+        "e|tbl|public.timeline_item_notes",
+        "n|rel|public.timeline_item_notes",
+        "n|type|public.timeline_item_notes",
+        "n|rel|public.timeline_item_notes_pkey"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "timeline_items"
+      ],
+      "writes": [
+        "s|tbl|public.timeline_items",
+        "n|tbl|public.timeline_items",
+        "e|tbl|public.timeline_items",
+        "n|rel|public.timeline_items",
+        "n|type|public.timeline_items",
+        "n|rel|public.timeline_items_pkey",
+        "n|rel|public.timeline_items_episode_id_key"
+      ],
+      "reads": [
+        "n|sch|public",
+        "n|enum|public.item_segment"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "timelines"
+      ],
+      "writes": [
+        "s|tbl|public.timelines",
+        "n|tbl|public.timelines",
+        "e|tbl|public.timelines",
+        "n|rel|public.timelines",
+        "n|type|public.timelines",
+        "n|rel|public.timelines_pkey",
+        "n|rel|public.timelines_slug_key"
+      ],
+      "reads": [
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "user_watch_progress"
+      ],
+      "writes": [
+        "s|tbl|public.user_watch_progress",
+        "n|tbl|public.user_watch_progress",
+        "e|tbl|public.user_watch_progress",
+        "n|rel|public.user_watch_progress",
+        "n|type|public.user_watch_progress",
+        "n|rel|public.user_watch_progress_pkey"
+      ],
+      "reads": [
+        "n|sch|public",
+        "n|enum|public.watch_status"
+      ]
+    },
+    {
+      "statementType": "create_table",
+      "statementTarget": [
+        "table",
+        "public",
+        "users"
+      ],
+      "writes": [
+        "s|tbl|public.users",
+        "n|tbl|public.users",
+        "e|tbl|public.users",
+        "n|rel|public.users",
+        "n|type|public.users",
+        "n|rel|public.users_pkey",
+        "n|rel|public.users_username_key"
+      ],
+      "reads": [
+        "n|sch|public",
+        "n|enum|public.user_role"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "tags",
+        "idx_tags_category"
+      ],
+      "writes": [
+        "s|idx|public.idx_tags_category",
+        "n|idx|public.idx_tags_category",
+        "e|idx|public.idx_tags_category",
+        "n|rel|public.idx_tags_category"
+      ],
+      "reads": [
+        "n|tbl|public.tags",
+        "n|sch|public",
+        "n|col|public.tags.category_id"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "title_platforms",
+        "idx_title_platforms_platform"
+      ],
+      "writes": [
+        "s|idx|public.idx_title_platforms_platform",
+        "n|idx|public.idx_title_platforms_platform",
+        "e|idx|public.idx_title_platforms_platform",
+        "n|rel|public.idx_title_platforms_platform"
+      ],
+      "reads": [
+        "n|tbl|public.title_platforms",
+        "n|sch|public",
+        "n|col|public.title_platforms.platform_id"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "title_production_studios",
+        "idx_title_studios_studio"
+      ],
+      "writes": [
+        "s|idx|public.idx_title_studios_studio",
+        "n|idx|public.idx_title_studios_studio",
+        "e|idx|public.idx_title_studios_studio",
+        "n|rel|public.idx_title_studios_studio"
+      ],
+      "reads": [
+        "n|tbl|public.title_production_studios",
+        "n|sch|public",
+        "n|col|public.title_production_studios.studio_id"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "title_tags",
+        "idx_title_tags_tag"
+      ],
+      "writes": [
+        "s|idx|public.idx_title_tags_tag",
+        "n|idx|public.idx_title_tags_tag",
+        "e|idx|public.idx_title_tags_tag",
+        "n|rel|public.idx_title_tags_tag"
+      ],
+      "reads": [
+        "n|tbl|public.title_tags",
+        "n|sch|public",
+        "n|col|public.title_tags.tag_id"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "titles",
+        "idx_titles_release_date"
+      ],
+      "writes": [
+        "s|idx|public.idx_titles_release_date",
+        "n|idx|public.idx_titles_release_date",
+        "e|idx|public.idx_titles_release_date",
+        "n|rel|public.idx_titles_release_date"
+      ],
+      "reads": [
+        "n|tbl|public.titles",
+        "n|sch|public",
+        "n|col|public.titles.release_date"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "titles",
+        "idx_titles_title"
+      ],
+      "writes": [
+        "s|idx|public.idx_titles_title",
+        "n|idx|public.idx_titles_title",
+        "e|idx|public.idx_titles_title",
+        "n|rel|public.idx_titles_title"
+      ],
+      "reads": [
+        "n|tbl|public.titles",
+        "n|sch|public",
+        "n|col|public.titles.title"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "titles",
+        "idx_titles_kind"
+      ],
+      "writes": [
+        "s|idx|public.idx_titles_kind",
+        "n|idx|public.idx_titles_kind",
+        "e|idx|public.idx_titles_kind",
+        "n|rel|public.idx_titles_kind"
+      ],
+      "reads": [
+        "n|tbl|public.titles",
+        "n|sch|public",
+        "n|col|public.titles.kind"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "timeline_entries",
+        "uq_entries_timeline_order"
+      ],
+      "writes": [
+        "s|idx|public.uq_entries_timeline_order",
+        "n|idx|public.uq_entries_timeline_order",
+        "e|idx|public.uq_entries_timeline_order",
+        "n|rel|public.uq_entries_timeline_order"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_entries",
+        "n|sch|public",
+        "n|col|public.timeline_entries.timeline_id",
+        "n|col|public.timeline_entries.order_key"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "timeline_entries",
+        "idx_entries_item"
+      ],
+      "writes": [
+        "s|idx|public.idx_entries_item",
+        "n|idx|public.idx_entries_item",
+        "e|idx|public.idx_entries_item",
+        "n|rel|public.idx_entries_item"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_entries",
+        "n|sch|public",
+        "n|col|public.timeline_entries.item_id"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "timeline_item_notes",
+        "idx_notes_item"
+      ],
+      "writes": [
+        "s|idx|public.idx_notes_item",
+        "n|idx|public.idx_notes_item",
+        "e|idx|public.idx_notes_item",
+        "n|rel|public.idx_notes_item"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_item_notes",
+        "n|sch|public",
+        "n|col|public.timeline_item_notes.item_id"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "timeline_items",
+        "idx_items_title"
+      ],
+      "writes": [
+        "s|idx|public.idx_items_title",
+        "n|idx|public.idx_items_title",
+        "e|idx|public.idx_items_title",
+        "n|rel|public.idx_items_title"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_items",
+        "n|sch|public",
+        "n|col|public.timeline_items.title_id"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "timeline_items",
+        "idx_items_universe"
+      ],
+      "writes": [
+        "s|idx|public.idx_items_universe",
+        "n|idx|public.idx_items_universe",
+        "e|idx|public.idx_items_universe",
+        "n|rel|public.idx_items_universe"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_items",
+        "n|sch|public",
+        "n|col|public.timeline_items.universe_id"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "timeline_items",
+        "idx_items_edition"
+      ],
+      "writes": [
+        "s|idx|public.idx_items_edition",
+        "n|idx|public.idx_items_edition",
+        "e|idx|public.idx_items_edition",
+        "n|rel|public.idx_items_edition"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_items",
+        "n|sch|public",
+        "n|col|public.timeline_items.edition_id"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "timeline_items",
+        "idx_items_segment"
+      ],
+      "writes": [
+        "s|idx|public.idx_items_segment",
+        "n|idx|public.idx_items_segment",
+        "e|idx|public.idx_items_segment",
+        "n|rel|public.idx_items_segment"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_items",
+        "n|sch|public",
+        "n|col|public.timeline_items.segment"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "timeline_items",
+        "uq_items_title_main"
+      ],
+      "writes": [
+        "s|idx|public.uq_items_title_main",
+        "n|idx|public.uq_items_title_main",
+        "e|idx|public.uq_items_title_main",
+        "n|rel|public.uq_items_title_main"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_items",
+        "n|sch|public",
+        "n|col|public.timeline_items.title_id",
+        "n|col|public.timeline_items.segment"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "timelines",
+        "uq_timelines_default"
+      ],
+      "writes": [
+        "s|idx|public.uq_timelines_default",
+        "n|idx|public.uq_timelines_default",
+        "e|idx|public.uq_timelines_default",
+        "n|rel|public.uq_timelines_default"
+      ],
+      "reads": [
+        "n|tbl|public.timelines",
+        "n|sch|public",
+        "n|col|public.timelines.is_default"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "user_watch_progress",
+        "idx_progress_item"
+      ],
+      "writes": [
+        "s|idx|public.idx_progress_item",
+        "n|idx|public.idx_progress_item",
+        "e|idx|public.idx_progress_item",
+        "n|rel|public.idx_progress_item"
+      ],
+      "reads": [
+        "n|tbl|public.user_watch_progress",
+        "n|sch|public",
+        "n|col|public.user_watch_progress.item_id"
+      ]
+    },
+    {
+      "statementType": "create_index",
+      "statementTarget": [
+        "index",
+        "public",
+        "users",
+        "uq_users_email_lower"
+      ],
+      "writes": [
+        "s|idx|public.uq_users_email_lower",
+        "n|idx|public.uq_users_email_lower",
+        "e|idx|public.uq_users_email_lower",
+        "n|rel|public.uq_users_email_lower"
+      ],
+      "reads": [
+        "n|tbl|public.users",
+        "n|sch|public"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "tags"
+      ],
+      "writes": [
+        "s|fk|public.tags.tags_category_id_tag_categories_id_fkey",
+        "n|fk|public.tags.tags_category_id_tag_categories_id_fkey",
+        "e|fk|public.tags.tags_category_id_tag_categories_id_fkey",
+        "n|con|public.tags.tags_category_id_tag_categories_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.tags",
+        "n|sch|public",
+        "n|tbl|public.tag_categories",
+        "n|sch|public",
+        "n|col|public.tags.category_id",
+        "n|col|public.tag_categories.id",
+        "e|uniqueness|public.tag_categories.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "episodes"
+      ],
+      "writes": [
+        "s|fk|public.episodes.episodes_series_id_titles_id_fkey",
+        "n|fk|public.episodes.episodes_series_id_titles_id_fkey",
+        "e|fk|public.episodes.episodes_series_id_titles_id_fkey",
+        "n|con|public.episodes.episodes_series_id_titles_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.episodes",
+        "n|sch|public",
+        "n|tbl|public.titles",
+        "n|sch|public",
+        "n|col|public.episodes.series_id",
+        "n|col|public.titles.id",
+        "e|uniqueness|public.titles.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "title_editions"
+      ],
+      "writes": [
+        "s|fk|public.title_editions.title_editions_title_id_titles_id_fkey",
+        "n|fk|public.title_editions.title_editions_title_id_titles_id_fkey",
+        "e|fk|public.title_editions.title_editions_title_id_titles_id_fkey",
+        "n|con|public.title_editions.title_editions_title_id_titles_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.title_editions",
+        "n|sch|public",
+        "n|tbl|public.titles",
+        "n|sch|public",
+        "n|col|public.title_editions.title_id",
+        "n|col|public.titles.id",
+        "e|uniqueness|public.titles.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "title_platforms"
+      ],
+      "writes": [
+        "s|fk|public.title_platforms.title_platforms_title_id_titles_id_fkey",
+        "n|fk|public.title_platforms.title_platforms_title_id_titles_id_fkey",
+        "e|fk|public.title_platforms.title_platforms_title_id_titles_id_fkey",
+        "n|con|public.title_platforms.title_platforms_title_id_titles_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.title_platforms",
+        "n|sch|public",
+        "n|tbl|public.titles",
+        "n|sch|public",
+        "n|col|public.title_platforms.title_id",
+        "n|col|public.titles.id",
+        "e|uniqueness|public.titles.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "title_platforms"
+      ],
+      "writes": [
+        "s|fk|public.title_platforms.title_platforms_platform_id_platforms_id_fkey",
+        "n|fk|public.title_platforms.title_platforms_platform_id_platforms_id_fkey",
+        "e|fk|public.title_platforms.title_platforms_platform_id_platforms_id_fkey",
+        "n|con|public.title_platforms.title_platforms_platform_id_platforms_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.title_platforms",
+        "n|sch|public",
+        "n|tbl|public.platforms",
+        "n|sch|public",
+        "n|col|public.title_platforms.platform_id",
+        "n|col|public.platforms.id",
+        "e|uniqueness|public.platforms.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "title_production_studios"
+      ],
+      "writes": [
+        "s|fk|public.title_production_studios.title_production_studios_title_id_titles_id_fkey",
+        "n|fk|public.title_production_studios.title_production_studios_title_id_titles_id_fkey",
+        "e|fk|public.title_production_studios.title_production_studios_title_id_titles_id_fkey",
+        "n|con|public.title_production_studios.title_production_studios_title_id_titles_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.title_production_studios",
+        "n|sch|public",
+        "n|tbl|public.titles",
+        "n|sch|public",
+        "n|col|public.title_production_studios.title_id",
+        "n|col|public.titles.id",
+        "e|uniqueness|public.titles.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "title_production_studios"
+      ],
+      "writes": [
+        "s|fk|public.title_production_studios.title_production_studios_studio_id_production_studios_id_fkey",
+        "n|fk|public.title_production_studios.title_production_studios_studio_id_production_studios_id_fkey",
+        "e|fk|public.title_production_studios.title_production_studios_studio_id_production_studios_id_fkey",
+        "n|con|public.title_production_studios.title_production_studios_studio_id_production_studios_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.title_production_studios",
+        "n|sch|public",
+        "n|tbl|public.production_studios",
+        "n|sch|public",
+        "n|col|public.title_production_studios.studio_id",
+        "n|col|public.production_studios.id",
+        "e|uniqueness|public.production_studios.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "title_tags"
+      ],
+      "writes": [
+        "s|fk|public.title_tags.title_tags_title_id_titles_id_fkey",
+        "n|fk|public.title_tags.title_tags_title_id_titles_id_fkey",
+        "e|fk|public.title_tags.title_tags_title_id_titles_id_fkey",
+        "n|con|public.title_tags.title_tags_title_id_titles_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.title_tags",
+        "n|sch|public",
+        "n|tbl|public.titles",
+        "n|sch|public",
+        "n|col|public.title_tags.title_id",
+        "n|col|public.titles.id",
+        "e|uniqueness|public.titles.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "title_tags"
+      ],
+      "writes": [
+        "s|fk|public.title_tags.title_tags_tag_id_tags_id_fkey",
+        "n|fk|public.title_tags.title_tags_tag_id_tags_id_fkey",
+        "e|fk|public.title_tags.title_tags_tag_id_tags_id_fkey",
+        "n|con|public.title_tags.title_tags_tag_id_tags_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.title_tags",
+        "n|sch|public",
+        "n|tbl|public.tags",
+        "n|sch|public",
+        "n|col|public.title_tags.tag_id",
+        "n|col|public.tags.id",
+        "e|uniqueness|public.tags.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "timeline_entries"
+      ],
+      "writes": [
+        "s|fk|public.timeline_entries.timeline_entries_timeline_id_timelines_id_fkey",
+        "n|fk|public.timeline_entries.timeline_entries_timeline_id_timelines_id_fkey",
+        "e|fk|public.timeline_entries.timeline_entries_timeline_id_timelines_id_fkey",
+        "n|con|public.timeline_entries.timeline_entries_timeline_id_timelines_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_entries",
+        "n|sch|public",
+        "n|tbl|public.timelines",
+        "n|sch|public",
+        "n|col|public.timeline_entries.timeline_id",
+        "n|col|public.timelines.id",
+        "e|uniqueness|public.timelines.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "timeline_entries"
+      ],
+      "writes": [
+        "s|fk|public.timeline_entries.timeline_entries_item_id_timeline_items_id_fkey",
+        "n|fk|public.timeline_entries.timeline_entries_item_id_timeline_items_id_fkey",
+        "e|fk|public.timeline_entries.timeline_entries_item_id_timeline_items_id_fkey",
+        "n|con|public.timeline_entries.timeline_entries_item_id_timeline_items_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_entries",
+        "n|sch|public",
+        "n|tbl|public.timeline_items",
+        "n|sch|public",
+        "n|col|public.timeline_entries.item_id",
+        "n|col|public.timeline_items.id",
+        "e|uniqueness|public.timeline_items.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "timeline_item_notes"
+      ],
+      "writes": [
+        "s|fk|public.timeline_item_notes.timeline_item_notes_item_id_timeline_items_id_fkey",
+        "n|fk|public.timeline_item_notes.timeline_item_notes_item_id_timeline_items_id_fkey",
+        "e|fk|public.timeline_item_notes.timeline_item_notes_item_id_timeline_items_id_fkey",
+        "n|con|public.timeline_item_notes.timeline_item_notes_item_id_timeline_items_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_item_notes",
+        "n|sch|public",
+        "n|tbl|public.timeline_items",
+        "n|sch|public",
+        "n|col|public.timeline_item_notes.item_id",
+        "n|col|public.timeline_items.id",
+        "e|uniqueness|public.timeline_items.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "timeline_items"
+      ],
+      "writes": [
+        "s|fk|public.timeline_items.timeline_items_title_id_titles_id_fkey",
+        "n|fk|public.timeline_items.timeline_items_title_id_titles_id_fkey",
+        "e|fk|public.timeline_items.timeline_items_title_id_titles_id_fkey",
+        "n|con|public.timeline_items.timeline_items_title_id_titles_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_items",
+        "n|sch|public",
+        "n|tbl|public.titles",
+        "n|sch|public",
+        "n|col|public.timeline_items.title_id",
+        "n|col|public.titles.id",
+        "e|uniqueness|public.titles.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "timeline_items"
+      ],
+      "writes": [
+        "s|fk|public.timeline_items.timeline_items_episode_id_episodes_id_fkey",
+        "n|fk|public.timeline_items.timeline_items_episode_id_episodes_id_fkey",
+        "e|fk|public.timeline_items.timeline_items_episode_id_episodes_id_fkey",
+        "n|con|public.timeline_items.timeline_items_episode_id_episodes_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_items",
+        "n|sch|public",
+        "n|tbl|public.episodes",
+        "n|sch|public",
+        "n|col|public.timeline_items.episode_id",
+        "n|col|public.episodes.id",
+        "e|uniqueness|public.episodes.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "timeline_items"
+      ],
+      "writes": [
+        "s|fk|public.timeline_items.timeline_items_edition_id_title_editions_id_fkey",
+        "n|fk|public.timeline_items.timeline_items_edition_id_title_editions_id_fkey",
+        "e|fk|public.timeline_items.timeline_items_edition_id_title_editions_id_fkey",
+        "n|con|public.timeline_items.timeline_items_edition_id_title_editions_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_items",
+        "n|sch|public",
+        "n|tbl|public.title_editions",
+        "n|sch|public",
+        "n|col|public.timeline_items.edition_id",
+        "n|col|public.title_editions.id",
+        "e|uniqueness|public.title_editions.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "timeline_items"
+      ],
+      "writes": [
+        "s|fk|public.timeline_items.timeline_items_universe_id_universes_id_fkey",
+        "n|fk|public.timeline_items.timeline_items_universe_id_universes_id_fkey",
+        "e|fk|public.timeline_items.timeline_items_universe_id_universes_id_fkey",
+        "n|con|public.timeline_items.timeline_items_universe_id_universes_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.timeline_items",
+        "n|sch|public",
+        "n|tbl|public.universes",
+        "n|sch|public",
+        "n|col|public.timeline_items.universe_id",
+        "n|col|public.universes.id",
+        "e|uniqueness|public.universes.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "user_watch_progress"
+      ],
+      "writes": [
+        "s|fk|public.user_watch_progress.user_watch_progress_user_id_users_id_fkey",
+        "n|fk|public.user_watch_progress.user_watch_progress_user_id_users_id_fkey",
+        "e|fk|public.user_watch_progress.user_watch_progress_user_id_users_id_fkey",
+        "n|con|public.user_watch_progress.user_watch_progress_user_id_users_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.user_watch_progress",
+        "n|sch|public",
+        "n|tbl|public.users",
+        "n|sch|public",
+        "n|col|public.user_watch_progress.user_id",
+        "n|col|public.users.id",
+        "e|uniqueness|public.users.id"
+      ]
+    },
+    {
+      "statementType": "create_fk",
+      "statementTarget": [
+        "table",
+        "public",
+        "user_watch_progress"
+      ],
+      "writes": [
+        "s|fk|public.user_watch_progress.user_watch_progress_item_id_timeline_items_id_fkey",
+        "n|fk|public.user_watch_progress.user_watch_progress_item_id_timeline_items_id_fkey",
+        "e|fk|public.user_watch_progress.user_watch_progress_item_id_timeline_items_id_fkey",
+        "n|con|public.user_watch_progress.user_watch_progress_item_id_timeline_items_id_fkey"
+      ],
+      "reads": [
+        "n|tbl|public.user_watch_progress",
+        "n|sch|public",
+        "n|tbl|public.timeline_items",
+        "n|sch|public",
+        "n|col|public.user_watch_progress.item_id",
+        "n|col|public.timeline_items.id",
+        "e|uniqueness|public.timeline_items.id"
+      ]
+    }
+  ],
+  "ddl": [
+    {
+      "schema": "public",
+      "name": "platforms",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "production_studios",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "tag_categories",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "tags",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "universes",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "episodes",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "title_editions",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "title_platforms",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "title_production_studios",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "title_tags",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "titles",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "timeline_entries",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "timeline_item_notes",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "timeline_items",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "timelines",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "user_watch_progress",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "users",
+      "isRlsEnabled": false,
+      "entityType": "tables"
+    },
+    {
+      "schema": "public",
+      "name": "item_segment",
+      "values": [
+        "full",
+        "main",
+        "post_credits",
+        "bonus",
+        "episode"
+      ],
+      "entityType": "enums"
+    },
+    {
+      "schema": "public",
+      "name": "title_kind",
+      "values": [
+        "movie",
+        "series",
+        "short",
+        "special"
+      ],
+      "entityType": "enums"
+    },
+    {
+      "schema": "public",
+      "name": "user_role",
+      "values": [
+        "user",
+        "admin"
+      ],
+      "entityType": "enums"
+    },
+    {
+      "schema": "public",
+      "name": "watch_status",
+      "values": [
+        "watched",
+        "skipped"
+      ],
+      "entityType": "enums"
+    },
+    {
+      "schema": "public",
+      "table": "platforms",
+      "name": "id",
+      "type": "serial",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "platforms",
+      "name": "name",
+      "type": "varchar(100)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "platforms",
+      "name": "website_url",
+      "type": "varchar(255)",
+      "typeSchema": null,
+      "notNull": false,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "production_studios",
+      "name": "id",
+      "type": "serial",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "production_studios",
+      "name": "name",
+      "type": "varchar(100)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "production_studios",
+      "name": "description",
+      "type": "text",
+      "typeSchema": null,
+      "notNull": false,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "tag_categories",
+      "name": "id",
+      "type": "serial",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "tag_categories",
+      "name": "name",
+      "type": "varchar(50)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "tag_categories",
+      "name": "description",
+      "type": "text",
+      "typeSchema": null,
+      "notNull": false,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "tags",
+      "name": "id",
+      "type": "serial",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "tags",
+      "name": "name",
+      "type": "varchar(100)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "tags",
+      "name": "slug",
+      "type": "varchar(100)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "tags",
+      "name": "description",
+      "type": "text",
+      "typeSchema": null,
+      "notNull": false,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "tags",
+      "name": "category_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "universes",
+      "name": "id",
+      "type": "serial",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "universes",
+      "name": "code",
+      "type": "varchar(50)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "universes",
+      "name": "name",
+      "type": "varchar(150)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "universes",
+      "name": "description",
+      "type": "text",
+      "typeSchema": null,
+      "notNull": false,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "episodes",
+      "name": "id",
+      "type": "serial",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "episodes",
+      "name": "series_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "episodes",
+      "name": "season_number",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "episodes",
+      "name": "episode_number",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "episodes",
+      "name": "title",
+      "type": "varchar(255)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "episodes",
+      "name": "air_date",
+      "type": "date",
+      "typeSchema": null,
+      "notNull": false,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "title_editions",
+      "name": "id",
+      "type": "serial",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "title_editions",
+      "name": "title_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "title_editions",
+      "name": "slug",
+      "type": "varchar(100)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "title_editions",
+      "name": "name",
+      "type": "varchar(150)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "title_editions",
+      "name": "release_date",
+      "type": "date",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "title_platforms",
+      "name": "title_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "title_platforms",
+      "name": "platform_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "title_production_studios",
+      "name": "title_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "title_production_studios",
+      "name": "studio_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "title_tags",
+      "name": "title_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "title_tags",
+      "name": "tag_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "title_tags",
+      "name": "is_spoiler",
+      "type": "boolean",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": "false",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "id",
+      "type": "serial",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "kind",
+      "type": "title_kind",
+      "typeSchema": "public",
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "title",
+      "type": "varchar(255)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "slug",
+      "type": "varchar(255)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "release_date",
+      "type": "date",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "poster_url",
+      "type": "text",
+      "typeSchema": null,
+      "notNull": false,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "synopsis",
+      "type": "text",
+      "typeSchema": null,
+      "notNull": false,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "created_at",
+      "type": "timestamp with time zone",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": "now()",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "updated_at",
+      "type": "timestamp with time zone",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": "now()",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_entries",
+      "name": "timeline_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_entries",
+      "name": "item_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_entries",
+      "name": "order_key",
+      "type": "text COLLATE \"C\"",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_item_notes",
+      "name": "id",
+      "type": "serial",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_item_notes",
+      "name": "item_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_item_notes",
+      "name": "content",
+      "type": "text",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_item_notes",
+      "name": "is_spoiler",
+      "type": "boolean",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": "false",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_item_notes",
+      "name": "order_index",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": "0",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_item_notes",
+      "name": "created_at",
+      "type": "timestamp with time zone",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": "now()",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "id",
+      "type": "serial",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "title_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "episode_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": false,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "edition_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": false,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "segment",
+      "type": "item_segment",
+      "typeSchema": "public",
+      "notNull": true,
+      "dimensions": 0,
+      "default": "'full'",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "label",
+      "type": "varchar(150)",
+      "typeSchema": null,
+      "notNull": false,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "description",
+      "type": "text",
+      "typeSchema": null,
+      "notNull": false,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "duration_minutes",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "universe_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "created_at",
+      "type": "timestamp with time zone",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": "now()",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "updated_at",
+      "type": "timestamp with time zone",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": "now()",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timelines",
+      "name": "id",
+      "type": "serial",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timelines",
+      "name": "slug",
+      "type": "varchar(100)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timelines",
+      "name": "name",
+      "type": "varchar(150)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timelines",
+      "name": "description",
+      "type": "text",
+      "typeSchema": null,
+      "notNull": false,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "timelines",
+      "name": "is_default",
+      "type": "boolean",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": "false",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "user_watch_progress",
+      "name": "user_id",
+      "type": "uuid",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "user_watch_progress",
+      "name": "item_id",
+      "type": "integer",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "user_watch_progress",
+      "name": "status",
+      "type": "watch_status",
+      "typeSchema": "public",
+      "notNull": true,
+      "dimensions": 0,
+      "default": "'watched'",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "user_watch_progress",
+      "name": "watched_at",
+      "type": "timestamp with time zone",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": "now()",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "users",
+      "name": "id",
+      "type": "uuid",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": "gen_random_uuid()",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "users",
+      "name": "username",
+      "type": "varchar(50)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "users",
+      "name": "email",
+      "type": "varchar(255)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "users",
+      "name": "role",
+      "type": "user_role",
+      "typeSchema": "public",
+      "notNull": true,
+      "dimensions": 0,
+      "default": "'user'",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "users",
+      "name": "password",
+      "type": "varchar(255)",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": null,
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "users",
+      "name": "created_at",
+      "type": "timestamp with time zone",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": "now()",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "users",
+      "name": "updated_at",
+      "type": "timestamp with time zone",
+      "typeSchema": null,
+      "notNull": true,
+      "dimensions": 0,
+      "default": "now()",
+      "generated": null,
+      "identity": null,
+      "entityType": "columns"
+    },
+    {
+      "schema": "public",
+      "table": "tags",
+      "name": "idx_tags_category",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "category_id",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "title_platforms",
+      "name": "idx_title_platforms_platform",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "platform_id",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "title_production_studios",
+      "name": "idx_title_studios_studio",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "studio_id",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "title_tags",
+      "name": "idx_title_tags_tag",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "tag_id",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "idx_titles_release_date",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "release_date",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "idx_titles_title",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "title",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "idx_titles_kind",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "kind",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_entries",
+      "name": "uq_entries_timeline_order",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "timeline_id",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        },
+        {
+          "value": "order_key",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": true,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_entries",
+      "name": "idx_entries_item",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "item_id",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_item_notes",
+      "name": "idx_notes_item",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "item_id",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "idx_items_title",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "title_id",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "idx_items_universe",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "universe_id",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "idx_items_edition",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "edition_id",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "idx_items_segment",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "segment",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "uq_items_title_main",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "title_id",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        },
+        {
+          "value": "segment",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": true,
+      "where": "\"segment\" IN ('full', 'main') AND \"edition_id\" IS NULL",
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "timelines",
+      "name": "uq_timelines_default",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "is_default",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": true,
+      "where": "\"is_default\"",
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "user_watch_progress",
+      "name": "idx_progress_item",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "item_id",
+          "isExpression": false,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": false,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "users",
+      "name": "uq_users_email_lower",
+      "nameExplicit": true,
+      "columns": [
+        {
+          "value": "lower(\"email\")",
+          "isExpression": true,
+          "asc": true,
+          "nullsFirst": false,
+          "opclass": null
+        }
+      ],
+      "isUnique": true,
+      "where": null,
+      "with": "",
+      "method": "btree",
+      "concurrently": false,
+      "entityType": "indexes"
+    },
+    {
+      "schema": "public",
+      "table": "tags",
+      "name": "tags_category_id_tag_categories_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "category_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "tag_categories",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "RESTRICT",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "episodes",
+      "name": "episodes_series_id_titles_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "series_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "titles",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "title_editions",
+      "name": "title_editions_title_id_titles_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "title_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "titles",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "title_platforms",
+      "name": "title_platforms_title_id_titles_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "title_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "titles",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "title_platforms",
+      "name": "title_platforms_platform_id_platforms_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "platform_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "platforms",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "RESTRICT",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "title_production_studios",
+      "name": "title_production_studios_title_id_titles_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "title_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "titles",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "title_production_studios",
+      "name": "title_production_studios_studio_id_production_studios_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "studio_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "production_studios",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "RESTRICT",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "title_tags",
+      "name": "title_tags_title_id_titles_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "title_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "titles",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "title_tags",
+      "name": "title_tags_tag_id_tags_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "tag_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "tags",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_entries",
+      "name": "timeline_entries_timeline_id_timelines_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "timeline_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "timelines",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_entries",
+      "name": "timeline_entries_item_id_timeline_items_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "item_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "timeline_items",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_item_notes",
+      "name": "timeline_item_notes_item_id_timeline_items_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "item_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "timeline_items",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "timeline_items_title_id_titles_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "title_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "titles",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "timeline_items_episode_id_episodes_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "episode_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "episodes",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "timeline_items_edition_id_title_editions_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "edition_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "title_editions",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "timeline_items_universe_id_universes_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "universe_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "universes",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "RESTRICT",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "user_watch_progress",
+      "name": "user_watch_progress_user_id_users_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "user_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "users",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "user_watch_progress",
+      "name": "user_watch_progress_item_id_timeline_items_id_fkey",
+      "nameExplicit": false,
+      "columns": [
+        "item_id"
+      ],
+      "schemaTo": "public",
+      "tableTo": "timeline_items",
+      "columnsTo": [
+        "id"
+      ],
+      "onUpdate": "NO ACTION",
+      "onDelete": "CASCADE",
+      "entityType": "fks"
+    },
+    {
+      "schema": "public",
+      "table": "title_platforms",
+      "name": "title_platforms_pkey",
+      "columns": [
+        "title_id",
+        "platform_id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "title_production_studios",
+      "name": "title_production_studios_pkey",
+      "columns": [
+        "title_id",
+        "studio_id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "title_tags",
+      "name": "title_tags_pkey",
+      "columns": [
+        "title_id",
+        "tag_id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_entries",
+      "name": "timeline_entries_pkey",
+      "columns": [
+        "timeline_id",
+        "item_id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "user_watch_progress",
+      "name": "user_watch_progress_pkey",
+      "columns": [
+        "user_id",
+        "item_id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "platforms",
+      "name": "platforms_pkey",
+      "columns": [
+        "id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "production_studios",
+      "name": "production_studios_pkey",
+      "columns": [
+        "id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "tag_categories",
+      "name": "tag_categories_pkey",
+      "columns": [
+        "id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "tags",
+      "name": "tags_pkey",
+      "columns": [
+        "id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "universes",
+      "name": "universes_pkey",
+      "columns": [
+        "id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "episodes",
+      "name": "episodes_pkey",
+      "columns": [
+        "id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "title_editions",
+      "name": "title_editions_pkey",
+      "columns": [
+        "id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "titles_pkey",
+      "columns": [
+        "id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_item_notes",
+      "name": "timeline_item_notes_pkey",
+      "columns": [
+        "id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "timeline_items_pkey",
+      "columns": [
+        "id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "timelines",
+      "name": "timelines_pkey",
+      "columns": [
+        "id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "users",
+      "name": "users_pkey",
+      "columns": [
+        "id"
+      ],
+      "nameExplicit": false,
+      "entityType": "pks"
+    },
+    {
+      "schema": "public",
+      "table": "episodes",
+      "name": "uq_episodes_series_season_number",
+      "nameExplicit": true,
+      "columns": [
+        "series_id",
+        "season_number",
+        "episode_number"
+      ],
+      "nullsNotDistinct": false,
+      "entityType": "uniques"
+    },
+    {
+      "schema": "public",
+      "table": "title_editions",
+      "name": "uq_editions_title_slug",
+      "nameExplicit": true,
+      "columns": [
+        "title_id",
+        "slug"
+      ],
+      "nullsNotDistinct": false,
+      "entityType": "uniques"
+    },
+    {
+      "schema": "public",
+      "table": "platforms",
+      "name": "platforms_name_key",
+      "nameExplicit": false,
+      "columns": [
+        "name"
+      ],
+      "nullsNotDistinct": false,
+      "entityType": "uniques"
+    },
+    {
+      "schema": "public",
+      "table": "production_studios",
+      "name": "production_studios_name_key",
+      "nameExplicit": false,
+      "columns": [
+        "name"
+      ],
+      "nullsNotDistinct": false,
+      "entityType": "uniques"
+    },
+    {
+      "schema": "public",
+      "table": "tag_categories",
+      "name": "tag_categories_name_key",
+      "nameExplicit": false,
+      "columns": [
+        "name"
+      ],
+      "nullsNotDistinct": false,
+      "entityType": "uniques"
+    },
+    {
+      "schema": "public",
+      "table": "tags",
+      "name": "tags_slug_key",
+      "nameExplicit": false,
+      "columns": [
+        "slug"
+      ],
+      "nullsNotDistinct": false,
+      "entityType": "uniques"
+    },
+    {
+      "schema": "public",
+      "table": "universes",
+      "name": "universes_code_key",
+      "nameExplicit": false,
+      "columns": [
+        "code"
+      ],
+      "nullsNotDistinct": false,
+      "entityType": "uniques"
+    },
+    {
+      "schema": "public",
+      "table": "titles",
+      "name": "titles_slug_key",
+      "nameExplicit": false,
+      "columns": [
+        "slug"
+      ],
+      "nullsNotDistinct": false,
+      "entityType": "uniques"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "timeline_items_episode_id_key",
+      "nameExplicit": false,
+      "columns": [
+        "episode_id"
+      ],
+      "nullsNotDistinct": false,
+      "entityType": "uniques"
+    },
+    {
+      "schema": "public",
+      "table": "timelines",
+      "name": "timelines_slug_key",
+      "nameExplicit": false,
+      "columns": [
+        "slug"
+      ],
+      "nullsNotDistinct": false,
+      "entityType": "uniques"
+    },
+    {
+      "schema": "public",
+      "table": "users",
+      "name": "users_username_key",
+      "nameExplicit": false,
+      "columns": [
+        "username"
+      ],
+      "nullsNotDistinct": false,
+      "entityType": "uniques"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "ck_items_duration_positive",
+      "value": "\"duration_minutes\" > 0",
+      "entityType": "checks"
+    },
+    {
+      "schema": "public",
+      "table": "timeline_items",
+      "name": "ck_items_episode_segment",
+      "value": "(\"episode_id\" IS NOT NULL) = (\"segment\" = 'episode')",
+      "entityType": "checks"
+    }
+  ]
+}
