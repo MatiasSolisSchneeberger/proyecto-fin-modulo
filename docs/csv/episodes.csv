@@ -1,0 +1,479 @@
+﻿id,series_id,_titles_slug,season_number,episode_number,title,air_date
+1,,agents-of-s-h-i-e-l-d,1,1,Pilot,2013-09-24
+2,,agents-of-s-h-i-e-l-d,1,2,0-8-4,2013-10-01
+3,,agents-of-s-h-i-e-l-d,1,3,The Asset,2013-10-08
+4,,agents-of-s-h-i-e-l-d,1,4,Eye Spy,2013-10-15
+5,,agents-of-s-h-i-e-l-d,1,5,Girl In The Flower Dress,2013-10-22
+6,,agents-of-s-h-i-e-l-d,1,6,F.Z.Z.T.,2013-11-05
+7,,agents-of-s-h-i-e-l-d,1,7,The Hub,2013-11-12
+8,,agents-of-s-h-i-e-l-d,1,8,The Well,2013-11-19
+9,,agents-of-s-h-i-e-l-d,1,9,Repairs,2013-11-26
+10,,agents-of-s-h-i-e-l-d,1,10,The Bridge,2013-12-10
+11,,agents-of-s-h-i-e-l-d,1,11,The Magical Place,2014-01-07
+12,,agents-of-s-h-i-e-l-d,1,12,Seeds,2014-01-14
+13,,agents-of-s-h-i-e-l-d,1,13,T.R.A.C.K.S.,2014-02-04
+14,,agents-of-s-h-i-e-l-d,1,14,T.A.H.I.T.I,2014-03-04
+15,,agents-of-s-h-i-e-l-d,1,15,Yes Men,2014-03-11
+16,,agents-of-s-h-i-e-l-d,1,16,End Of The Beginning,2014-04-01
+17,,agents-of-s-h-i-e-l-d,1,17,"Turn, Turn, Turn",2014-04-08
+18,,agents-of-s-h-i-e-l-d,1,18,Providence,2014-04-15
+19,,agents-of-s-h-i-e-l-d,1,19,The Only Light In The Darkness,2014-04-22
+20,,agents-of-s-h-i-e-l-d,1,20,Nothing personal,2014-04-29
+21,,agents-of-s-h-i-e-l-d,1,21,Ragtag,2014-05-06
+22,,agents-of-s-h-i-e-l-d,1,22,Beginning Of The End,2014-05-13
+23,,agents-of-s-h-i-e-l-d,2,1,Shadows,2014-09-23
+24,,agents-of-s-h-i-e-l-d,2,2,Heavy Is The Head,2014-09-30
+25,,agents-of-s-h-i-e-l-d,2,3,Making Friends And Influencing People,2014-10-07
+26,,agents-of-s-h-i-e-l-d,2,4,I Will Face My Enemy,2014-10-14
+27,,agents-of-s-h-i-e-l-d,2,5,A Hen In The Wolf House,2014-10-21
+28,,agents-of-s-h-i-e-l-d,2,6,A Fractured House,2014-10-28
+29,,agents-of-s-h-i-e-l-d,2,7,The Writing On The Wall,2014-11-11
+30,,agents-of-s-h-i-e-l-d,2,8,The Things We Bury,2014-11-18
+31,,agents-of-s-h-i-e-l-d,2,9,Ye Who Enters Here,2014-12-02
+32,,agents-of-s-h-i-e-l-d,2,10,What They Become,2014-12-09
+33,,agents-of-s-h-i-e-l-d,2,11,Aftershocks,2015-03-03
+34,,agents-of-s-h-i-e-l-d,2,12,Who You Really Are,2015-03-10
+35,,agents-of-s-h-i-e-l-d,2,13,One of Us,2015-03-17
+36,,agents-of-s-h-i-e-l-d,2,14,Love in the Time of Hydra,2015-03-24
+37,,agents-of-s-h-i-e-l-d,2,15,One Door Closes,2015-03-31
+38,,agents-of-s-h-i-e-l-d,2,16,Afterlife,2015-04-07
+39,,agents-of-s-h-i-e-l-d,2,17,Melinda,2015-04-14
+40,,agents-of-s-h-i-e-l-d,2,18,The Frenemy of My Enemy,2015-04-21
+41,,agents-of-s-h-i-e-l-d,2,19,The Dirty Half Dozen,2015-04-28
+42,,agents-of-s-h-i-e-l-d,2,20,Scars,2015-05-05
+43,,agents-of-s-h-i-e-l-d,2,21,S.O.S. Part 1,2015-05-12
+44,,agents-of-s-h-i-e-l-d,2,22,S.O.S. Part 2,2015-05-12
+45,,agents-of-s-h-i-e-l-d,3,1,Laws Of Nature,2015-09-29
+46,,agents-of-s-h-i-e-l-d,3,2,Purpose In The Machine,2015-10-06
+47,,agents-of-s-h-i-e-l-d,3,3,A Wanted (Inhu)man,2015-10-13
+48,,agents-of-s-h-i-e-l-d,3,4,Devils You Know,2015-10-20
+49,,agents-of-s-h-i-e-l-d,3,5,"4,772 Hours",2015-10-27
+50,,agents-of-s-h-i-e-l-d,3,6,Among Us Hide,2015-11-03
+51,,agents-of-s-h-i-e-l-d,3,7,Chaos Theory,2015-11-10
+52,,agents-of-s-h-i-e-l-d,3,8,"Many Heads, One Tale",2015-11-17
+53,,agents-of-s-h-i-e-l-d,3,9,Closure,2015-12-01
+54,,agents-of-s-h-i-e-l-d,3,10,Maveth,2015-12-08
+55,,agents-of-s-h-i-e-l-d,3,11,Bouncing Back,2016-03-08
+56,,agents-of-s-h-i-e-l-d,3,12,The Inside Man,2016-03-15
+57,,agents-of-s-h-i-e-l-d,3,13,Parting Shot,2016-03-22
+58,,agents-of-s-h-i-e-l-d,3,14,Watchdogs,2016-03-29
+59,,agents-of-s-h-i-e-l-d,3,15,Spacetime,2016-04-05
+60,,agents-of-s-h-i-e-l-d,3,16,Paradise Lost,2016-04-12
+61,,agents-of-s-h-i-e-l-d,3,17,The Team,2016-04-19
+62,,agents-of-s-h-i-e-l-d,3,18,The Singularity,2016-04-26
+63,,agents-of-s-h-i-e-l-d,3,19,Failed Experiments,2016-05-03
+64,,agents-of-s-h-i-e-l-d,3,20,Emancipation,2016-05-10
+65,,agents-of-s-h-i-e-l-d,3,21,Absolution,2016-05-17
+66,,agents-of-s-h-i-e-l-d,3,22,Ascension,2016-05-17
+67,,agents-of-s-h-i-e-l-d,4,1,The Ghost,2016-09-20
+68,,agents-of-s-h-i-e-l-d,4,2,Meet the New Boss,2016-09-27
+69,,agents-of-s-h-i-e-l-d,4,3,Uprising,2016-10-11
+70,,agents-of-s-h-i-e-l-d,4,4,Let Me Stand Next to Your Fire,2016-10-18
+71,,agents-of-s-h-i-e-l-d,4,5,Lockup,2016-10-25
+72,,agents-of-s-h-i-e-l-d,4,6,The Good Samaritan,2016-11-01
+73,,agents-of-s-h-i-e-l-d,4,7,Deals With Our Devils,2016-11-29
+74,,agents-of-s-h-i-e-l-d,4,8,The Laws of Inferno Dynamics,2016-12-06
+75,,agents-of-s-h-i-e-l-d,4,9,Broken Promises,2017-01-10
+76,,agents-of-s-h-i-e-l-d,4,10,The Patriot,2017-01-17
+77,,agents-of-s-h-i-e-l-d,4,11,Wake Up,2017-01-24
+78,,agents-of-s-h-i-e-l-d,4,12,Hot Potato Soup,2017-01-31
+79,,agents-of-s-h-i-e-l-d,4,13,BOOM,2017-02-07
+80,,agents-of-s-h-i-e-l-d,4,14,The Man Behind the Shield,2017-02-14
+81,,agents-of-s-h-i-e-l-d,4,15,Self Control,2017-02-21
+82,,agents-of-s-h-i-e-l-d,4,16,What If...,2017-04-04
+83,,agents-of-s-h-i-e-l-d,4,17,Identity and Change,2017-04-11
+84,,agents-of-s-h-i-e-l-d,4,18,No Regrets,2017-04-18
+85,,agents-of-s-h-i-e-l-d,4,19,All The Madame’s Men,2017-04-25
+86,,agents-of-s-h-i-e-l-d,4,20,"Farewell, Cruel World!",2017-05-02
+87,,agents-of-s-h-i-e-l-d,4,21,The Return,2017-05-09
+88,,agents-of-s-h-i-e-l-d,4,22,World’s End,2017-05-16
+89,,agents-of-s-h-i-e-l-d,5,1,Orientation Part 1,2017-12-01
+90,,agents-of-s-h-i-e-l-d,5,2,Orientation Part 2,2017-12-01
+91,,agents-of-s-h-i-e-l-d,5,3,A Life Spent,2017-12-08
+92,,agents-of-s-h-i-e-l-d,5,4,A Life Earned,2017-12-15
+93,,agents-of-s-h-i-e-l-d,5,5,Rewind,2017-12-22
+94,,agents-of-s-h-i-e-l-d,5,6,Fun & Games,2018-01-05
+95,,agents-of-s-h-i-e-l-d,5,7,Together Or Not At All,2018-01-12
+96,,agents-of-s-h-i-e-l-d,5,8,The Last Day,2018-01-19
+97,,agents-of-s-h-i-e-l-d,5,9,Best Laid Plans,2018-01-26
+98,,agents-of-s-h-i-e-l-d,5,10,Past Life,2018-02-02
+99,,agents-of-s-h-i-e-l-d,5,11,All the Comforts of Home,2018-03-02
+100,,agents-of-s-h-i-e-l-d,5,12,The Real Deal,2018-03-09
+101,,agents-of-s-h-i-e-l-d,5,13,Principia,2018-03-16
+102,,agents-of-s-h-i-e-l-d,5,14,The Devil Complex,2018-03-23
+103,,agents-of-s-h-i-e-l-d,5,15,Rise and Shine,2018-03-30
+104,,agents-of-s-h-i-e-l-d,5,16,Inside Voices,2018-04-06
+105,,agents-of-s-h-i-e-l-d,5,17,The Honeymoon,2018-04-13
+106,,agents-of-s-h-i-e-l-d,5,18,All Roads Lead...,2018-04-20
+107,,agents-of-s-h-i-e-l-d,5,19,Option Two,2018-04-27
+108,,agents-of-s-h-i-e-l-d,5,20,The One Who Will Save Us All,2018-05-04
+109,,agents-of-s-h-i-e-l-d,5,21,The Force of Gravity,2018-05-11
+110,,agents-of-s-h-i-e-l-d,5,22,The End,2018-05-18
+111,,agents-of-s-h-i-e-l-d,6,1,Missing Pieces,2019-05-10
+112,,agents-of-s-h-i-e-l-d,6,2,Window of Opportunity,2019-05-17
+113,,agents-of-s-h-i-e-l-d,6,3,Fear and Loathing on the Planet of Kitson,2019-05-24
+114,,agents-of-s-h-i-e-l-d,6,4,Code Yellow,2019-05-31
+115,,agents-of-s-h-i-e-l-d,6,5,The Other Thing,2019-06-14
+116,,agents-of-s-h-i-e-l-d,6,6,Inescapable,2019-06-21
+117,,agents-of-s-h-i-e-l-d,6,7,Toldja,2019-06-28
+118,,agents-of-s-h-i-e-l-d,6,8,Collision Course Part 1,2019-07-05
+119,,agents-of-s-h-i-e-l-d,6,9,Collision Course Part 2,2019-07-12
+120,,agents-of-s-h-i-e-l-d,6,10,Leap,2019-07-19
+121,,agents-of-s-h-i-e-l-d,6,11,From the Ashes,2019-07-26
+122,,agents-of-s-h-i-e-l-d,6,12,The Sign,2019-08-02
+123,,agents-of-s-h-i-e-l-d,6,13,New Life,2019-08-02
+124,,agents-of-s-h-i-e-l-d,7,1,The New Deal,2020-05-27
+125,,agents-of-s-h-i-e-l-d,7,2,Know Your Onions,2020-06-03
+126,,agents-of-s-h-i-e-l-d,7,3,Alien Commies from the Future,2020-06-10
+127,,agents-of-s-h-i-e-l-d,7,4,Out of the Past,2020-06-17
+128,,agents-of-s-h-i-e-l-d,7,5,A Trout in the Milk,2020-06-24
+129,,agents-of-s-h-i-e-l-d,7,6,Adapt or Die,2020-07-01
+130,,agents-of-s-h-i-e-l-d,7,7,The Totally Excellent Adventures of Mack and the D,2020-07-08
+131,,agents-of-s-h-i-e-l-d,7,8,"After, Before",2020-07-15
+132,,agents-of-s-h-i-e-l-d,7,9,As I Have Always Been,2020-07-22
+133,,agents-of-s-h-i-e-l-d,7,10,Stolen,2020-07-29
+134,,agents-of-s-h-i-e-l-d,7,11,Brand New Day,2020-08-05
+135,,agents-of-s-h-i-e-l-d,7,12,The End is at Hand,2020-08-12
+136,,agents-of-s-h-i-e-l-d,7,13,What We’re Fighting For,2020-08-12
+137,,agent-carter,1,1,Now is Not the End,2015-01-06
+138,,agent-carter,1,2,Bridge and Tunnel,2015-01-06
+139,,agent-carter,1,3,Time and Tide,2015-01-13
+140,,agent-carter,1,4,The Blitzkrieg Button,2015-01-27
+141,,agent-carter,1,5,The Iron Ceiling,2015-02-03
+142,,agent-carter,1,6,A Sin to Err,2015-02-10
+143,,agent-carter,1,7,Snafu,2015-02-17
+144,,agent-carter,1,8,Valediction,2015-02-24
+145,,agent-carter,2,1,The Lady in the Lake,2016-01-19
+146,,agent-carter,2,2,A View in the Dark,2016-01-19
+147,,agent-carter,2,3,Better Angels,2016-01-26
+148,,agent-carter,2,4,Smoke & Mirrors,2016-02-02
+149,,agent-carter,2,5,The Atomic Job,2016-02-09
+150,,agent-carter,2,6,Life of the Party,2016-02-16
+151,,agent-carter,2,7,Monsters,2016-02-16
+152,,agent-carter,2,8,The Edge Of Mystery,2016-02-23
+153,,agent-carter,2,9,Little Song and Dance,2016-02-23
+154,,agent-carter,2,10,Hollywood Ending,2016-03-01
+155,,daredevil,1,1,Into the Ring,2015-04-10
+156,,daredevil,1,2,Cut Man,2015-04-10
+157,,daredevil,1,3,Rabbit in a Snowstorm,2015-04-10
+158,,daredevil,1,4,In the Blood,2015-04-10
+159,,daredevil,1,5,World on Fire,2015-04-10
+160,,daredevil,1,6,Condemned,2015-04-10
+161,,daredevil,1,7,Stick,2015-04-10
+162,,daredevil,1,8,Shadows in the Glass,2015-04-10
+163,,daredevil,1,9,Speak of the Devil,2015-04-10
+164,,daredevil,1,10,Nelson v. Murdock,2015-04-10
+165,,daredevil,1,11,The Path of the Righteous,2015-04-10
+166,,daredevil,1,12,The Ones We Leave Behind,2015-04-10
+167,,daredevil,1,13,Daredevil,2015-04-10
+168,,daredevil,2,1,Bang,2016-03-18
+169,,daredevil,2,2,Dogs To A Gunfight,2016-03-18
+170,,daredevil,2,3,New York's Finest,2016-03-18
+171,,daredevil,2,4,Penny and Dime,2016-03-18
+172,,daredevil,2,5,Kinbaku,2016-03-18
+173,,daredevil,2,6,Regrets Only,2016-03-18
+174,,daredevil,2,7,Semper Fidelis,2016-03-18
+175,,daredevil,2,8,Guilty as Sin,2016-03-18
+176,,daredevil,2,9,Seven Minutes in Heaven,2016-03-18
+177,,daredevil,2,10,The Man in The Box,2016-03-18
+178,,daredevil,2,11,.380,2016-03-18
+179,,daredevil,2,12,The Dark at the End of the Tunnel,2016-03-18
+180,,daredevil,2,13,A Cold Day in Hell's Kitchen,2016-03-18
+181,,daredevil,3,1,Resurrection,2018-10-19
+182,,daredevil,3,2,Please,2018-10-19
+183,,daredevil,3,3,No Good Deed,2018-10-19
+184,,daredevil,3,4,Blindsided,2018-10-19
+185,,daredevil,3,5,The Perfect Game,2018-10-19
+186,,daredevil,3,6,The Devil You Know,2018-10-19
+187,,daredevil,3,7,Aftermath,2018-10-19
+188,,daredevil,3,8,Upstairs/Downstairs,2018-10-19
+189,,daredevil,3,9,Revelations,2018-10-19
+190,,daredevil,3,10,Karen,2018-10-19
+191,,daredevil,3,11,Reunion,2018-10-19
+192,,daredevil,3,12,One Last Shot,2018-10-19
+193,,daredevil,3,13,A New Napkin,2018-10-19
+194,,jessica-jones,1,1,AKA Ladies Night,2015-11-20
+195,,jessica-jones,1,2,AKA Crush Syndrome,2015-11-20
+196,,jessica-jones,1,3,AKA It's Called Whiskey,2015-11-20
+197,,jessica-jones,1,4,AKA 99 Friends,2015-11-20
+198,,jessica-jones,1,5,AKA The Sandwich Saved Me,2015-11-20
+199,,jessica-jones,1,6,AKA You're a Winner,2015-11-20
+200,,jessica-jones,1,7,AKA Top Shelf Perverts,2015-11-20
+201,,jessica-jones,1,8,AKA WWJD?,2015-11-20
+202,,jessica-jones,1,9,AKA Sin Bin,2015-11-20
+203,,jessica-jones,1,10,"AKA 1,000 Cuts",2015-11-20
+204,,jessica-jones,1,11,AKA I've Got the Blues,2015-11-20
+205,,jessica-jones,1,12,AKA Take A Bloody Number,2015-11-20
+206,,jessica-jones,1,13,AKA Smile,2015-11-20
+207,,jessica-jones,2,1,AKA Start At The Beginning,2018-03-08
+208,,jessica-jones,2,2,AKA Freak Accident,2018-03-08
+209,,jessica-jones,2,3,AKA Sole Survivor,2018-03-08
+210,,jessica-jones,2,4,AKA God Help The Hobo,2018-03-08
+211,,jessica-jones,2,5,AKA The Octopus,2018-03-08
+212,,jessica-jones,2,6,AKA Facetime,2018-03-08
+213,,jessica-jones,2,7,AKA I Want Your Cray Cray,2018-03-08
+214,,jessica-jones,2,8,AKA Ain't We Got Fun,2018-03-08
+215,,jessica-jones,2,9,"AKA Shark In The Bathtub, Monster In The Bed",2018-03-08
+216,,jessica-jones,2,10,AKA Pork Chop,2018-03-08
+217,,jessica-jones,2,11,AKA Three Lives And Counting,2018-03-08
+218,,jessica-jones,2,12,AKA Pray For My Patsy,2018-03-08
+219,,jessica-jones,2,13,AKA Playland,2018-03-08
+220,,jessica-jones,3,1,AKA The Perfect Burger,2019-06-14
+221,,jessica-jones,3,2,AKA You're Welcome,2019-06-14
+222,,jessica-jones,3,3,AKA I Have No Spleen,2019-06-14
+223,,jessica-jones,3,4,AKA Customer Service Is Standing By,2019-06-14
+224,,jessica-jones,3,5,AKA I Wish,2019-06-14
+225,,jessica-jones,3,6,AKA Sorry Face,2019-06-14
+226,,jessica-jones,3,7,AKA The Double Half-Wappinger,2019-06-14
+227,,jessica-jones,3,8,AKA Camera Friendly,2019-06-14
+228,,jessica-jones,3,9,AKA I Did Something Today,2019-06-14
+229,,jessica-jones,3,10,AKA Hero Pants,2019-06-14
+230,,jessica-jones,3,11,AKA Hellcat,2019-06-14
+231,,jessica-jones,3,12,AKA A Lotta Worms,2019-06-14
+232,,jessica-jones,3,13,AKA Everything,2019-06-14
+233,,luke-cage,1,1,Moment of Truth,2016-09-30
+234,,luke-cage,1,2,Code of the Streets,2016-09-30
+235,,luke-cage,1,3,Who's Gonna Take the Weight?,2016-09-30
+236,,luke-cage,1,4,Step in the Arena,2016-09-30
+237,,luke-cage,1,5,Just to Get a Rep.,2016-09-30
+238,,luke-cage,1,6,Suckas Need Bodyguards,2016-09-30
+239,,luke-cage,1,7,Manifest,2016-09-30
+240,,luke-cage,1,8,Blowin' up the Spot,2016-09-30
+241,,luke-cage,1,9,DWYCK,2016-09-30
+242,,luke-cage,1,10,Take it Personal,2016-09-30
+243,,luke-cage,1,11,Now You're Mine,2016-09-30
+244,,luke-cage,1,12,Soliloquy of Chaos,2016-09-30
+245,,luke-cage,1,13,You Know My Steez,2016-09-30
+246,,luke-cage,2,1,Soul Brother,2018-06-22
+247,,luke-cage,2,2,Straighten It Out,2018-06-22
+248,,luke-cage,2,3,Wig Out,2018-06-22
+249,,luke-cage,2,4,I Get Physical,2018-06-22
+250,,luke-cage,2,5,All Souled Out,2018-06-22
+251,,luke-cage,2,6,The Basement,2018-06-22
+252,,luke-cage,2,7,On and On,2018-06-22
+253,,luke-cage,2,8,"If It Ain't Rough, it Ain't Right",2018-06-22
+254,,luke-cage,2,9,For Pete's Sake,2018-06-22
+255,,luke-cage,2,10,The Main Ingredient,2018-06-22
+256,,luke-cage,2,11,The Creator,2018-06-22
+257,,luke-cage,2,12,Can't Front on Me,2018-06-22
+258,,luke-cage,2,13,They Reminisce Over You,2018-06-22
+259,,iron-fist,1,1,Snow Gives Way,2017-03-17
+260,,iron-fist,1,2,Shadow Hawk Takes Flight,2017-03-17
+261,,iron-fist,1,3,Rolling Thunder Cannon Punch,2017-03-17
+262,,iron-fist,1,4,Eight Diagram Dragon Palm,2017-03-17
+263,,iron-fist,1,5,Under Leaf Pluck Lotus,2017-03-17
+264,,iron-fist,1,6,Immortal Emerges From Cave,2017-03-17
+265,,iron-fist,1,7,Felling With Tree Routes,2017-03-17
+266,,iron-fist,1,8,The Blessing Of Many Fractures,2017-03-17
+267,,iron-fist,1,9,The Mistress Of All Agonies,2017-03-17
+268,,iron-fist,1,10,Black Tiger Steals Heart,2017-03-17
+269,,iron-fist,1,11,Lead Horse Back To Stable,2017-03-17
+270,,iron-fist,1,12,Bar The Big Boss,2017-03-17
+271,,iron-fist,1,13,Dragon Plays With Fire,2017-03-17
+272,,iron-fist,2,1,The Fury Of Iron Fist,2018-09-07
+273,,iron-fist,2,2,The City's Not For Burning,2018-09-07
+274,,iron-fist,2,3,This Deadly Secret,2018-09-07
+275,,iron-fist,2,4,Target: Iron Fist,2018-09-07
+276,,iron-fist,2,5,Heart Of The Dragon,2018-09-07
+277,,iron-fist,2,6,The Dragon Dies At Dawn,2018-09-07
+278,,iron-fist,2,7,Morning Of The Mindstorm,2018-09-07
+279,,iron-fist,2,8,Citadel On The Edge Of Vengeance,2018-09-07
+280,,iron-fist,2,9,War Without End,2018-09-07
+281,,iron-fist,2,10,A Duel Of Iron,2018-09-07
+282,,the-defenders,1,1,The H Word,2017-08-18
+283,,the-defenders,1,2,Mean Right Hook,2017-08-18
+284,,the-defenders,1,3,Worst Behavior,2017-08-18
+285,,the-defenders,1,4,Royal Dragon,2017-08-18
+286,,the-defenders,1,5,Take Shelter,2017-08-18
+287,,the-defenders,1,6,"Ashes, Ashes",2017-08-18
+288,,the-defenders,1,7,Fish in the Jailhouse,2017-08-18
+289,,the-defenders,1,8,The Defenders,2017-08-18
+290,,inhumans,1,1,Behold... The Inhumans,2017-09-29
+291,,inhumans,1,2,Those Who Would Destroy Us,2017-09-29
+292,,inhumans,1,3,Divide - And Conquer,2017-10-06
+293,,inhumans,1,4,Make Way For... Medusa,2017-10-13
+294,,inhumans,1,5,Something Inhuman This Way Comes...,2017-10-20
+295,,inhumans,1,6,The Gentleman's Name Is Gorgon,2017-10-27
+296,,inhumans,1,7,Havoc In The Hidden Land,2017-11-03
+297,,inhumans,1,8,...And Finally: Black Bolt,2017-11-10
+298,,the-punisher,1,1,3 AM,2017-11-17
+299,,the-punisher,1,2,Two Dead Men,2017-11-17
+300,,the-punisher,1,3,Kandahar,2017-11-17
+301,,the-punisher,1,4,Resupply,2017-11-17
+302,,the-punisher,1,5,Gunner,2017-11-17
+303,,the-punisher,1,6,The Judas Goat,2017-11-17
+304,,the-punisher,1,7,Crosshairs,2017-11-17
+305,,the-punisher,1,8,Cold Steel,2017-11-17
+306,,the-punisher,1,9,Front Towards Enemy,2017-11-17
+307,,the-punisher,1,10,Virtue of the Vicious,2017-11-17
+308,,the-punisher,1,11,Danger Close,2017-11-17
+309,,the-punisher,1,12,Home,2017-11-17
+310,,the-punisher,1,13,Memento Mori,2017-11-17
+311,,the-punisher,2,1,Roadhouse Blues,2019-01-18
+312,,the-punisher,2,2,Fight or Flight,2019-01-18
+313,,the-punisher,2,3,Trouble the Water,2019-01-18
+314,,the-punisher,2,4,Scar Tissue,2019-01-18
+315,,the-punisher,2,5,One-Eyed Jacks,2019-01-18
+316,,the-punisher,2,6,Nakazat,2019-01-18
+317,,the-punisher,2,7,One Bad Day,2019-01-18
+318,,the-punisher,2,8,My Brother's Keeper,2019-01-18
+319,,the-punisher,2,9,Flustercluck,2019-01-18
+320,,the-punisher,2,10,The Dark Hearts of Men,2019-01-18
+321,,the-punisher,2,11,The Abyss,2019-01-18
+322,,the-punisher,2,12,Collision Course,2019-01-18
+323,,the-punisher,2,13,The Whirlwind,2019-01-18
+324,,wandavision,1,1,Filmed Before a Live Studio Audience,2021-01-15
+325,,wandavision,1,2,Don't Touch That Dial,2021-01-15
+326,,wandavision,1,3,Now In Color,2021-01-22
+327,,wandavision,1,4,We Interrupt This Program,2021-01-29
+328,,wandavision,1,5,On A Very Special Episode...,2021-02-05
+329,,wandavision,1,6,All-New Halloween Spooktacular!,2021-02-12
+330,,wandavision,1,7,Breaking the Fourth Wall,2021-02-19
+331,,wandavision,1,8,Previously On,2021-02-26
+332,,wandavision,1,9,The Series Finale,2021-03-05
+333,,the-falcon-and-the-winter-soldier,1,1,New World Order,2021-03-19
+334,,the-falcon-and-the-winter-soldier,1,2,The Star-Spangled Man,2021-03-26
+335,,the-falcon-and-the-winter-soldier,1,3,Power Broker,2021-04-02
+336,,the-falcon-and-the-winter-soldier,1,4,The Whole World Is Watching,2021-04-09
+337,,the-falcon-and-the-winter-soldier,1,5,Truth,2021-04-16
+338,,the-falcon-and-the-winter-soldier,1,6,"One World, One People",2021-04-23
+339,,loki,1,1,Glorious Purpose,2021-06-09
+340,,loki,1,2,The Variant,2021-06-16
+341,,loki,1,3,Lamentis,2021-06-23
+342,,loki,1,4,The Nexus Event,2021-06-30
+343,,loki,1,5,Journey Into Mystery,2021-07-07
+344,,loki,1,6,For All Time. Always.,2021-07-14
+345,,loki,2,1,Ouroboros,2023-10-05
+346,,loki,2,2,Breaking Brad,2023-10-12
+347,,loki,2,3,1893,2023-10-19
+348,,loki,2,4,Heart of the TVA,2023-10-26
+349,,loki,2,5,Science/Fiction,2023-11-02
+350,,loki,2,6,Glorious Purpose,2023-11-09
+351,,what-if,1,1,What If... Captain Carter Were The First Avenger?,2021-08-11
+352,,what-if,1,2,What If... T'Challa Became a Star-Lord?,2021-08-18
+353,,what-if,1,3,What If... The World Lost Its Mightiest Heroes?,2021-08-25
+354,,what-if,1,4,What If... Doctor Strange Lost His Heart Instead of His Hands?,2021-09-01
+355,,what-if,1,5,What If... Zombies!?,2021-09-08
+356,,what-if,1,6,What If... Killmonger Rescued Tony Stark?,2021-09-15
+357,,what-if,1,7,What If... Thor Were an Only Child?,2021-09-22
+358,,what-if,1,8,What If... Ultron Won?,2021-09-29
+359,,what-if,1,9,What If… The Watcher Broke His Oath?,2021-10-06
+360,,what-if,2,1,What If... Nebula Joined the Nova Corps?,2023-12-22
+361,,what-if,2,2,What If... Peter Quill Attacked Earth's Mightiest Heroes?,2023-12-23
+362,,what-if,2,3,What If... Happy Hogan Saved Christmas?,2023-12-24
+363,,what-if,2,4,What If... Iron Man Crashed into the Grandmaster?,2023-12-25
+364,,what-if,2,5,What If... Captain Carter Fought the Hydra Stomper?,2023-12-26
+365,,what-if,2,6,What If... Kahhori Reshaped the World?,2023-12-27
+366,,what-if,2,7,What If... Hela Found the Ten Rings?,2023-12-28
+367,,what-if,2,8,What If... The Avengers Assembled in 1602?,2023-12-29
+368,,what-if,2,9,What If... Strange Supreme Intervened?,2023-12-30
+369,,what-if,3,1,The Hulk Fought the Mech Avengers?,2024-12-22
+370,,what-if,3,2,Agatha Went to Hollywood?,2024-12-23
+371,,what-if,3,3,The Red Guardian Stopped the Winter Soldier?,2024-12-24
+372,,what-if,3,4,Howard the Duck Got Hitched?,2024-12-25
+373,,what-if,3,5,The Emergence Destroyed the Earth?,2024-12-26
+374,,what-if,3,6,1872?,2024-12-27
+375,,what-if,3,7,The Watcher Disappeared?,2024-12-28
+376,,what-if,3,8,What If?,2024-12-29
+377,,hawkeye,1,1,Never Meet Your Heroes,2021-11-24
+378,,hawkeye,1,2,Hide and Seek,2021-11-24
+379,,hawkeye,1,3,Echoes,2021-12-01
+380,,hawkeye,1,4,"Partners, Am I Right?",2021-12-08
+381,,hawkeye,1,5,Ronin,2021-12-15
+382,,hawkeye,1,6,So This Is Christmas?,2021-12-22
+383,,moon-knight,1,1,The Goldfish Problem,2022-03-30
+384,,moon-knight,1,2,Summon the Suit,2022-04-06
+385,,moon-knight,1,3,The Friendly Type,2022-04-13
+386,,moon-knight,1,4,The Tomb,2022-04-20
+387,,moon-knight,1,5,Asylum,2022-04-27
+388,,moon-knight,1,6,Gods and Monsters,2022-05-04
+389,,ms-marvel,1,1,Generation Why,2022-06-08
+390,,ms-marvel,1,2,Crushed,2022-06-15
+391,,ms-marvel,1,3,Destined,2022-06-22
+392,,ms-marvel,1,4,Seeing Red,2022-06-29
+393,,ms-marvel,1,5,Time and Again,2022-07-06
+394,,ms-marvel,1,6,No Normal,2022-07-13
+395,,i-am-groot,1,1,Groot's First Steps,2022-08-10
+396,,i-am-groot,1,2,The Little Guy,2022-08-10
+397,,i-am-groot,1,3,Groot's Pursuit,2022-08-10
+398,,i-am-groot,1,4,Groot Takes a Bath,2022-08-10
+399,,i-am-groot,1,5,Magnum Opus,2022-08-10
+400,,i-am-groot,2,1,Are You My Groot?,2023-09-06
+401,,i-am-groot,2,2,Groot Noses Around,2023-09-06
+402,,i-am-groot,2,3,Groot's Snow Day,2023-09-06
+403,,i-am-groot,2,4,Groot's Sweet Treat,2023-09-06
+404,,i-am-groot,2,5,Groot and the Great Prophecy,2023-09-06
+405,,she-hulk-attorney-at-law,1,1,A Normal Amount Of Rage,2022-08-18
+406,,she-hulk-attorney-at-law,1,2,Superhuman Law,2022-08-25
+407,,she-hulk-attorney-at-law,1,3,The People vs. Emil Blonsky,2022-09-01
+408,,she-hulk-attorney-at-law,1,4,Is this Not Real Magic?,2022-09-08
+409,,she-hulk-attorney-at-law,1,5,"Mean, Green, and Straight Poured Into These Jeans",2022-09-15
+410,,she-hulk-attorney-at-law,1,6,Just Jen,2022-09-22
+411,,she-hulk-attorney-at-law,1,7,The Retreat,2022-09-29
+412,,she-hulk-attorney-at-law,1,8,Ribbit and Rip It,2022-10-06
+413,,she-hulk-attorney-at-law,1,9,Whose Show is This,2022-10-13
+414,,secret-invasion,1,1,Resurrection,2023-06-21
+415,,secret-invasion,1,2,Promises,2023-06-28
+416,,secret-invasion,1,3,Betrayed,2023-07-05
+417,,secret-invasion,1,4,Beloved,2023-07-12
+418,,secret-invasion,1,5,Harvest,2023-07-19
+419,,secret-invasion,1,6,Home,2023-07-26
+420,,echo,1,1,Chafa,2024-01-09
+421,,echo,1,2,Lowak,2024-01-09
+422,,echo,1,3,Tuklo,2024-01-09
+423,,echo,1,4,Taloa,2024-01-09
+424,,echo,1,5,Maya,2024-01-09
+425,,agatha-all-along,1,1,Seekest Thou the Road,2024-09-18
+426,,agatha-all-along,1,2,Circle Sewn With Fate / Unlock Thy Hidden Gate,2024-09-18
+427,,agatha-all-along,1,3,Through Many Miles / Of Tricks and Trials,2024-09-25
+428,,agatha-all-along,1,4,If I Can't Reach You / Let My Song Teach You,2024-10-02
+429,,agatha-all-along,1,5,Darkest Hour / Wake Thy Power,2024-10-09
+430,,agatha-all-along,1,6,Familiar by Thy Side,2024-10-16
+431,,agatha-all-along,1,7,Death's Hand in Mine,2024-10-23
+432,,agatha-all-along,1,8,Follow Me My Friend / To Glory at the End,2024-10-30
+433,,agatha-all-along,1,9,Maiden Mother Crone,2024-10-30
+434,,daredevil-born-again,1,1,Heaven's Half Hour,2025-03-04
+435,,daredevil-born-again,1,2,Optics,2025-03-04
+436,,daredevil-born-again,1,3,The Hollow of His Hand,2025-03-11
+437,,daredevil-born-again,1,4,Sic Semper Systema,2025-03-18
+438,,daredevil-born-again,1,5,With Interest,2025-03-25
+439,,daredevil-born-again,1,6,Excessive Force,2025-03-25
+440,,daredevil-born-again,1,7,Art for Art's Sake,2025-04-01
+441,,daredevil-born-again,1,8,Isle of Joy,2025-04-08
+442,,daredevil-born-again,1,9,Straight to Hell,2025-04-15
+443,,daredevil-born-again,2,1,The Northern Star,2026-03-24
+444,,daredevil-born-again,2,2,Shoot The Moon,2026-03-31
+445,,daredevil-born-again,2,3,The Scales & the Sword,2026-03-31
+446,,daredevil-born-again,2,4,Gloves off,2026-04-07
+447,,daredevil-born-again,2,5,The Grand Design,2026-04-14
+448,,daredevil-born-again,2,6,Requiem,2026-04-21
+449,,daredevil-born-again,2,7,The Hateful Darkness,2026-04-28
+450,,daredevil-born-again,2,8,The Southern Cross,2026-05-05
+451,,ironheart,1,1,Take Me Home,2025-06-24
+452,,ironheart,1,2,Will the Real Natalie Please Stand Up,2025-06-24
+453,,ironheart,1,3,"We in Danger, Girl",2025-06-24
+454,,ironheart,1,4,Bad Magic,2025-07-01
+455,,ironheart,1,5,Karma's a Glitch,2025-07-01
+456,,ironheart,1,6,The Past is the Past,2025-07-01
+457,,eyes-of-wakanda,1,1,Into the Lion's Den,2025-08-27
+458,,eyes-of-wakanda,1,2,Legends and Lies,2025-08-27
+459,,eyes-of-wakanda,1,3,Lost and Found,2025-08-27
+460,,eyes-of-wakanda,1,4,The Last Panther,2025-08-27
+461,,marvel-zombies,1,1,Episode 1,2025-09-24
+462,,marvel-zombies,1,2,Episode 2,2025-09-24
+463,,marvel-zombies,1,3,Episode 3,2025-09-24
+464,,marvel-zombies,1,4,Episode 4,2025-09-24
+465,,wonder-man,1,1,Matinee,2026-01-27
+466,,wonder-man,1,2,Self-Tape,2026-01-27
+467,,wonder-man,1,3,Pacoima,2026-01-27
+468,,wonder-man,1,4,Doorman,2026-01-27
+469,,wonder-man,1,5,Found Footage,2026-01-27
+470,,wonder-man,1,6,Call Back,2026-01-27
+471,,wonder-man,1,7,Kathy Friedman,2026-01-27
+472,,wonder-man,1,8,Yucca Valley,2026-01-27
+473,,visionquest,1,1,No Strings,2026-10-13
+474,,visionquest,1,2,Theseus,2026-10-13
+475,,visionquest,1,3,Reboot,2026-10-20
+476,,visionquest,1,4,Malware,2026-10-20
+477,,visionquest,1,5,Firewall,2026-10-27
+478,,visionquest,1,6,Deadlock,2026-10-27

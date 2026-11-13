@@ -1,0 +1,3 @@
+﻿id,slug,name,description,is_default
+1,chronological,Orden cronológico,Orden de la historia dentro del multiverso,true
+2,release-order,Orden de estreno,Orden en que se estrenó cada ítem,false

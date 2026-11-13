@@ -1,0 +1,557 @@
+﻿id,item_name_,title_id,_titles_slug,episode_id,_episodes_season_number,_episodes_episode_number,edition_id,_title_editions_slug,segment,label,description,duration_minutes,universe_id,_universes_code
+1,Eyes of Wakanda S1E1: Into the Lion's Den,,eyes-of-wakanda,,1,1,,,episode,,,32,,Earth-616
+2,Eyes of Wakanda S1E2: Legends and Lies,,eyes-of-wakanda,,1,2,,,episode,,,32,,Earth-616
+3,Eyes of Wakanda S1E3: Lost and Found,,eyes-of-wakanda,,1,3,,,episode,,,31,,Earth-616
+4,Eyes of Wakanda S1E4: The Last Panther,,eyes-of-wakanda,,1,4,,,episode,,,30,,Earth-616
+5,Captain America: The First Avenger,,captain-america-the-first-avenger,,,,,,full,,,124,,Earth-616
+6,Agent Carter S1E1: Now is Not the End,,agent-carter,,1,1,,,episode,,,43,,Earth-616
+7,Agent Carter S1E2: Bridge and Tunnel,,agent-carter,,1,2,,,episode,,,41,,Earth-616
+8,Agent Carter S1E3: Time and Tide,,agent-carter,,1,3,,,episode,,,41,,Earth-616
+9,Agent Carter S1E4: The Blitzkrieg Button,,agent-carter,,1,4,,,episode,,,41,,Earth-616
+10,Agent Carter S1E5: The Iron Ceiling,,agent-carter,,1,5,,,episode,,,43,,Earth-616
+11,Agent Carter S1E6: A Sin to Err,,agent-carter,,1,6,,,episode,,,41,,Earth-616
+12,Agent Carter S1E7: Snafu,,agent-carter,,1,7,,,episode,,,41,,Earth-616
+13,Agent Carter S1E8: Valediction,,agent-carter,,1,8,,,episode,,,43,,Earth-616
+14,Agent Carter S2E1: The Lady in the Lake,,agent-carter,,2,1,,,episode,,,42,,Earth-616
+15,Agent Carter S2E2: A View in the Dark,,agent-carter,,2,2,,,episode,,,43,,Earth-616
+16,Agent Carter S2E3: Better Angels,,agent-carter,,2,3,,,episode,,,43,,Earth-616
+17,Agent Carter S2E4: Smoke & Mirrors,,agent-carter,,2,4,,,episode,,,43,,Earth-616
+18,Agent Carter S2E5: The Atomic Job,,agent-carter,,2,5,,,episode,,,42,,Earth-616
+19,Agent Carter S2E6: Life of the Party,,agent-carter,,2,6,,,episode,,,43,,Earth-616
+20,Agent Carter S2E7: Monsters,,agent-carter,,2,7,,,episode,,,43,,Earth-616
+21,Agent Carter S2E8: The Edge Of Mystery,,agent-carter,,2,8,,,episode,,,43,,Earth-616
+22,Agent Carter S2E9: Little Song and Dance,,agent-carter,,2,9,,,episode,,,42,,Earth-616
+23,Agent Carter S2E10: Hollywood Ending,,agent-carter,,2,10,,,episode,,,41,,Earth-616
+24,Captain Marvel,,captain-marvel,,,,,,full,,,125,,Earth-616
+25,Iron Man,,iron-man,,,,,,full,,,126,,Earth-616
+26,Iron Man 2,,iron-man-2,,,,,,full,,,124,,Earth-616
+27,The Incredible Hulk,,the-incredible-hulk,,,,,,full,,,112,,Earth-616
+28,Thor,,thor,,,,,,full,,,115,,Earth-616
+29,Avengers,,avengers,,,,,,full,,,143,,Earth-616
+30,Agents of S.H.I.E.L.D. S1E1: Pilot,,agents-of-s-h-i-e-l-d,,1,1,,,episode,,,44,,Earth-616
+31,Agents of S.H.I.E.L.D. S1E2: 0-8-4,,agents-of-s-h-i-e-l-d,,1,2,,,episode,,,41,,Earth-616
+32,Agents of S.H.I.E.L.D. S1E3: The Asset,,agents-of-s-h-i-e-l-d,,1,3,,,episode,,,43,,Earth-616
+33,Agents of S.H.I.E.L.D. S1E4: Eye Spy,,agents-of-s-h-i-e-l-d,,1,4,,,episode,,,42,,Earth-616
+34,Agents of S.H.I.E.L.D. S1E5: Girl In The Flower Dress,,agents-of-s-h-i-e-l-d,,1,5,,,episode,,,42,,Earth-616
+35,Agents of S.H.I.E.L.D. S1E6: F.Z.Z.T.,,agents-of-s-h-i-e-l-d,,1,6,,,episode,,,43,,Earth-616
+36,Agents of S.H.I.E.L.D. S1E7: The Hub,,agents-of-s-h-i-e-l-d,,1,7,,,episode,,,42,,Earth-616
+37,Thor: The Dark World,,thor-the-dark-world,,,,,,full,,,112,,Earth-616
+38,Agents of S.H.I.E.L.D. S1E8: The Well,,agents-of-s-h-i-e-l-d,,1,8,,,episode,,,42,,Earth-616
+39,Agents of S.H.I.E.L.D. S1E9: Repairs,,agents-of-s-h-i-e-l-d,,1,9,,,episode,,,43,,Earth-616
+40,Agents of S.H.I.E.L.D. S1E10: The Bridge,,agents-of-s-h-i-e-l-d,,1,10,,,episode,,,41,,Earth-616
+41,Agents of S.H.I.E.L.D. S1E11: The Magical Place,,agents-of-s-h-i-e-l-d,,1,11,,,episode,,,42,,Earth-616
+42,Agents of S.H.I.E.L.D. S1E12: Seeds,,agents-of-s-h-i-e-l-d,,1,12,,,episode,,,43,,Earth-616
+43,Iron Man 3,,iron-man-3,,,,,,full,,,130,,Earth-616
+44,Agents of S.H.I.E.L.D. S1E13: T.R.A.C.K.S.,,agents-of-s-h-i-e-l-d,,1,13,,,episode,,,42,,Earth-616
+45,Agents of S.H.I.E.L.D. S1E14: T.A.H.I.T.I,,agents-of-s-h-i-e-l-d,,1,14,,,episode,,,42,,Earth-616
+46,Agents of S.H.I.E.L.D. S1E15: Yes Men,,agents-of-s-h-i-e-l-d,,1,15,,,episode,,,43,,Earth-616
+47,Agents of S.H.I.E.L.D. S1E16: End Of The Beginning,,agents-of-s-h-i-e-l-d,,1,16,,,episode,,,41,,Earth-616
+48,Captain America: The Winter Soldier,,captain-america-the-winter-soldier,,,,,,full,,,136,,Earth-616
+49,"Agents of S.H.I.E.L.D. S1E17: Turn, Turn, Turn",,agents-of-s-h-i-e-l-d,,1,17,,,episode,,,43,,Earth-616
+50,Agents of S.H.I.E.L.D. S1E18: Providence,,agents-of-s-h-i-e-l-d,,1,18,,,episode,,,43,,Earth-616
+51,Agents of S.H.I.E.L.D. S1E19: The Only Light In The Darkness,,agents-of-s-h-i-e-l-d,,1,19,,,episode,,,43,,Earth-616
+52,Agents of S.H.I.E.L.D. S1E20: Nothing personal,,agents-of-s-h-i-e-l-d,,1,20,,,episode,,,43,,Earth-616
+53,Agents of S.H.I.E.L.D. S1E21: Ragtag,,agents-of-s-h-i-e-l-d,,1,21,,,episode,,,43,,Earth-616
+54,Agents of S.H.I.E.L.D. S1E22: Beginning Of The End,,agents-of-s-h-i-e-l-d,,1,22,,,episode,,,43,,Earth-616
+55,Agents of S.H.I.E.L.D. S2E1: Shadows,,agents-of-s-h-i-e-l-d,,2,1,,,episode,,,43,,Earth-616
+56,Agents of S.H.I.E.L.D. S2E2: Heavy Is The Head,,agents-of-s-h-i-e-l-d,,2,2,,,episode,,,43,,Earth-616
+57,Guardians Of The Galaxy,,guardians-of-the-galaxy,,,,,,full,,,121,,Earth-616
+58,I Am Groot S1E1: Groot's First Steps,,i-am-groot,,1,1,,,episode,,,6,,Earth-616
+59,Agents of S.H.I.E.L.D. S2E3: Making Friends And Influencing People,,agents-of-s-h-i-e-l-d,,2,3,,,episode,,,43,,Earth-616
+60,Guardians Of The Galaxy Vol. 2,,guardians-of-the-galaxy-vol-2,,,,,,full,,,136,,Earth-616
+61,I Am Groot S1E2: The Little Guy,,i-am-groot,,1,2,,,episode,,,6,,Earth-616
+62,I Am Groot S1E3: Groot's Pursuit,,i-am-groot,,1,3,,,episode,,,6,,Earth-616
+63,I Am Groot S1E4: Groot Takes a Bath,,i-am-groot,,1,4,,,episode,,,6,,Earth-616
+64,I Am Groot S1E5: Magnum Opus,,i-am-groot,,1,5,,,episode,,,6,,Earth-616
+65,I Am Groot S2E1: Are You My Groot?,,i-am-groot,,2,1,,,episode,,,5,,Earth-616
+66,I Am Groot S2E2: Groot Noses Around,,i-am-groot,,2,2,,,episode,,,4,,Earth-616
+67,I Am Groot S2E3: Groot's Snow Day,,i-am-groot,,2,3,,,episode,,,5,,Earth-616
+68,I Am Groot S2E4: Groot's Sweet Treat,,i-am-groot,,2,4,,,episode,,,5,,Earth-616
+69,I Am Groot S2E5: Groot and the Great Prophecy,,i-am-groot,,2,5,,,episode,,,6,,Earth-616
+70,Agents of S.H.I.E.L.D. S2E4: I Will Face My Enemy,,agents-of-s-h-i-e-l-d,,2,4,,,episode,,,41,,Earth-616
+71,Agents of S.H.I.E.L.D. S2E5: A Hen In The Wolf House,,agents-of-s-h-i-e-l-d,,2,5,,,episode,,,43,,Earth-616
+72,Daredevil S1E1: Into the Ring,,daredevil,,1,1,,,episode,,,53,,Earth-616
+73,Daredevil S1E2: Cut Man,,daredevil,,1,2,,,episode,,,53,,Earth-616
+74,Daredevil S1E3: Rabbit in a Snowstorm,,daredevil,,1,3,,,episode,,,52,,Earth-616
+75,Daredevil S1E4: In the Blood,,daredevil,,1,4,,,episode,,,52,,Earth-616
+76,Daredevil S1E5: World on Fire,,daredevil,,1,5,,,episode,,,56,,Earth-616
+77,Daredevil S1E6: Condemned,,daredevil,,1,6,,,episode,,,48,,Earth-616
+78,Daredevil S1E7: Stick,,daredevil,,1,7,,,episode,,,50,,Earth-616
+79,Daredevil S1E8: Shadows in the Glass,,daredevil,,1,8,,,episode,,,53,,Earth-616
+80,Daredevil S1E9: Speak of the Devil,,daredevil,,1,9,,,episode,,,58,,Earth-616
+81,Daredevil S1E10: Nelson v. Murdock,,daredevil,,1,10,,,episode,,,57,,Earth-616
+82,Daredevil S1E11: The Path of the Righteous,,daredevil,,1,11,,,episode,,,59,,Earth-616
+83,Daredevil S1E12: The Ones We Leave Behind,,daredevil,,1,12,,,episode,,,60,,Earth-616
+84,Daredevil S1E13: Daredevil,,daredevil,,1,13,,,episode,,,56,,Earth-616
+85,Agents of S.H.I.E.L.D. S2E6: A Fractured House,,agents-of-s-h-i-e-l-d,,2,6,,,episode,,,41,,Earth-616
+86,Jessica Jones S1E1: AKA Ladies Night,,jessica-jones,,1,1,,,episode,,,52,,Earth-616
+87,Jessica Jones S1E2: AKA Crush Syndrome,,jessica-jones,,1,2,,,episode,,,52,,Earth-616
+88,Agents of S.H.I.E.L.D. S2E7: The Writing On The Wall,,agents-of-s-h-i-e-l-d,,2,7,,,episode,,,42,,Earth-616
+89,Jessica Jones S1E3: AKA It's Called Whiskey,,jessica-jones,,1,3,,,episode,,,54,,Earth-616
+90,Jessica Jones S1E4: AKA 99 Friends,,jessica-jones,,1,4,,,episode,,,49,,Earth-616
+91,Jessica Jones S1E5: AKA The Sandwich Saved Me,,jessica-jones,,1,5,,,episode,,,50,,Earth-616
+92,Agents of S.H.I.E.L.D. S2E8: The Things We Bury,,agents-of-s-h-i-e-l-d,,2,8,,,episode,,,43,,Earth-616
+93,Agents of S.H.I.E.L.D. S2E9: Ye Who Enters Here,,agents-of-s-h-i-e-l-d,,2,9,,,episode,,,43,,Earth-616
+94,Agents of S.H.I.E.L.D. S2E10: What They Become,,agents-of-s-h-i-e-l-d,,2,10,,,episode,,,43,,Earth-616
+95,Agents of S.H.I.E.L.D. S2E11: Aftershocks,,agents-of-s-h-i-e-l-d,,2,11,,,episode,,,43,,Earth-616
+96,Jessica Jones S1E6: AKA You're a Winner,,jessica-jones,,1,6,,,episode,,,54,,Earth-616
+97,Jessica Jones S1E7: AKA Top Shelf Perverts,,jessica-jones,,1,7,,,episode,,,55,,Earth-616
+98,Agents of S.H.I.E.L.D. S2E12: Who You Really Are,,agents-of-s-h-i-e-l-d,,2,12,,,episode,,,41,,Earth-616
+99,Jessica Jones S1E8: AKA WWJD?,,jessica-jones,,1,8,,,episode,,,50,,Earth-616
+100,Agents of S.H.I.E.L.D. S2E13: One of Us,,agents-of-s-h-i-e-l-d,,2,13,,,episode,,,43,,Earth-616
+101,Jessica Jones S1E9: AKA Sin Bin,,jessica-jones,,1,9,,,episode,,,55,,Earth-616
+102,"Jessica Jones S1E10: AKA 1,000 Cuts",,jessica-jones,,1,10,,,episode,,,46,,Earth-616
+103,Agents of S.H.I.E.L.D. S2E14: Love in the Time of Hydra,,agents-of-s-h-i-e-l-d,,2,14,,,episode,,,43,,Earth-616
+104,Agents of S.H.I.E.L.D. S2E15: One Door Closes,,agents-of-s-h-i-e-l-d,,2,15,,,episode,,,43,,Earth-616
+105,Jessica Jones S1E11: AKA I've Got the Blues,,jessica-jones,,1,11,,,episode,,,50,,Earth-616
+106,Jessica Jones S1E12: AKA Take A Bloody Number,,jessica-jones,,1,12,,,episode,,,54,,Earth-616
+107,Jessica Jones S1E13: AKA Smile,,jessica-jones,,1,13,,,episode,,,52,,Earth-616
+108,Agents of S.H.I.E.L.D. S2E16: Afterlife,,agents-of-s-h-i-e-l-d,,2,16,,,episode,,,43,,Earth-616
+109,Agents of S.H.I.E.L.D. S2E17: Melinda,,agents-of-s-h-i-e-l-d,,2,17,,,episode,,,43,,Earth-616
+110,Agents of S.H.I.E.L.D. S2E18: The Frenemy of My Enemy,,agents-of-s-h-i-e-l-d,,2,18,,,episode,,,43,,Earth-616
+111,Agents of S.H.I.E.L.D. S2E19: The Dirty Half Dozen,,agents-of-s-h-i-e-l-d,,2,19,,,episode,,,41,,Earth-616
+112,Avengers: Age Of Ultron,,avengers-age-of-ultron,,,,,,full,,,141,,Earth-616
+113,Agents of S.H.I.E.L.D. S2E20: Scars,,agents-of-s-h-i-e-l-d,,2,20,,,episode,,,43,,Earth-616
+114,Agents of S.H.I.E.L.D. S2E21: S.O.S. Part 1,,agents-of-s-h-i-e-l-d,,2,21,,,episode,,,43,,Earth-616
+115,Agents of S.H.I.E.L.D. S2E22: S.O.S. Part 2,,agents-of-s-h-i-e-l-d,,2,22,,,episode,,,43,,Earth-616
+116,Ant-Man,,ant-man,,,,,,full,,,117,,Earth-616
+117,Daredevil S2E1: Bang,,daredevil,,2,1,,,episode,,,48,,Earth-616
+118,Daredevil S2E2: Dogs To A Gunfight,,daredevil,,2,2,,,episode,,,50,,Earth-616
+119,Daredevil S2E3: New York's Finest,,daredevil,,2,3,,,episode,,,48,,Earth-616
+120,Daredevil S2E4: Penny and Dime,,daredevil,,2,4,,,episode,,,60,,Earth-616
+121,Daredevil S2E5: Kinbaku,,daredevil,,2,5,,,episode,,,56,,Earth-616
+122,Daredevil S2E6: Regrets Only,,daredevil,,2,6,,,episode,,,56,,Earth-616
+123,Daredevil S2E7: Semper Fidelis,,daredevil,,2,7,,,episode,,,56,,Earth-616
+124,Luke Cage S1E1: Moment of Truth,,luke-cage,,1,1,,,episode,,,55,,Earth-616
+125,Daredevil S2E8: Guilty as Sin,,daredevil,,2,8,,,episode,,,54,,Earth-616
+126,Luke Cage S1E2: Code of the Streets,,luke-cage,,1,2,,,episode,,,59,,Earth-616
+127,Daredevil S2E9: Seven Minutes in Heaven,,daredevil,,2,9,,,episode,,,59,,Earth-616
+128,Luke Cage S1E3: Who's Gonna Take the Weight?,,luke-cage,,1,3,,,episode,,,56,,Earth-616
+129,Luke Cage S1E4: Step in the Arena,,luke-cage,,1,4,,,episode,,,52,,Earth-616
+130,Daredevil S2E10: The Man in The Box,,daredevil,,2,10,,,episode,,,52,,Earth-616
+131,Daredevil S2E11: .380,,daredevil,,2,11,,,episode,,,55,,Earth-616
+132,Luke Cage S1E5: Just to Get a Rep.,,luke-cage,,1,5,,,episode,,,52,,Earth-616
+133,Daredevil S2E12: The Dark at the End of the Tunnel,,daredevil,,2,12,,,episode,,,52,,Earth-616
+134,Daredevil S2E13: A Cold Day in Hell's Kitchen,,daredevil,,2,13,,,episode,,,58,,Earth-616
+135,Agents of S.H.I.E.L.D. S3E1: Laws Of Nature,,agents-of-s-h-i-e-l-d,,3,1,,,episode,,,43,,Earth-616
+136,Luke Cage S1E6: Suckas Need Bodyguards,,luke-cage,,1,6,,,episode,,,53,,Earth-616
+137,Agents of S.H.I.E.L.D. S3E2: Purpose In The Machine,,agents-of-s-h-i-e-l-d,,3,2,,,episode,,,42,,Earth-616
+138,Luke Cage S1E7: Manifest,,luke-cage,,1,7,,,episode,,,52,,Earth-616
+139,Luke Cage S1E8: Blowin' up the Spot,,luke-cage,,1,8,,,episode,,,48,,Earth-616
+140,Agents of S.H.I.E.L.D. S3E3: A Wanted (Inhu)man,,agents-of-s-h-i-e-l-d,,3,3,,,episode,,,41,,Earth-616
+141,Luke Cage S1E9: DWYCK,,luke-cage,,1,9,,,episode,,,65,,Earth-616
+142,Luke Cage S1E10: Take it Personal,,luke-cage,,1,10,,,episode,,,48,,Earth-616
+143,Luke Cage S1E11: Now You're Mine,,luke-cage,,1,11,,,episode,,,54,,Earth-616
+144,Luke Cage S1E12: Soliloquy of Chaos,,luke-cage,,1,12,,,episode,,,62,,Earth-616
+145,Luke Cage S1E13: You Know My Steez,,luke-cage,,1,13,,,episode,,,46,,Earth-616
+146,Agents of S.H.I.E.L.D. S3E4: Devils You Know,,agents-of-s-h-i-e-l-d,,3,4,,,episode,,,43,,Earth-616
+147,"Agents of S.H.I.E.L.D. S3E5: 4,772 Hours",,agents-of-s-h-i-e-l-d,,3,5,,,episode,,,43,,Earth-616
+148,Agents of S.H.I.E.L.D. S3E6: Among Us Hide,,agents-of-s-h-i-e-l-d,,3,6,,,episode,,,43,,Earth-616
+149,Agents of S.H.I.E.L.D. S3E7: Chaos Theory,,agents-of-s-h-i-e-l-d,,3,7,,,episode,,,43,,Earth-616
+150,"Agents of S.H.I.E.L.D. S3E8: Many Heads, One Tale",,agents-of-s-h-i-e-l-d,,3,8,,,episode,,,43,,Earth-616
+151,Agents of S.H.I.E.L.D. S3E9: Closure,,agents-of-s-h-i-e-l-d,,3,9,,,episode,,,43,,Earth-616
+152,Agents of S.H.I.E.L.D. S3E10: Maveth,,agents-of-s-h-i-e-l-d,,3,10,,,episode,,,43,,Earth-616
+153,Iron Fist S1E1: Snow Gives Way,,iron-fist,,1,1,,,episode,,,57,,Earth-616
+154,Iron Fist S1E2: Shadow Hawk Takes Flight,,iron-fist,,1,2,,,episode,,,61,,Earth-616
+155,Iron Fist S1E3: Rolling Thunder Cannon Punch,,iron-fist,,1,3,,,episode,,,59,,Earth-616
+156,Iron Fist S1E4: Eight Diagram Dragon Palm,,iron-fist,,1,4,,,episode,,,54,,Earth-616
+157,Iron Fist S1E5: Under Leaf Pluck Lotus,,iron-fist,,1,5,,,episode,,,56,,Earth-616
+158,Iron Fist S1E6: Immortal Emerges From Cave,,iron-fist,,1,6,,,episode,,,53,,Earth-616
+159,Iron Fist S1E7: Felling With Tree Routes,,iron-fist,,1,7,,,episode,,,58,,Earth-616
+160,Iron Fist S1E8: The Blessing Of Many Fractures,,iron-fist,,1,8,,,episode,,,55,,Earth-616
+161,Iron Fist S1E9: The Mistress Of All Agonies,,iron-fist,,1,9,,,episode,,,54,,Earth-616
+162,Iron Fist S1E10: Black Tiger Steals Heart,,iron-fist,,1,10,,,episode,,,56,,Earth-616
+163,Iron Fist S1E11: Lead Horse Back To Stable,,iron-fist,,1,11,,,episode,,,52,,Earth-616
+164,Iron Fist S1E12: Bar The Big Boss,,iron-fist,,1,12,,,episode,,,50,,Earth-616
+165,Iron Fist S1E13: Dragon Plays With Fire,,iron-fist,,1,13,,,episode,,,53,,Earth-616
+166,Agents of S.H.I.E.L.D. S3E11: Bouncing Back,,agents-of-s-h-i-e-l-d,,3,11,,,episode,,,43,,Earth-616
+167,Agents of S.H.I.E.L.D. S3E12: The Inside Man,,agents-of-s-h-i-e-l-d,,3,12,,,episode,,,43,,Earth-616
+168,Agents of S.H.I.E.L.D. S3E13: Parting Shot,,agents-of-s-h-i-e-l-d,,3,13,,,episode,,,42,,Earth-616
+169,Agents of S.H.I.E.L.D. S3E14: Watchdogs,,agents-of-s-h-i-e-l-d,,3,14,,,episode,,,42,,Earth-616
+170,Agents of S.H.I.E.L.D. S3E15: Spacetime,,agents-of-s-h-i-e-l-d,,3,15,,,episode,,,43,,Earth-616
+171,Agents of S.H.I.E.L.D. S3E16: Paradise Lost,,agents-of-s-h-i-e-l-d,,3,16,,,episode,,,43,,Earth-616
+172,Agents of S.H.I.E.L.D. S3E17: The Team,,agents-of-s-h-i-e-l-d,,3,17,,,episode,,,43,,Earth-616
+173,Agents of S.H.I.E.L.D. S3E18: The Singularity,,agents-of-s-h-i-e-l-d,,3,18,,,episode,,,43,,Earth-616
+174,The Defenders S1E1: The H Word,,the-defenders,,1,1,,,episode,,,51,,Earth-616
+175,The Defenders S1E2: Mean Right Hook,,the-defenders,,1,2,,,episode,,,44,,Earth-616
+176,The Defenders S1E3: Worst Behavior,,the-defenders,,1,3,,,episode,,,55,,Earth-616
+177,The Defenders S1E4: Royal Dragon,,the-defenders,,1,4,,,episode,,,45,,Earth-616
+178,The Defenders S1E5: Take Shelter,,the-defenders,,1,5,,,episode,,,50,,Earth-616
+179,"The Defenders S1E6: Ashes, Ashes",,the-defenders,,1,6,,,episode,,,51,,Earth-616
+180,The Defenders S1E7: Fish in the Jailhouse,,the-defenders,,1,7,,,episode,,,45,,Earth-616
+181,The Defenders S1E8: The Defenders,,the-defenders,,1,8,,,episode,,,57,,Earth-616
+182,Agents of S.H.I.E.L.D. S3E19: Failed Experiments,,agents-of-s-h-i-e-l-d,,3,19,,,episode,,,41,,Earth-616
+183,Captain America: Civil War,,captain-america-civil-war,,,,,,full,,,147,,Earth-616
+184,Agents of S.H.I.E.L.D. S3E20: Emancipation,,agents-of-s-h-i-e-l-d,,3,20,,,episode,,,42,,Earth-616
+185,Black Widow,,black-widow,,,,,,full,,,135,,Earth-616
+186,Agents of S.H.I.E.L.D. S3E21: Absolution,,agents-of-s-h-i-e-l-d,,3,21,,,episode,,,43,,Earth-616
+187,Agents of S.H.I.E.L.D. S3E22: Ascension,,agents-of-s-h-i-e-l-d,,3,22,,,episode,,,43,,Earth-616
+188,Black Panther,,black-panther,,,,,,full,,,135,,Earth-616
+189,Inhumans S1E1: Behold... The Inhumans,,inhumans,,1,1,,,episode,,,42,,Earth-616
+190,Inhumans S1E2: Those Who Would Destroy Us,,inhumans,,1,2,,,episode,,,43,,Earth-616
+191,Inhumans S1E3: Divide - And Conquer,,inhumans,,1,3,,,episode,,,42,,Earth-616
+192,Inhumans S1E4: Make Way For... Medusa,,inhumans,,1,4,,,episode,,,42,,Earth-616
+193,Inhumans S1E5: Something Inhuman This Way Comes...,,inhumans,,1,5,,,episode,,,43,,Earth-616
+194,Inhumans S1E6: The Gentleman's Name Is Gorgon,,inhumans,,1,6,,,episode,,,42,,Earth-616
+195,Inhumans S1E7: Havoc In The Hidden Land,,inhumans,,1,7,,,episode,,,43,,Earth-616
+196,Inhumans S1E8: ...And Finally: Black Bolt,,inhumans,,1,8,,,episode,,,43,,Earth-616
+197,Midtown School of Science and Technology News,,midtown-school-of-science-and-technology-news,,,,,,full,,,3,,Earth-616
+198,Spider-Man: Homecoming,,spider-man-homecoming,,,,,,full,,,133,,Earth-616
+199,The Punisher S1E1: 3 AM,,the-punisher,,1,1,,,episode,,,51,,Earth-616
+200,The Punisher S1E2: Two Dead Men,,the-punisher,,1,2,,,episode,,,57,,Earth-616
+201,The Punisher S1E3: Kandahar,,the-punisher,,1,3,,,episode,,,57,,Earth-616
+202,The Punisher S1E4: Resupply,,the-punisher,,1,4,,,episode,,,49,,Earth-616
+203,The Punisher S1E5: Gunner,,the-punisher,,1,5,,,episode,,,55,,Earth-616
+204,The Punisher S1E6: The Judas Goat,,the-punisher,,1,6,,,episode,,,54,,Earth-616
+205,The Punisher S1E7: Crosshairs,,the-punisher,,1,7,,,episode,,,49,,Earth-616
+206,The Punisher S1E8: Cold Steel,,the-punisher,,1,8,,,episode,,,53,,Earth-616
+207,The Punisher S1E9: Front Towards Enemy,,the-punisher,,1,9,,,episode,,,53,,Earth-616
+208,The Punisher S1E10: Virtue of the Vicious,,the-punisher,,1,10,,,episode,,,49,,Earth-616
+209,The Punisher S1E11: Danger Close,,the-punisher,,1,11,,,episode,,,52,,Earth-616
+210,The Punisher S1E12: Home,,the-punisher,,1,12,,,episode,,,51,,Earth-616
+211,The Punisher S1E13: Memento Mori,,the-punisher,,1,13,,,episode,,,55,,Earth-616
+212,Doctor Strange,,doctor-strange,,,,,,full,,,115,,Earth-616
+213,Agents of S.H.I.E.L.D. S4E1: The Ghost,,agents-of-s-h-i-e-l-d,,4,1,,,episode,,,43,,Earth-616
+214,Agents of S.H.I.E.L.D. S4E2: Meet the New Boss,,agents-of-s-h-i-e-l-d,,4,2,,,episode,,,43,,Earth-616
+215,Agents of S.H.I.E.L.D. S4E3: Uprising,,agents-of-s-h-i-e-l-d,,4,3,,,episode,,,42,,Earth-616
+216,Agents of S.H.I.E.L.D. S4E4: Let Me Stand Next to Your Fire,,agents-of-s-h-i-e-l-d,,4,4,,,episode,,,43,,Earth-616
+217,Agents of S.H.I.E.L.D. S4E5: Lockup,,agents-of-s-h-i-e-l-d,,4,5,,,episode,,,42,,Earth-616
+218,Agents of S.H.I.E.L.D. S4E6: The Good Samaritan,,agents-of-s-h-i-e-l-d,,4,6,,,episode,,,41,,Earth-616
+219,Agents of S.H.I.E.L.D. S4E7: Deals With Our Devils,,agents-of-s-h-i-e-l-d,,4,7,,,episode,,,43,,Earth-616
+220,Agents of S.H.I.E.L.D. S4E8: The Laws of Inferno Dynamics,,agents-of-s-h-i-e-l-d,,4,8,,,episode,,,42,,Earth-616
+221,Agents of S.H.I.E.L.D. S4E9: Broken Promises,,agents-of-s-h-i-e-l-d,,4,9,,,episode,,,43,,Earth-616
+222,Agents of S.H.I.E.L.D. S4E10: The Patriot,,agents-of-s-h-i-e-l-d,,4,10,,,episode,,,42,,Earth-616
+223,Agents of S.H.I.E.L.D. S4E11: Wake Up,,agents-of-s-h-i-e-l-d,,4,11,,,episode,,,42,,Earth-616
+224,Agents of S.H.I.E.L.D. S4E12: Hot Potato Soup,,agents-of-s-h-i-e-l-d,,4,12,,,episode,,,43,,Earth-616
+225,Agents of S.H.I.E.L.D. S4E13: BOOM,,agents-of-s-h-i-e-l-d,,4,13,,,episode,,,43,,Earth-616
+226,Jessica Jones S2E1: AKA Start At The Beginning,,jessica-jones,,2,1,,,episode,,,53,,Earth-616
+227,Agents of S.H.I.E.L.D. S4E14: The Man Behind the Shield,,agents-of-s-h-i-e-l-d,,4,14,,,episode,,,42,,Earth-616
+228,Agents of S.H.I.E.L.D. S4E15: Self Control,,agents-of-s-h-i-e-l-d,,4,15,,,episode,,,43,,Earth-616
+229,Jessica Jones S2E2: AKA Freak Accident,,jessica-jones,,2,2,,,episode,,,56,,Earth-616
+230,Jessica Jones S2E3: AKA Sole Survivor,,jessica-jones,,2,3,,,episode,,,54,,Earth-616
+231,Jessica Jones S2E4: AKA God Help The Hobo,,jessica-jones,,2,4,,,episode,,,50,,Earth-616
+232,Jessica Jones S2E5: AKA The Octopus,,jessica-jones,,2,5,,,episode,,,52,,Earth-616
+233,Agents of S.H.I.E.L.D. S4E16: What If...,,agents-of-s-h-i-e-l-d,,4,16,,,episode,,,43,,Earth-616
+234,Agents of S.H.I.E.L.D. S4E17: Identity and Change,,agents-of-s-h-i-e-l-d,,4,17,,,episode,,,43,,Earth-616
+235,Agents of S.H.I.E.L.D. S4E18: No Regrets,,agents-of-s-h-i-e-l-d,,4,18,,,episode,,,43,,Earth-616
+236,Agents of S.H.I.E.L.D. S4E19: All The Madame’s Men,,agents-of-s-h-i-e-l-d,,4,19,,,episode,,,43,,Earth-616
+237,"Agents of S.H.I.E.L.D. S4E20: Farewell, Cruel World!",,agents-of-s-h-i-e-l-d,,4,20,,,episode,,,41,,Earth-616
+238,Agents of S.H.I.E.L.D. S4E21: The Return,,agents-of-s-h-i-e-l-d,,4,21,,,episode,,,43,,Earth-616
+239,Agents of S.H.I.E.L.D. S4E22: World’s End,,agents-of-s-h-i-e-l-d,,4,22,,,episode,,,43,,Earth-616
+240,Agents of S.H.I.E.L.D. S5E1: Orientation Part 1,,agents-of-s-h-i-e-l-d,,5,1,,,episode,,,43,,Earth-616
+241,Jessica Jones S2E6: AKA Facetime,,jessica-jones,,2,6,,,episode,,,49,,Earth-616
+242,Jessica Jones S2E7: AKA I Want Your Cray Cray,,jessica-jones,,2,7,,,episode,,,53,,Earth-616
+243,Jessica Jones S2E8: AKA Ain't We Got Fun,,jessica-jones,,2,8,,,episode,,,50,,Earth-616
+244,"Jessica Jones S2E9: AKA Shark In The Bathtub, Monster In The Bed",,jessica-jones,,2,9,,,episode,,,50,,Earth-616
+245,Jessica Jones S2E10: AKA Pork Chop,,jessica-jones,,2,10,,,episode,,,55,,Earth-616
+246,Jessica Jones S2E11: AKA Three Lives And Counting,,jessica-jones,,2,11,,,episode,,,49,,Earth-616
+247,Jessica Jones S2E12: AKA Pray For My Patsy,,jessica-jones,,2,12,,,episode,,,47,,Earth-616
+248,Jessica Jones S2E13: AKA Playland,,jessica-jones,,2,13,,,episode,,,53,,Earth-616
+249,Luke Cage S2E1: Soul Brother,,luke-cage,,2,1,,,episode,,,56,,Earth-616
+250,Luke Cage S2E2: Straighten It Out,,luke-cage,,2,2,,,episode,,,55,,Earth-616
+251,Luke Cage S2E3: Wig Out,,luke-cage,,2,3,,,episode,,,60,,Earth-616
+252,Luke Cage S2E4: I Get Physical,,luke-cage,,2,4,,,episode,,,54,,Earth-616
+253,Luke Cage S2E5: All Souled Out,,luke-cage,,2,5,,,episode,,,57,,Earth-616
+254,Luke Cage S2E6: The Basement,,luke-cage,,2,6,,,episode,,,64,,Earth-616
+255,Luke Cage S2E7: On and On,,luke-cage,,2,7,,,episode,,,55,,Earth-616
+256,"Luke Cage S2E8: If It Ain't Rough, it Ain't Right",,luke-cage,,2,8,,,episode,,,55,,Earth-616
+257,Luke Cage S2E9: For Pete's Sake,,luke-cage,,2,9,,,episode,,,59,,Earth-616
+258,Luke Cage S2E10: The Main Ingredient,,luke-cage,,2,10,,,episode,,,59,,Earth-616
+259,Luke Cage S2E11: The Creator,,luke-cage,,2,11,,,episode,,,56,,Earth-616
+260,Luke Cage S2E12: Can't Front on Me,,luke-cage,,2,12,,,episode,,,62,,Earth-616
+261,Luke Cage S2E13: They Reminisce Over You,,luke-cage,,2,13,,,episode,,,69,,Earth-616
+262,Iron Fist S2E1: The Fury Of Iron Fist,,iron-fist,,2,1,,,episode,,,57,,Earth-616
+263,Iron Fist S2E2: The City's Not For Burning,,iron-fist,,2,2,,,episode,,,52,,Earth-616
+264,Iron Fist S2E3: This Deadly Secret,,iron-fist,,2,3,,,episode,,,51,,Earth-616
+265,Iron Fist S2E4: Target: Iron Fist,,iron-fist,,2,4,,,episode,,,52,,Earth-616
+266,Iron Fist S2E5: Heart Of The Dragon,,iron-fist,,2,5,,,episode,,,54,,Earth-616
+267,Iron Fist S2E6: The Dragon Dies At Dawn,,iron-fist,,2,6,,,episode,,,50,,Earth-616
+268,Iron Fist S2E7: Morning Of The Mindstorm,,iron-fist,,2,7,,,episode,,,53,,Earth-616
+269,Daredevil S3E1: Resurrection,,daredevil,,3,1,,,episode,,,53,,Earth-616
+270,Daredevil S3E2: Please,,daredevil,,3,2,,,episode,,,49,,Earth-616
+271,Daredevil S3E3: No Good Deed,,daredevil,,3,3,,,episode,,,49,,Earth-616
+272,Daredevil S3E4: Blindsided,,daredevil,,3,4,,,episode,,,54,,Earth-616
+273,Iron Fist S2E8: Citadel On The Edge Of Vengeance,,iron-fist,,2,8,,,episode,,,49,,Earth-616
+274,Iron Fist S2E9: War Without End,,iron-fist,,2,9,,,episode,,,50,,Earth-616
+275,Daredevil S3E5: The Perfect Game,,daredevil,,3,5,,,episode,,,49,,Earth-616
+276,Iron Fist S2E10: A Duel Of Iron,,iron-fist,,2,10,,,episode,,,52,,Earth-616
+277,Daredevil S3E6: The Devil You Know,,daredevil,,3,6,,,episode,,,54,,Earth-616
+278,Daredevil S3E7: Aftermath,,daredevil,,3,7,,,episode,,,49,,Earth-616
+279,Daredevil S3E8: Upstairs/Downstairs,,daredevil,,3,8,,,episode,,,50,,Earth-616
+280,Daredevil S3E9: Revelations,,daredevil,,3,9,,,episode,,,53,,Earth-616
+281,Daredevil S3E10: Karen,,daredevil,,3,10,,,episode,,,46,,Earth-616
+282,Daredevil S3E11: Reunion,,daredevil,,3,11,,,episode,,,49,,Earth-616
+283,Daredevil S3E12: One Last Shot,,daredevil,,3,12,,,episode,,,55,,Earth-616
+284,Daredevil S3E13: A New Napkin,,daredevil,,3,13,,,episode,,,53,,Earth-616
+285,Agents of S.H.I.E.L.D. S5E2: Orientation Part 2,,agents-of-s-h-i-e-l-d,,5,2,,,episode,,,43,,Earth-616
+286,Agents of S.H.I.E.L.D. S5E3: A Life Spent,,agents-of-s-h-i-e-l-d,,5,3,,,episode,,,43,,Earth-616
+287,Agents of S.H.I.E.L.D. S5E4: A Life Earned,,agents-of-s-h-i-e-l-d,,5,4,,,episode,,,43,,Earth-616
+288,Agents of S.H.I.E.L.D. S5E5: Rewind,,agents-of-s-h-i-e-l-d,,5,5,,,episode,,,43,,Earth-616
+289,Agents of S.H.I.E.L.D. S5E6: Fun & Games,,agents-of-s-h-i-e-l-d,,5,6,,,episode,,,42,,Earth-616
+290,Agents of S.H.I.E.L.D. S5E7: Together Or Not At All,,agents-of-s-h-i-e-l-d,,5,7,,,episode,,,41,,Earth-616
+291,Agents of S.H.I.E.L.D. S5E8: The Last Day,,agents-of-s-h-i-e-l-d,,5,8,,,episode,,,43,,Earth-616
+292,Agents of S.H.I.E.L.D. S5E9: Best Laid Plans,,agents-of-s-h-i-e-l-d,,5,9,,,episode,,,41,,Earth-616
+293,Agents of S.H.I.E.L.D. S5E10: Past Life,,agents-of-s-h-i-e-l-d,,5,10,,,episode,,,42,,Earth-616
+294,Thor: Ragnarok,,thor-ragnarok,,,,,,full,,,130,,Earth-616
+295,Agents of S.H.I.E.L.D. S5E11: All the Comforts of Home,,agents-of-s-h-i-e-l-d,,5,11,,,episode,,,42,,Earth-616
+296,Agents of S.H.I.E.L.D. S5E12: The Real Deal,,agents-of-s-h-i-e-l-d,,5,12,,,episode,,,43,,Earth-616
+297,Agents of S.H.I.E.L.D. S5E13: Principia,,agents-of-s-h-i-e-l-d,,5,13,,,episode,,,42,,Earth-616
+298,The Punisher S2E1: Roadhouse Blues,,the-punisher,,2,1,,,episode,,,53,,Earth-616
+299,Jessica Jones S3E1: AKA The Perfect Burger,,jessica-jones,,3,1,,,episode,,,52,,Earth-616
+300,The Punisher S2E2: Fight or Flight,,the-punisher,,2,2,,,episode,,,54,,Earth-616
+301,Jessica Jones S3E2: AKA You're Welcome,,jessica-jones,,3,2,,,episode,,,55,,Earth-616
+302,The Punisher S2E3: Trouble the Water,,the-punisher,,2,3,,,episode,,,51,,Earth-616
+303,Jessica Jones S3E3: AKA I Have No Spleen,,jessica-jones,,3,3,,,episode,,,56,,Earth-616
+304,The Punisher S2E4: Scar Tissue,,the-punisher,,2,4,,,episode,,,58,,Earth-616
+305,Ant-Man and the Wasp,,ant-man-and-the-wasp,,,,,,full,,,125,,Earth-616
+306,The Punisher S2E5: One-Eyed Jacks,,the-punisher,,2,5,,,episode,,,51,,Earth-616
+307,Jessica Jones S3E4: AKA Customer Service Is Standing By,,jessica-jones,,3,4,,,episode,,,46,,Earth-616
+308,The Punisher S2E6: Nakazat,,the-punisher,,2,6,,,episode,,,56,,Earth-616
+309,Jessica Jones S3E5: AKA I Wish,,jessica-jones,,3,5,,,episode,,,53,,Earth-616
+310,Jessica Jones S3E6: AKA Sorry Face,,jessica-jones,,3,6,,,episode,,,53,,Earth-616
+311,The Punisher S2E7: One Bad Day,,the-punisher,,2,7,,,episode,,,51,,Earth-616
+312,Jessica Jones S3E7: AKA The Double Half-Wappinger,,jessica-jones,,3,7,,,episode,,,51,,Earth-616
+313,The Punisher S2E8: My Brother's Keeper,,the-punisher,,2,8,,,episode,,,48,,Earth-616
+314,Jessica Jones S3E8: AKA Camera Friendly,,jessica-jones,,3,8,,,episode,,,44,,Earth-616
+315,The Punisher S2E9: Flustercluck,,the-punisher,,2,9,,,episode,,,57,,Earth-616
+316,Jessica Jones S3E9: AKA I Did Something Today,,jessica-jones,,3,9,,,episode,,,52,,Earth-616
+317,The Punisher S2E10: The Dark Hearts of Men,,the-punisher,,2,10,,,episode,,,47,,Earth-616
+318,The Punisher S2E11: The Abyss,,the-punisher,,2,11,,,episode,,,54,,Earth-616
+319,The Punisher S2E12: Collision Course,,the-punisher,,2,12,,,episode,,,49,,Earth-616
+320,Jessica Jones S3E10: AKA Hero Pants,,jessica-jones,,3,10,,,episode,,,50,,Earth-616
+321,The Punisher S2E13: The Whirlwind,,the-punisher,,2,13,,,episode,,,57,,Earth-616
+322,Agents of S.H.I.E.L.D. S5E14: The Devil Complex,,agents-of-s-h-i-e-l-d,,5,14,,,episode,,,42,,Earth-616
+323,Jessica Jones S3E11: AKA Hellcat,,jessica-jones,,3,11,,,episode,,,48,,Earth-616
+324,Agents of S.H.I.E.L.D. S5E15: Rise and Shine,,agents-of-s-h-i-e-l-d,,5,15,,,episode,,,43,,Earth-616
+325,Agents of S.H.I.E.L.D. S5E16: Inside Voices,,agents-of-s-h-i-e-l-d,,5,16,,,episode,,,42,,Earth-616
+326,Agents of S.H.I.E.L.D. S5E17: The Honeymoon,,agents-of-s-h-i-e-l-d,,5,17,,,episode,,,42,,Earth-616
+327,Agents of S.H.I.E.L.D. S5E18: All Roads Lead...,,agents-of-s-h-i-e-l-d,,5,18,,,episode,,,41,,Earth-616
+328,Jessica Jones S3E12: AKA A Lotta Worms,,jessica-jones,,3,12,,,episode,,,49,,Earth-616
+329,Jessica Jones S3E13: AKA Everything,,jessica-jones,,3,13,,,episode,,,51,,Earth-616
+330,Agents of S.H.I.E.L.D. S5E19: Option Two,,agents-of-s-h-i-e-l-d,,5,19,,,episode,,,42,,Earth-616
+331,Agents of S.H.I.E.L.D. S5E20: The One Who Will Save Us All,,agents-of-s-h-i-e-l-d,,5,20,,,episode,,,42,,Earth-616
+332,Agents of S.H.I.E.L.D. S5E21: The Force of Gravity,,agents-of-s-h-i-e-l-d,,5,21,,,episode,,,43,,Earth-616
+333,Avengers: Infinity War,,avengers-infinity-war,,,,,,full,,,160,,Earth-616
+334,Agents of S.H.I.E.L.D. S5E22: The End,,agents-of-s-h-i-e-l-d,,5,22,,,episode,,,43,,Earth-616
+335,Agents of S.H.I.E.L.D. S6E1: Missing Pieces,,agents-of-s-h-i-e-l-d,,6,1,,,episode,,,42,,Earth-616
+336,Agents of S.H.I.E.L.D. S6E2: Window of Opportunity,,agents-of-s-h-i-e-l-d,,6,2,,,episode,,,43,,Earth-616
+337,Agents of S.H.I.E.L.D. S6E3: Fear and Loathing on the Planet of Kitson,,agents-of-s-h-i-e-l-d,,6,3,,,episode,,,43,,Earth-616
+338,Agents of S.H.I.E.L.D. S6E4: Code Yellow,,agents-of-s-h-i-e-l-d,,6,4,,,episode,,,41,,Earth-616
+339,Agents of S.H.I.E.L.D. S6E5: The Other Thing,,agents-of-s-h-i-e-l-d,,6,5,,,episode,,,43,,Earth-616
+340,Agents of S.H.I.E.L.D. S6E6: Inescapable,,agents-of-s-h-i-e-l-d,,6,6,,,episode,,,43,,Earth-616
+341,Agents of S.H.I.E.L.D. S6E7: Toldja,,agents-of-s-h-i-e-l-d,,6,7,,,episode,,,42,,Earth-616
+342,Agents of S.H.I.E.L.D. S6E8: Collision Course Part 1,,agents-of-s-h-i-e-l-d,,6,8,,,episode,,,42,,Earth-616
+343,Agents of S.H.I.E.L.D. S6E9: Collision Course Part 2,,agents-of-s-h-i-e-l-d,,6,9,,,episode,,,42,,Earth-616
+344,Agents of S.H.I.E.L.D. S6E10: Leap,,agents-of-s-h-i-e-l-d,,6,10,,,episode,,,42,,Earth-616
+345,Agents of S.H.I.E.L.D. S6E11: From the Ashes,,agents-of-s-h-i-e-l-d,,6,11,,,episode,,,42,,Earth-616
+346,Agents of S.H.I.E.L.D. S6E12: The Sign,,agents-of-s-h-i-e-l-d,,6,12,,,episode,,,41,,Earth-616
+347,Agents of S.H.I.E.L.D. S6E13: New Life,,agents-of-s-h-i-e-l-d,,6,13,,,episode,,,43,,Earth-616
+348,Agents of S.H.I.E.L.D. S7E1: The New Deal,,agents-of-s-h-i-e-l-d,,7,1,,,episode,,,43,,Earth-616
+349,Agents of S.H.I.E.L.D. S7E2: Know Your Onions,,agents-of-s-h-i-e-l-d,,7,2,,,episode,,,42,,Earth-616
+350,Agents of S.H.I.E.L.D. S7E3: Alien Commies from the Future,,agents-of-s-h-i-e-l-d,,7,3,,,episode,,,42,,Earth-616
+351,Agents of S.H.I.E.L.D. S7E4: Out of the Past,,agents-of-s-h-i-e-l-d,,7,4,,,episode,,,43,,Earth-616
+352,Agents of S.H.I.E.L.D. S7E5: A Trout in the Milk,,agents-of-s-h-i-e-l-d,,7,5,,,episode,,,42,,Earth-616
+353,Agents of S.H.I.E.L.D. S7E6: Adapt or Die,,agents-of-s-h-i-e-l-d,,7,6,,,episode,,,43,,Earth-616
+354,Agents of S.H.I.E.L.D. S7E7: The Totally Excellent Adventures of Mack and the D,,agents-of-s-h-i-e-l-d,,7,7,,,episode,,,43,,Earth-616
+355,"Agents of S.H.I.E.L.D. S7E8: After, Before",,agents-of-s-h-i-e-l-d,,7,8,,,episode,,,42,,Earth-616
+356,Agents of S.H.I.E.L.D. S7E9: As I Have Always Been,,agents-of-s-h-i-e-l-d,,7,9,,,episode,,,43,,Earth-616
+357,Agents of S.H.I.E.L.D. S7E10: Stolen,,agents-of-s-h-i-e-l-d,,7,10,,,episode,,,42,,Earth-616
+358,Agents of S.H.I.E.L.D. S7E11: Brand New Day,,agents-of-s-h-i-e-l-d,,7,11,,,episode,,,43,,Earth-616
+359,Agents of S.H.I.E.L.D. S7E12: The End is at Hand,,agents-of-s-h-i-e-l-d,,7,12,,,episode,,,43,,Earth-616
+360,Agents of S.H.I.E.L.D. S7E13: What We’re Fighting For,,agents-of-s-h-i-e-l-d,,7,13,,,episode,,,43,,Earth-616
+361,Avengers: Endgame,,avengers-endgame,,,,,,full,,,182,,Earth-616
+362,Avengers: Endgame | Re-Release,,avengers-endgame,,,,,re-release,bonus,Re-Release,,7,,Earth-616
+363,Avengers: Endgame Encore,,avengers-endgame,,,,,encore,bonus,Encore,,4,,Earth-616
+364,Loki S1E1: Glorious Purpose,,loki,,1,1,,,episode,,,52,,Earth-616
+365,Loki S1E2: The Variant,,loki,,1,2,,,episode,,,55,,loki
+366,Loki S1E3: Lamentis,,loki,,1,3,,,episode,,,43,,loki
+367,Loki S1E4: The Nexus Event,,loki,,1,4,,,episode,,,49,,loki
+368,Loki S1E5: Journey Into Mystery,,loki,,1,5,,,episode,,,50,,loki
+369,Loki S1E6: For All Time. Always.,,loki,,1,6,,,episode,,,47,,loki
+370,What If...? S1E1: What If... Captain Carter Were The First Avenger?,,what-if,,1,1,,,episode,,,34,,Earth-82111
+371,What If...? S1E2: What If... T'Challa Became a Star-Lord?,,what-if,,1,2,,,episode,,,35,,Earth-21818
+372,What If...? S1E3: What If... The World Lost Its Mightiest Heroes?,,what-if,,1,3,,,episode,,,33,,Earth-51825
+373,What If...? S1E4: What If... Doctor Strange Lost His Heart Instead of His Hands?,,what-if,,1,4,,,episode,,,37,,Earth-91233
+374,What If...? S1E5: What If... Zombies!?,,what-if,,1,5,,,episode,,,33,,Earth-89521
+375,What If...? S1E6: What If... Killmonger Rescued Tony Stark?,,what-if,,1,6,,,episode,,,34,,Earth-32938
+376,What If...? S1E7: What If... Thor Were an Only Child?,,what-if,,1,7,,,episode,,,36,,Earth-72124
+377,What If...? S1E8: What If... Ultron Won?,,what-if,,1,8,,,episode,,,31,,Earth-29929
+378,What If...? S1E9: What If… The Watcher Broke His Oath?,,what-if,,1,9,,,episode,,,36,,barren-wasteland
+379,X-Men: First Class,,x-men-first-class,,,,,,full,,,132,,Earth-TRN414
+380,X-Men Origins: Wolverine,,x-men-origins-wolverine,,,,,,full,,,119,,Earth-10005
+381,X-Men,,x-men,,,,,,full,,,104,,Earth-10005
+382,Daredevil,,daredevil-2003,,,,,,full,,,133,,Earth-701306
+383,X2,,x2,,,,,,full,,,133,,Earth-10005
+384,Madame Web,,madame-web,,,,,,full,,,114,,Earth-688
+385,Fantastic Four,,fantastic-four,,,,,,full,,,125,,Earth-121698
+386,Elektra,,elektra,,,,,,full,,,97,,Earth-701306
+387,X-Men: The Last Stand,,x-men-the-last-stand,,,,,,full,,,104,,Earth-10005
+388,Fantastic Four: Rise of the Silver Surfer,,fantastic-four-rise-of-the-silver-surfer,,,,,,full,,,92,,Earth-121698
+389,The Wolverine,,the-wolverine,,,,,,full,,,126,,Earth-10005
+390,X-Men: Days of Future Past,,x-men-days-of-future-past,,,,,,full,,,132,,Earth-TRN414
+391,X-Men: Apocalypse,,x-men-apocalypse,,,,,,full,,,144,,Earth-TRN414
+392,Dark Phoenix,,dark-phoenix,,,,,,full,,,114,,Earth-TRN414
+393,Deadpool,,deadpool,,,,,,full,,,108,,Earth-TRN414
+394,Logan,,logan,,,,,,full,,,137,,Earth-TRN414
+395,Deadpool 2,,deadpool-2,,,,,,full,,,119,,Earth-TRN414
+396,Deadpool 2 (Super Duper Cut),,deadpool-2,,,,,super-duper-cut,bonus,Super Duper Cut,,14,,Earth-TRN414
+397,What If...? An Immersive Story,,what-if-an-immersive-story,,,,,,full,,,60,,what-if-an-immersive-story
+398,Marvel Zombies S1E1: Episode 1,,marvel-zombies,,1,1,,,episode,,,38,,Earth-89521
+399,Marvel Zombies S1E2: Episode 2,,marvel-zombies,,1,2,,,episode,,,34,,Earth-89521
+400,Marvel Zombies S1E3: Episode 3,,marvel-zombies,,1,3,,,episode,,,33,,Earth-89521
+401,Marvel Zombies S1E4: Episode 4,,marvel-zombies,,1,4,,,episode,,,32,,Earth-89521
+402,WandaVision S1E1: Filmed Before a Live Studio Audience,,wandavision,,1,1,,,episode,,,30,,Earth-616
+403,WandaVision S1E2: Don't Touch That Dial,,wandavision,,1,2,,,episode,,,37,,Earth-616
+404,WandaVision S1E3: Now In Color,,wandavision,,1,3,,,episode,,,33,,Earth-616
+405,WandaVision S1E4: We Interrupt This Program,,wandavision,,1,4,,,episode,,,35,,Earth-616
+406,WandaVision S1E5: On A Very Special Episode...,,wandavision,,1,5,,,episode,,,42,,Earth-616
+407,WandaVision S1E6: All-New Halloween Spooktacular!,,wandavision,,1,6,,,episode,,,38,,Earth-616
+408,WandaVision S1E7: Breaking the Fourth Wall,,wandavision,,1,7,,,episode,,,38,,Earth-616
+409,WandaVision S1E8: Previously On,,wandavision,,1,8,,,episode,,,47,,Earth-616
+410,WandaVision S1E9: The Series Finale,,wandavision,,1,9,,,episode,,,50,,Earth-616
+411,Spider-Man: Into the Spider-Verse,,spider-man-into-the-spider-verse,,,,,,full,,,116,,Earth-1610
+412,Shang-Chi And The Legend Of The Ten Rings,,shang-chi-and-the-legend-of-the-ten-rings,,,,,,full,,,132,,Earth-616
+413,The Falcon And The Winter Soldier S1E1: New World Order,,the-falcon-and-the-winter-soldier,,1,1,,,episode,,,50,,Earth-616
+414,The Falcon And The Winter Soldier S1E2: The Star-Spangled Man,,the-falcon-and-the-winter-soldier,,1,2,,,episode,,,50,,Earth-616
+415,The Falcon And The Winter Soldier S1E3: Power Broker,,the-falcon-and-the-winter-soldier,,1,3,,,episode,,,54,,Earth-616
+416,The Falcon And The Winter Soldier S1E4: The Whole World Is Watching,,the-falcon-and-the-winter-soldier,,1,4,,,episode,,,54,,Earth-616
+417,The Falcon And The Winter Soldier S1E5: Truth,,the-falcon-and-the-winter-soldier,,1,5,,,episode,,,61,,Earth-616
+418,"The Falcon And The Winter Soldier S1E6: One World, One People",,the-falcon-and-the-winter-soldier,,1,6,,,episode,,,52,,Earth-616
+419,Spider-Man,,spider-man,,,,,,full,,,121,,Earth-96283
+420,Spider-Man 2,,spider-man-2,,,,,,full,,,135,,Earth-96283
+421,Spider-Man 3,,spider-man-3,,,,,,full,,,156,,Earth-96283
+422,The Amazing Spider-Man,,the-amazing-spider-man,,,,,,full,,,153,,Earth-120703
+423,The Amazing Spider-Man 2,,the-amazing-spider-man-2,,,,,,full,,,142,,Earth-120703
+424,Venom,,venom,,,,,,full,,,140,,Earth-688
+425,Venom: Let There Be Carnage,,venom-let-there-be-carnage,,,,,,full,,,90,,Earth-688
+426,Spider-Man: Far From Home,,spider-man-far-from-home,,,,,,full,,,129,,Earth-616
+427,Spider-Man: Far From Home | Re-Release,,spider-man-far-from-home,,,,,re-release,bonus,Re-Release,,4,,Earth-616
+428,Spider-Man: No Way Home,,spider-man-no-way-home,,,,,,full,,,148,,Earth-616
+429,Spider-Man: No Way Home | Re-Release,,spider-man-no-way-home,,,,,re-release,bonus,Re-Release,,11,,Earth-616
+430,Venom: The Last Dance,,venom-the-last-dance,,,,,,full,,,110,,Earth-688
+431,Morbius,,morbius,,,,,,full,,,104,,Earth-688
+432,Kraven The Hunter,,kraven-the-hunter,,,,,,full,,,127,,Earth-688
+433,Spider-Man: Across The Spider-Verse,,spider-man-across-the-spider-verse,,,,,,full,,,140,,Earth-1610
+434,Eternals,,eternals,,,,,,full,,,157,,Earth-616
+435,Doctor Strange In The Multiverse Of Madness,,doctor-strange-in-the-multiverse-of-madness,,,,,,full,,,126,,Earth-616
+436,Hawkeye S1E1: Never Meet Your Heroes,,hawkeye,,1,1,,,episode,,,50,,Earth-616
+437,Hawkeye S1E2: Hide and Seek,,hawkeye,,1,2,,,episode,,,52,,Earth-616
+438,Hawkeye S1E3: Echoes,,hawkeye,,1,3,,,episode,,,44,,Earth-616
+439,"Hawkeye S1E4: Partners, Am I Right?",,hawkeye,,1,4,,,episode,,,41,,Earth-616
+440,Hawkeye S1E5: Ronin,,hawkeye,,1,5,,,episode,,,45,,Earth-616
+441,Hawkeye S1E6: So This Is Christmas?,,hawkeye,,1,6,,,episode,,,62,,Earth-616
+442,Moon Knight S1E1: The Goldfish Problem,,moon-knight,,1,1,,,episode,,,47,,Earth-616
+443,Moon Knight S1E2: Summon the Suit,,moon-knight,,1,2,,,episode,,,53,,Earth-616
+444,Moon Knight S1E3: The Friendly Type,,moon-knight,,1,3,,,episode,,,53,,Earth-616
+445,Moon Knight S1E4: The Tomb,,moon-knight,,1,4,,,episode,,,53,,Earth-616
+446,Moon Knight S1E5: Asylum,,moon-knight,,1,5,,,episode,,,50,,Earth-616
+447,Moon Knight S1E6: Gods and Monsters,,moon-knight,,1,6,,,episode,,,44,,Earth-616
+448,Black Panther: Wakanda Forever,,black-panther-wakanda-forever,,,,,,full,,,161,,Earth-616
+449,Echo S1E1: Chafa,,echo,,1,1,,,episode,,,51,,Earth-616
+450,Echo S1E2: Lowak,,echo,,1,2,,,episode,,,41,,Earth-616
+451,Echo S1E3: Tuklo,,echo,,1,3,,,episode,,,45,,Earth-616
+452,Echo S1E4: Taloa,,echo,,1,4,,,episode,,,40,,Earth-616
+453,Echo S1E5: Maya,,echo,,1,5,,,episode,,,37,,Earth-616
+454,She-Hulk: Attorney at Law S1E1: A Normal Amount Of Rage,,she-hulk-attorney-at-law,,1,1,,,episode,,,38,,Earth-616
+455,She-Hulk: Attorney at Law S1E2: Superhuman Law,,she-hulk-attorney-at-law,,1,2,,,episode,,,31,,Earth-616
+456,She-Hulk: Attorney at Law S1E3: The People vs. Emil Blonsky,,she-hulk-attorney-at-law,,1,3,,,episode,,,35,,Earth-616
+457,She-Hulk: Attorney at Law S1E4: Is this Not Real Magic?,,she-hulk-attorney-at-law,,1,4,,,episode,,,37,,Earth-616
+458,"She-Hulk: Attorney at Law S1E5: Mean, Green, and Straight Poured Into These Jeans",,she-hulk-attorney-at-law,,1,5,,,episode,,,31,,Earth-616
+459,She-Hulk: Attorney at Law S1E6: Just Jen,,she-hulk-attorney-at-law,,1,6,,,episode,,,31,,Earth-616
+460,She-Hulk: Attorney at Law S1E7: The Retreat,,she-hulk-attorney-at-law,,1,7,,,episode,,,35,,Earth-616
+461,She-Hulk: Attorney at Law S1E8: Ribbit and Rip It,,she-hulk-attorney-at-law,,1,8,,,episode,,,36,,Earth-616
+462,She-Hulk: Attorney at Law S1E9: Whose Show is This,,she-hulk-attorney-at-law,,1,9,,,episode,,,35,,Earth-616
+463,Ms. Marvel S1E1: Generation Why,,ms-marvel,,1,1,,,episode,,,50,,Earth-616
+464,Ms. Marvel S1E2: Crushed,,ms-marvel,,1,2,,,episode,,,52,,Earth-616
+465,Ms. Marvel S1E3: Destined,,ms-marvel,,1,3,,,episode,,,48,,Earth-616
+466,Ms. Marvel S1E4: Seeing Red,,ms-marvel,,1,4,,,episode,,,48,,Earth-616
+467,Ms. Marvel S1E5: Time and Again,,ms-marvel,,1,5,,,episode,,,41,,Earth-616
+468,Ms. Marvel S1E6: No Normal,,ms-marvel,,1,6,,,episode,,,50,,Earth-616
+469,Thor: Love And Thunder,,thor-love-and-thunder,,,,,,full,,,119,,Earth-616
+470,Ironheart S1E1: Take Me Home,,ironheart,,1,1,,,episode,,,44,,Earth-616
+471,Ironheart S1E2: Will the Real Natalie Please Stand Up,,ironheart,,1,2,,,episode,,,50,,Earth-616
+472,"Ironheart S1E3: We in Danger, Girl",,ironheart,,1,3,,,episode,,,56,,Earth-616
+473,Ironheart S1E4: Bad Magic,,ironheart,,1,4,,,episode,,,53,,Earth-616
+474,Ironheart S1E5: Karma's a Glitch,,ironheart,,1,5,,,episode,,,59,,Earth-616
+475,Ironheart S1E6: The Past is the Past,,ironheart,,1,6,,,episode,,,42,,Earth-616
+476,Werewolf By Night,,werewolf-by-night,,,,,,full,,,55,,Earth-616
+477,The Guardians of the Galaxy Holiday Special,,the-guardians-of-the-galaxy-holiday-special,,,,,,full,,,44,,Earth-616
+478,Ant-Man and the Wasp: Quantumania,,ant-man-and-the-wasp-quantumania,,,,,,full,,,125,,Earth-616
+479,Guardians of the Galaxy Vol. 3,,guardians-of-the-galaxy-vol-3,,,,,,full,,,149,,Earth-616
+480,Daredevil: Born Again S1E1: Heaven's Half Hour,,daredevil-born-again,,1,1,,,episode,,,60,,Earth-616
+481,Secret Invasion S1E1: Resurrection,,secret-invasion,,1,1,,,episode,,,55,,Earth-616
+482,Secret Invasion S1E2: Promises,,secret-invasion,,1,2,,,episode,,,58,,Earth-616
+483,Secret Invasion S1E3: Betrayed,,secret-invasion,,1,3,,,episode,,,44,,Earth-616
+484,Secret Invasion S1E4: Beloved,,secret-invasion,,1,4,,,episode,,,38,,Earth-616
+485,Secret Invasion S1E5: Harvest,,secret-invasion,,1,5,,,episode,,,39,,Earth-616
+486,Secret Invasion S1E6: Home,,secret-invasion,,1,6,,,episode,,,38,,Earth-616
+487,The Marvels,,the-marvels,,,,,,full,,,105,,Earth-616
+488,The New Mutants,,the-new-mutants,,,,,,full,,,94,,Earth-10005
+489,Loki S2E1: Ouroboros,,loki,,2,1,,,episode,,,48,,loki
+490,Loki S2E2: Breaking Brad,,loki,,2,2,,,episode,,,52,,loki
+491,Loki S2E3: 1893,,loki,,2,3,,,episode,,,56,,loki
+492,Loki S2E4: Heart of the TVA,,loki,,2,4,,,episode,,,51,,loki
+493,Loki S2E5: Science/Fiction,,loki,,2,5,,,episode,,,47,,loki
+494,Loki S2E6: Glorious Purpose,,loki,,2,6,,,episode,,,59,,loki
+495,What If...? S2E1: What If... Nebula Joined the Nova Corps?,,what-if,,2,1,,,episode,,,31,,Earth-625
+496,What If...? S2E2: What If... Peter Quill Attacked Earth's Mightiest Heroes?,,what-if,,2,2,,,episode,,,32,,celestial-invader-ego-universe
+497,What If...? S2E3: What If... Happy Hogan Saved Christmas?,,what-if,,2,3,,,episode,,,29,,gamma-enhanced-happy-hogan-universe
+498,What If...? S2E4: What If... Iron Man Crashed into the Grandmaster?,,what-if,,2,4,,,episode,,,34,,sakaarian-iron-man-universe
+499,What If...? S2E5: What If... Captain Carter Fought the Hydra Stomper?,,what-if,,2,5,,,episode,,,33,,Earth-82111
+500,What If...? S2E6: What If... Kahhori Reshaped the World?,,what-if,,2,6,,,episode,,,34,,Earth-43166
+501,What If...? S2E7: What If... Hela Found the Ten Rings?,,what-if,,2,7,,,episode,,,31,,merciful-hela-universe
+502,What If...? S2E8: What If... The Avengers Assembled in 1602?,,what-if,,2,8,,,episode,,,32,,forerunner-steve-rogers-universe
+503,What If...? S2E9: What If... Strange Supreme Intervened?,,what-if,,2,9,,,episode,,,33,,reforged-universe
+504,Deadpool & Wolverine,,deadpool-and-wolverine,,,,,,full,,,127,,Earth-616
+505,Agatha All Along S1E1: Seekest Thou the Road,,agatha-all-along,,1,1,,,episode,,,42,,Earth-616
+506,Agatha All Along S1E2: Circle Sewn With Fate / Unlock Thy Hidden Gate,,agatha-all-along,,1,2,,,episode,,,44,,Earth-616
+507,Agatha All Along S1E3: Through Many Miles / Of Tricks and Trials,,agatha-all-along,,1,3,,,episode,,,39,,Earth-616
+508,Agatha All Along S1E4: If I Can't Reach You / Let My Song Teach You,,agatha-all-along,,1,4,,,episode,,,44,,Earth-616
+509,Agatha All Along S1E5: Darkest Hour / Wake Thy Power,,agatha-all-along,,1,5,,,episode,,,32,,Earth-616
+510,Agatha All Along S1E6: Familiar by Thy Side,,agatha-all-along,,1,6,,,episode,,,50,,Earth-616
+511,Agatha All Along S1E7: Death's Hand in Mine,,agatha-all-along,,1,7,,,episode,,,37,,Earth-616
+512,Agatha All Along S1E8: Follow Me My Friend / To Glory at the End,,agatha-all-along,,1,8,,,episode,,,49,,Earth-616
+513,Agatha All Along S1E9: Maiden Mother Crone,,agatha-all-along,,1,9,,,episode,,,42,,Earth-616
+514,What If...? S3E1: The Hulk Fought the Mech Avengers?,,what-if,,3,1,,,episode,,,31,,invading-gamma-beasts-universe
+515,What If...? S3E2: Agatha Went to Hollywood?,,what-if,,3,2,,,episode,,,30,,cosmic-queen-agatha-harkness-universe
+516,What If...? S3E3: The Red Guardian Stopped the Winter Soldier?,,what-if,,3,3,,,episode,,,33,,stark-assassination-prevented-universe
+517,What If...? S3E4: Howard the Duck Got Hitched?,,what-if,,3,4,,,episode,,,33,,Earth-72124
+518,What If...? S3E5: The Emergence Destroyed the Earth?,,what-if,,3,5,,,episode,,,33,,emergence-destroyed-earth-universe
+519,What If...? S3E6: 1872?,,what-if,,3,6,,,episode,,,32,,wild-west-heroes-universe
+520,What If...? S3E7: The Watcher Disappeared?,,what-if,,3,7,,,episode,,,28,,reflective-infinity-ultron-universe
+521,What If...? S3E8: What If?,,what-if,,3,8,,,episode,,,34,,reforged-universe
+522,Daredevil: Born Again S1E2: Optics,,daredevil-born-again,,1,2,,,episode,,,49,,Earth-616
+523,Daredevil: Born Again S1E3: The Hollow of His Hand,,daredevil-born-again,,1,3,,,episode,,,47,,Earth-616
+524,Daredevil: Born Again S1E4: Sic Semper Systema,,daredevil-born-again,,1,4,,,episode,,,55,,Earth-616
+525,Daredevil: Born Again S1E5: With Interest,,daredevil-born-again,,1,5,,,episode,,,42,,Earth-616
+526,Daredevil: Born Again S1E6: Excessive Force,,daredevil-born-again,,1,6,,,episode,,,45,,Earth-616
+527,Daredevil: Born Again S1E7: Art for Art's Sake,,daredevil-born-again,,1,7,,,episode,,,43,,Earth-616
+528,Daredevil: Born Again S1E8: Isle of Joy,,daredevil-born-again,,1,8,,,episode,,,52,,Earth-616
+529,Daredevil: Born Again S1E9: Straight to Hell,,daredevil-born-again,,1,9,,,episode,,,60,,Earth-616
+530,Captain America: Brave New World,,captain-america-brave-new-world,,,,,,full,,,118,,Earth-616
+531,Thunderbolts*,,thunderbolts,,,,,,full,,,126,,Earth-616
+532,The Fantastic Four: First Steps,,the-fantastic-four-first-steps,,,,,,full,,,115,,Earth-828
+533,Daredevil: Born Again S2E1: The Northern Star,,daredevil-born-again,,2,1,,,episode,,,54,,Earth-616
+534,Daredevil: Born Again S2E2: Shoot The Moon,,daredevil-born-again,,2,2,,,episode,,,49,,Earth-616
+535,Daredevil: Born Again S2E3: The Scales & the Sword,,daredevil-born-again,,2,3,,,episode,,,50,,Earth-616
+536,Daredevil: Born Again S2E4: Gloves off,,daredevil-born-again,,2,4,,,episode,,,54,,Earth-616
+537,Daredevil: Born Again S2E5: The Grand Design,,daredevil-born-again,,2,5,,,episode,,,53,,Earth-616
+538,Daredevil: Born Again S2E6: Requiem,,daredevil-born-again,,2,6,,,episode,,,52,,Earth-616
+539,Daredevil: Born Again S2E7: The Hateful Darkness,,daredevil-born-again,,2,7,,,episode,,,48,,Earth-616
+540,Daredevil: Born Again S2E8: The Southern Cross,,daredevil-born-again,,2,8,,,episode,,,51,,Earth-616
+541,Wonder Man S1E1: Matinee,,wonder-man,,1,1,,,episode,,,35,,Earth-616
+542,Wonder Man S1E2: Self-Tape,,wonder-man,,1,2,,,episode,,,34,,Earth-616
+543,Wonder Man S1E3: Pacoima,,wonder-man,,1,3,,,episode,,,34,,Earth-616
+544,Wonder Man S1E4: Doorman,,wonder-man,,1,4,,,episode,,,32,,Earth-616
+545,Wonder Man S1E5: Found Footage,,wonder-man,,1,5,,,episode,,,26,,Earth-616
+546,Wonder Man S1E6: Call Back,,wonder-man,,1,6,,,episode,,,36,,Earth-616
+547,Wonder Man S1E7: Kathy Friedman,,wonder-man,,1,7,,,episode,,,35,,Earth-616
+548,Wonder Man S1E8: Yucca Valley,,wonder-man,,1,8,,,episode,,,35,,Earth-616
+549,The Punisher: One Last Kill,,the-punisher-one-last-kill,,,,,,full,,,51,,Earth-616
+550,VisionQuest S1E1: No Strings,,visionquest,,1,1,,,episode,,,56,,Earth-616
+551,VisionQuest S1E2: Theseus,,visionquest,,1,2,,,episode,,,48,,Earth-616
+552,VisionQuest S1E3: Reboot,,visionquest,,1,3,,,episode,,,54,,Earth-616
+553,VisionQuest S1E4: Malware,,visionquest,,1,4,,,episode,,,51,,Earth-616
+554,VisionQuest S1E5: Firewall,,visionquest,,1,5,,,episode,,,48,,Earth-616
+555,VisionQuest S1E6: Deadlock,,visionquest,,1,6,,,episode,,,57,,Earth-616
+556,Spider-Man: Brand New Day,,spider-man-brand-new-day,,,,,,full,,,145,,Earth-616
