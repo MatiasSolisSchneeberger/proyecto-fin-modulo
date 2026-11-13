@@ -1,4 +1,4 @@
-import { integer, pgTable, serial, text, varchar } from "drizzle-orm/pg-core";
+import { index, integer, pgTable, serial, text, varchar } from "drizzle-orm/pg-core";
 
 export const movieTypes = pgTable("movie_types", {
 	id: serial("id").primaryKey(),
@@ -24,14 +24,16 @@ export const tagCategories = pgTable("tag_categories", {
 	description: text("description"),
 });
 
-export const tags = pgTable("tags", {
-	id: serial("id").primaryKey(),
-	name: varchar("name", { length: 100 }).notNull(),
-	slug: varchar("slug", { length: 100 }).notNull().unique(),
-	description: text("description"),
-
-	// referencias
-	categoryId: integer("category_id")
-		.notNull()
-		.references(() => tagCategories.id),
-});
+export const tags = pgTable(
+	"tags",
+	{
+		id: serial("id").primaryKey(),
+		name: varchar("name", { length: 100 }).notNull(),
+		slug: varchar("slug", { length: 100 }).notNull().unique(),
+		description: text("description"),
+		categoryId: integer("category_id")
+			.notNull()
+			.references(() => tagCategories.id),
+	},
+	(table) => [index("idx_tags_category").on(table.categoryId)],
+);
