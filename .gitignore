@@ -20,5 +20,8 @@ dist/
 # documentos de teoría
 .docs/
 
+docs/schema copy.*
+docs/schema.dbdiagram
+
 # docker
 db-data/
