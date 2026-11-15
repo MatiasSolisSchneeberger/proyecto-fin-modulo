@@ -112,6 +112,7 @@ Table titles {
     release_date date [not null, note: 'Estreno real. En series: estreno del primer episodio']
     poster_url text
     synopsis text
+    is_canon boolean [not null, default: true, note: 'false = fuera del canon del UCM (series animadas, Spider-Noir...). Solo se muestra con el filtro "FULL MCU"']
     created_at timestamptz [not null, default: `now()`]
     updated_at timestamptz [not null, default: `now()`]
 

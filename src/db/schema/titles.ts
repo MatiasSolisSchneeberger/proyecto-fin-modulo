@@ -25,6 +25,8 @@ export const titles = pgTable(
 		releaseDate: date("release_date").notNull(),
 		posterUrl: text("poster_url"),
 		synopsis: text("synopsis"),
+		// false = fuera del canon del UCM (series animadas, Spider-Noir...). Se muestra solo con el filtro "FULL MCU".
+		isCanon: boolean("is_canon").notNull().default(true),
 		createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
 		updatedAt: timestamp("updated_at", { withTimezone: true })
 			.notNull()

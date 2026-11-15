@@ -1,0 +1,1 @@
+ALTER TABLE "titles" ADD COLUMN "is_canon" boolean DEFAULT true NOT NULL;
