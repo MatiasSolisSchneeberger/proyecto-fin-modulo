@@ -3,31 +3,36 @@
 2,Eyes of Wakanda S1E2: Legends and Lies,,eyes-of-wakanda,,1,2,,,episode,,,32,,Earth-616
 3,Eyes of Wakanda S1E3: Lost and Found,,eyes-of-wakanda,,1,3,,,episode,,,31,,Earth-616
 4,Eyes of Wakanda S1E4: The Last Panther,,eyes-of-wakanda,,1,4,,,episode,,,30,,Earth-616
-5,Captain America: The First Avenger,,captain-america-the-first-avenger,,,,,,full,,,124,,Earth-616
-6,Agent Carter S1E1: Now is Not the End,,agent-carter,,1,1,,,episode,,,43,,Earth-616
-7,Agent Carter S1E2: Bridge and Tunnel,,agent-carter,,1,2,,,episode,,,41,,Earth-616
-8,Agent Carter S1E3: Time and Tide,,agent-carter,,1,3,,,episode,,,41,,Earth-616
-9,Agent Carter S1E4: The Blitzkrieg Button,,agent-carter,,1,4,,,episode,,,41,,Earth-616
-10,Agent Carter S1E5: The Iron Ceiling,,agent-carter,,1,5,,,episode,,,43,,Earth-616
-11,Agent Carter S1E6: A Sin to Err,,agent-carter,,1,6,,,episode,,,41,,Earth-616
-12,Agent Carter S1E7: Snafu,,agent-carter,,1,7,,,episode,,,41,,Earth-616
-13,Agent Carter S1E8: Valediction,,agent-carter,,1,8,,,episode,,,43,,Earth-616
-14,Agent Carter S2E1: The Lady in the Lake,,agent-carter,,2,1,,,episode,,,42,,Earth-616
-15,Agent Carter S2E2: A View in the Dark,,agent-carter,,2,2,,,episode,,,43,,Earth-616
-16,Agent Carter S2E3: Better Angels,,agent-carter,,2,3,,,episode,,,43,,Earth-616
-17,Agent Carter S2E4: Smoke & Mirrors,,agent-carter,,2,4,,,episode,,,43,,Earth-616
-18,Agent Carter S2E5: The Atomic Job,,agent-carter,,2,5,,,episode,,,42,,Earth-616
-19,Agent Carter S2E6: Life of the Party,,agent-carter,,2,6,,,episode,,,43,,Earth-616
-20,Agent Carter S2E7: Monsters,,agent-carter,,2,7,,,episode,,,43,,Earth-616
-21,Agent Carter S2E8: The Edge Of Mystery,,agent-carter,,2,8,,,episode,,,43,,Earth-616
-22,Agent Carter S2E9: Little Song and Dance,,agent-carter,,2,9,,,episode,,,42,,Earth-616
-23,Agent Carter S2E10: Hollywood Ending,,agent-carter,,2,10,,,episode,,,41,,Earth-616
-24,Captain Marvel,,captain-marvel,,,,,,full,,,125,,Earth-616
+5,Captain America: The First Avenger,,captain-america-the-first-avenger,,,,,,main,,,124,,Earth-616
+558,Agent Carter,,agent-carter-one-shot,,,,,,full,,,15,,Earth-616
+6,Agent Carter S1E1: Now is Not the End,,agent-carter-series,,1,1,,,episode,,,43,,Earth-616
+7,Agent Carter S1E2: Bridge and Tunnel,,agent-carter-series,,1,2,,,episode,,,41,,Earth-616
+8,Agent Carter S1E3: Time and Tide,,agent-carter-series,,1,3,,,episode,,,41,,Earth-616
+9,Agent Carter S1E4: The Blitzkrieg Button,,agent-carter-series,,1,4,,,episode,,,41,,Earth-616
+10,Agent Carter S1E5: The Iron Ceiling,,agent-carter-series,,1,5,,,episode,,,43,,Earth-616
+11,Agent Carter S1E6: A Sin to Err,,agent-carter-series,,1,6,,,episode,,,41,,Earth-616
+12,Agent Carter S1E7: Snafu,,agent-carter-series,,1,7,,,episode,,,41,,Earth-616
+13,Agent Carter S1E8: Valediction,,agent-carter-series,,1,8,,,episode,,,43,,Earth-616
+14,Agent Carter S2E1: The Lady in the Lake,,agent-carter-series,,2,1,,,episode,,,42,,Earth-616
+15,Agent Carter S2E2: A View in the Dark,,agent-carter-series,,2,2,,,episode,,,43,,Earth-616
+16,Agent Carter S2E3: Better Angels,,agent-carter-series,,2,3,,,episode,,,43,,Earth-616
+17,Agent Carter S2E4: Smoke & Mirrors,,agent-carter-series,,2,4,,,episode,,,43,,Earth-616
+18,Agent Carter S2E5: The Atomic Job,,agent-carter-series,,2,5,,,episode,,,42,,Earth-616
+19,Agent Carter S2E6: Life of the Party,,agent-carter-series,,2,6,,,episode,,,43,,Earth-616
+20,Agent Carter S2E7: Monsters,,agent-carter-series,,2,7,,,episode,,,43,,Earth-616
+21,Agent Carter S2E8: The Edge Of Mystery,,agent-carter-series,,2,8,,,episode,,,43,,Earth-616
+22,Agent Carter S2E9: Little Song and Dance,,agent-carter-series,,2,9,,,episode,,,42,,Earth-616
+23,Agent Carter S2E10: Hollywood Ending,,agent-carter-series,,2,10,,,episode,,,41,,Earth-616
+24,Captain Marvel,,captain-marvel,,,,,,main,,,125,,Earth-616
 25,Iron Man,,iron-man,,,,,,full,,,126,,Earth-616
 26,Iron Man 2,,iron-man-2,,,,,,full,,,124,,Earth-616
 27,The Incredible Hulk,,the-incredible-hulk,,,,,,full,,,112,,Earth-616
+559,A Funny Thing Happened On The Way To Thor’s Hammer,,a-funny-thing-happened-on-the-way-to-thors-hammer,,,,,,full,,,4,,Earth-616
 28,Thor,,thor,,,,,,full,,,115,,Earth-616
+560,The Consultant,,the-consultant,,,,,,full,,,4,,Earth-616
+561,Captain America: The First Avenger (Credits),,captain-america-the-first-avenger,,,,,,post_credits,Escena post-créditos,,2,,Earth-616
 29,Avengers,,avengers,,,,,,full,,,143,,Earth-616
+562,Item 47,,item-47,,,,,,full,,,12,,Earth-616
 30,Agents of S.H.I.E.L.D. S1E1: Pilot,,agents-of-s-h-i-e-l-d,,1,1,,,episode,,,44,,Earth-616
 31,Agents of S.H.I.E.L.D. S1E2: 0-8-4,,agents-of-s-h-i-e-l-d,,1,2,,,episode,,,41,,Earth-616
 32,Agents of S.H.I.E.L.D. S1E3: The Asset,,agents-of-s-h-i-e-l-d,,1,3,,,episode,,,43,,Earth-616
@@ -45,6 +50,7 @@
 44,Agents of S.H.I.E.L.D. S1E13: T.R.A.C.K.S.,,agents-of-s-h-i-e-l-d,,1,13,,,episode,,,42,,Earth-616
 45,Agents of S.H.I.E.L.D. S1E14: T.A.H.I.T.I,,agents-of-s-h-i-e-l-d,,1,14,,,episode,,,42,,Earth-616
 46,Agents of S.H.I.E.L.D. S1E15: Yes Men,,agents-of-s-h-i-e-l-d,,1,15,,,episode,,,43,,Earth-616
+563,All Hail The King,,all-hail-the-king,,,,,,full,,,14,,Earth-616
 47,Agents of S.H.I.E.L.D. S1E16: End Of The Beginning,,agents-of-s-h-i-e-l-d,,1,16,,,episode,,,41,,Earth-616
 48,Captain America: The Winter Soldier,,captain-america-the-winter-soldier,,,,,,full,,,136,,Earth-616
 49,"Agents of S.H.I.E.L.D. S1E17: Turn, Turn, Turn",,agents-of-s-h-i-e-l-d,,1,17,,,episode,,,43,,Earth-616
@@ -183,7 +189,9 @@
 182,Agents of S.H.I.E.L.D. S3E19: Failed Experiments,,agents-of-s-h-i-e-l-d,,3,19,,,episode,,,41,,Earth-616
 183,Captain America: Civil War,,captain-america-civil-war,,,,,,full,,,147,,Earth-616
 184,Agents of S.H.I.E.L.D. S3E20: Emancipation,,agents-of-s-h-i-e-l-d,,3,20,,,episode,,,42,,Earth-616
-185,Black Widow,,black-widow,,,,,,full,,,135,,Earth-616
+185,Black Widow,,black-widow,,,,,,main,,,135,,Earth-616
+564,Team Thor: Part 1,,team-thor-part-1,,,,,,full,,,3,,Earth-616
+565,Team Thor: Part 2,,team-thor-part-2,,,,,,full,,,4,,Earth-616
 186,Agents of S.H.I.E.L.D. S3E21: Absolution,,agents-of-s-h-i-e-l-d,,3,21,,,episode,,,43,,Earth-616
 187,Agents of S.H.I.E.L.D. S3E22: Ascension,,agents-of-s-h-i-e-l-d,,3,22,,,episode,,,43,,Earth-616
 188,Black Panther,,black-panther,,,,,,full,,,135,,Earth-616
@@ -211,6 +219,16 @@
 210,The Punisher S1E12: Home,,the-punisher,,1,12,,,episode,,,51,,Earth-616
 211,The Punisher S1E13: Memento Mori,,the-punisher,,1,13,,,episode,,,55,,Earth-616
 212,Doctor Strange,,doctor-strange,,,,,,full,,,115,,Earth-616
+566,Cloak and Dagger S1E1: First Light,,cloak-and-dagger,,1,1,,,episode,,,49,,Earth-616
+567,Cloak and Dagger S1E2: Suicide Sprints,,cloak-and-dagger,,1,2,,,episode,,,42,,Earth-616
+568,Cloak and Dagger S1E3: Stained Glass,,cloak-and-dagger,,1,3,,,episode,,,40,,Earth-616
+569,Cloak and Dagger S1E4: Call/Response,,cloak-and-dagger,,1,4,,,episode,,,42,,Earth-616
+570,Cloak and Dagger S1E5: Princeton Offense,,cloak-and-dagger,,1,5,,,episode,,,42,,Earth-616
+571,Cloak and Dagger S1E6: Funhouse Mirrors,,cloak-and-dagger,,1,6,,,episode,,,42,,Earth-616
+572,Cloak and Dagger S1E7: Lotus Eaters,,cloak-and-dagger,,1,7,,,episode,,,42,,Earth-616
+573,Cloak and Dagger S1E8: Ghost Stories,,cloak-and-dagger,,1,8,,,episode,,,42,,Earth-616
+574,Cloak and Dagger S1E9: Back Breaker,,cloak-and-dagger,,1,9,,,episode,,,42,,Earth-616
+575,Cloak and Dagger S1E10: Colony Collapse,,cloak-and-dagger,,1,10,,,episode,,,42,,Earth-616
 213,Agents of S.H.I.E.L.D. S4E1: The Ghost,,agents-of-s-h-i-e-l-d,,4,1,,,episode,,,43,,Earth-616
 214,Agents of S.H.I.E.L.D. S4E2: Meet the New Boss,,agents-of-s-h-i-e-l-d,,4,2,,,episode,,,43,,Earth-616
 215,Agents of S.H.I.E.L.D. S4E3: Uprising,,agents-of-s-h-i-e-l-d,,4,3,,,episode,,,42,,Earth-616
@@ -219,6 +237,12 @@
 218,Agents of S.H.I.E.L.D. S4E6: The Good Samaritan,,agents-of-s-h-i-e-l-d,,4,6,,,episode,,,41,,Earth-616
 219,Agents of S.H.I.E.L.D. S4E7: Deals With Our Devils,,agents-of-s-h-i-e-l-d,,4,7,,,episode,,,43,,Earth-616
 220,Agents of S.H.I.E.L.D. S4E8: The Laws of Inferno Dynamics,,agents-of-s-h-i-e-l-d,,4,8,,,episode,,,42,,Earth-616
+576,Agents of S.H.I.E.L.D.: Slingshot S1E1: Vendetta,,agents-of-s-h-i-e-l-d-slingshot,,1,1,,,episode,,,5,,Earth-616
+577,Agents of S.H.I.E.L.D.: Slingshot S1E2: John Hancock,,agents-of-s-h-i-e-l-d-slingshot,,1,2,,,episode,,,4,,Earth-616
+578,Agents of S.H.I.E.L.D.: Slingshot S1E3: Progress,,agents-of-s-h-i-e-l-d-slingshot,,1,3,,,episode,,,6,,Earth-616
+579,Agents of S.H.I.E.L.D.: Slingshot S1E4: Reunion,,agents-of-s-h-i-e-l-d-slingshot,,1,4,,,episode,,,5,,Earth-616
+580,Agents of S.H.I.E.L.D.: Slingshot S1E5: Deal Breaker,,agents-of-s-h-i-e-l-d-slingshot,,1,5,,,episode,,,4,,Earth-616
+581,Agents of S.H.I.E.L.D.: Slingshot S1E6: Justicia,,agents-of-s-h-i-e-l-d-slingshot,,1,6,,,episode,,,4,,Earth-616
 221,Agents of S.H.I.E.L.D. S4E9: Broken Promises,,agents-of-s-h-i-e-l-d,,4,9,,,episode,,,43,,Earth-616
 222,Agents of S.H.I.E.L.D. S4E10: The Patriot,,agents-of-s-h-i-e-l-d,,4,10,,,episode,,,42,,Earth-616
 223,Agents of S.H.I.E.L.D. S4E11: Wake Up,,agents-of-s-h-i-e-l-d,,4,11,,,episode,,,42,,Earth-616
@@ -267,9 +291,20 @@
 266,Iron Fist S2E5: Heart Of The Dragon,,iron-fist,,2,5,,,episode,,,54,,Earth-616
 267,Iron Fist S2E6: The Dragon Dies At Dawn,,iron-fist,,2,6,,,episode,,,50,,Earth-616
 268,Iron Fist S2E7: Morning Of The Mindstorm,,iron-fist,,2,7,,,episode,,,53,,Earth-616
+582,Runaways S1E1: Reunion,,runaways,,1,1,,,episode,,,53,,Earth-616
+583,Runaways S1E2: Rewind,,runaways,,1,2,,,episode,,,49,,Earth-616
+584,Runaways S1E3: Destiny,,runaways,,1,3,,,episode,,,46,,Earth-616
+585,Runaways S1E4: Fifteen,,runaways,,1,4,,,episode,,,51,,Earth-616
+586,Runaways S1E5: Kingdom,,runaways,,1,5,,,episode,,,47,,Earth-616
+587,Runaways S1E6: Metamorphosis,,runaways,,1,6,,,episode,,,50,,Earth-616
+588,Runaways S1E7: Refraction,,runaways,,1,7,,,episode,,,54,,Earth-616
+589,Runaways S1E8: Tsunami,,runaways,,1,8,,,episode,,,50,,Earth-616
+590,Runaways S1E9: Doomsday,,runaways,,1,9,,,episode,,,45,,Earth-616
+591,Runaways S1E10: Hostile,,runaways,,1,10,,,episode,,,48,,Earth-616
 269,Daredevil S3E1: Resurrection,,daredevil,,3,1,,,episode,,,53,,Earth-616
 270,Daredevil S3E2: Please,,daredevil,,3,2,,,episode,,,49,,Earth-616
 271,Daredevil S3E3: No Good Deed,,daredevil,,3,3,,,episode,,,49,,Earth-616
+592,Runaways S2E1: Gimmie Shelter,,runaways,,2,1,,,episode,,,49,,Earth-616
 272,Daredevil S3E4: Blindsided,,daredevil,,3,4,,,episode,,,54,,Earth-616
 273,Iron Fist S2E8: Citadel On The Edge Of Vengeance,,iron-fist,,2,8,,,episode,,,49,,Earth-616
 274,Iron Fist S2E9: War Without End,,iron-fist,,2,9,,,episode,,,50,,Earth-616
@@ -277,12 +312,38 @@
 276,Iron Fist S2E10: A Duel Of Iron,,iron-fist,,2,10,,,episode,,,52,,Earth-616
 277,Daredevil S3E6: The Devil You Know,,daredevil,,3,6,,,episode,,,54,,Earth-616
 278,Daredevil S3E7: Aftermath,,daredevil,,3,7,,,episode,,,49,,Earth-616
+593,Cloak and Dagger S2E1: Restless Energy,,cloak-and-dagger,,2,1,,,episode,,,42,,Earth-616
 279,Daredevil S3E8: Upstairs/Downstairs,,daredevil,,3,8,,,episode,,,50,,Earth-616
+594,Cloak and Dagger S2E2: White Lines,,cloak-and-dagger,,2,2,,,episode,,,42,,Earth-616
+595,Cloak and Dagger S2E3: Shadow Selves,,cloak-and-dagger,,2,3,,,episode,,,42,,Earth-616
+596,Cloak and Dagger S2E4: Rabbit Hold,,cloak-and-dagger,,2,4,,,episode,,,42,,Earth-616
 280,Daredevil S3E9: Revelations,,daredevil,,3,9,,,episode,,,53,,Earth-616
 281,Daredevil S3E10: Karen,,daredevil,,3,10,,,episode,,,46,,Earth-616
 282,Daredevil S3E11: Reunion,,daredevil,,3,11,,,episode,,,49,,Earth-616
+597,Runaways S2E2: Radio On,,runaways,,2,2,,,episode,,,45,,Earth-616
 283,Daredevil S3E12: One Last Shot,,daredevil,,3,12,,,episode,,,55,,Earth-616
+598,Cloak and Dagger S2E5: Alignment Chart,,cloak-and-dagger,,2,5,,,episode,,,42,,Earth-616
+599,Cloak and Dagger S2E6: B Sides,,cloak-and-dagger,,2,6,,,episode,,,41,,Earth-616
 284,Daredevil S3E13: A New Napkin,,daredevil,,3,13,,,episode,,,53,,Earth-616
+600,Cloak and Dagger S2E7: Vikingtown Sound,,cloak-and-dagger,,2,7,,,episode,,,42,,Earth-616
+601,Cloak and Dagger S2E8: Two Player,,cloak-and-dagger,,2,8,,,episode,,,42,,Earth-616
+602,Runaways S2E3: Double Zeros,,runaways,,2,3,,,episode,,,51,,Earth-616
+603,Runaways S2E4: Old School,,runaways,,2,4,,,episode,,,46,,Earth-616
+604,Cloak and Dagger S2E9: Blue Note,,cloak-and-dagger,,2,9,,,episode,,,42,,Earth-616
+605,Cloak and Dagger S2E10: Level Up,,cloak-and-dagger,,2,10,,,episode,,,42,,Earth-616
+606,Runaways S2E5: Rock Bottom,,runaways,,2,5,,,episode,,,50,,Earth-616
+607,Runaways S2E6: Bury Another,,runaways,,2,6,,,episode,,,45,,Earth-616
+608,Runaways S2E7: Last Rites,,runaways,,2,7,,,episode,,,48,,Earth-616
+609,Runaways S2E8: Past Life,,runaways,,2,8,,,episode,,,44,,Earth-616
+610,Runaways S2E9: Big Shot,,runaways,,2,9,,,episode,,,46,,Earth-616
+611,Runaways S2E10: Hostile Takeover,,runaways,,2,10,,,episode,,,43,,Earth-616
+612,Runaways S2E11: Last Waltz,,runaways,,2,11,,,episode,,,51,,Earth-616
+613,Runaways S2E12: Earth Angel,,runaways,,2,12,,,episode,,,49,,Earth-616
+614,Runaways S2E13: Split Up,,runaways,,2,13,,,episode,,,50,,Earth-616
+615,Runaways S3E1: Smoke and Mirrors,,runaways,,3,1,,,episode,,,51,,Earth-616
+616,Runaways S3E2: The Great Escape,,runaways,,3,2,,,episode,,,45,,Earth-616
+617,Runaways S3E3: Lord of Lies,,runaways,,3,3,,,episode,,,51,,Earth-616
+618,Runaways S3E4: Rite of Thunder,,runaways,,3,4,,,episode,,,50,,Earth-616
 285,Agents of S.H.I.E.L.D. S5E2: Orientation Part 2,,agents-of-s-h-i-e-l-d,,5,2,,,episode,,,43,,Earth-616
 286,Agents of S.H.I.E.L.D. S5E3: A Life Spent,,agents-of-s-h-i-e-l-d,,5,3,,,episode,,,43,,Earth-616
 287,Agents of S.H.I.E.L.D. S5E4: A Life Earned,,agents-of-s-h-i-e-l-d,,5,4,,,episode,,,43,,Earth-616
@@ -293,6 +354,7 @@
 292,Agents of S.H.I.E.L.D. S5E9: Best Laid Plans,,agents-of-s-h-i-e-l-d,,5,9,,,episode,,,41,,Earth-616
 293,Agents of S.H.I.E.L.D. S5E10: Past Life,,agents-of-s-h-i-e-l-d,,5,10,,,episode,,,42,,Earth-616
 294,Thor: Ragnarok,,thor-ragnarok,,,,,,full,,,130,,Earth-616
+619,Team Darryl,,team-darryl,,,,,,full,,,6,,Earth-616
 295,Agents of S.H.I.E.L.D. S5E11: All the Comforts of Home,,agents-of-s-h-i-e-l-d,,5,11,,,episode,,,42,,Earth-616
 296,Agents of S.H.I.E.L.D. S5E12: The Real Deal,,agents-of-s-h-i-e-l-d,,5,12,,,episode,,,43,,Earth-616
 297,Agents of S.H.I.E.L.D. S5E13: Principia,,agents-of-s-h-i-e-l-d,,5,13,,,episode,,,42,,Earth-616
@@ -303,7 +365,7 @@
 302,The Punisher S2E3: Trouble the Water,,the-punisher,,2,3,,,episode,,,51,,Earth-616
 303,Jessica Jones S3E3: AKA I Have No Spleen,,jessica-jones,,3,3,,,episode,,,56,,Earth-616
 304,The Punisher S2E4: Scar Tissue,,the-punisher,,2,4,,,episode,,,58,,Earth-616
-305,Ant-Man and the Wasp,,ant-man-and-the-wasp,,,,,,full,,,125,,Earth-616
+305,Ant-Man and the Wasp,,ant-man-and-the-wasp,,,,,,main,,,125,,Earth-616
 306,The Punisher S2E5: One-Eyed Jacks,,the-punisher,,2,5,,,episode,,,51,,Earth-616
 307,Jessica Jones S3E4: AKA Customer Service Is Standing By,,jessica-jones,,3,4,,,episode,,,46,,Earth-616
 308,The Punisher S2E6: Nakazat,,the-punisher,,2,6,,,episode,,,56,,Earth-616
@@ -327,11 +389,18 @@
 326,Agents of S.H.I.E.L.D. S5E17: The Honeymoon,,agents-of-s-h-i-e-l-d,,5,17,,,episode,,,42,,Earth-616
 327,Agents of S.H.I.E.L.D. S5E18: All Roads Lead...,,agents-of-s-h-i-e-l-d,,5,18,,,episode,,,41,,Earth-616
 328,Jessica Jones S3E12: AKA A Lotta Worms,,jessica-jones,,3,12,,,episode,,,49,,Earth-616
+620,Runaways S3E5: Enter The Dreamland,,runaways,,3,5,,,episode,,,48,,Earth-616
+621,Runaways S3E6: Merry Meet Again,,runaways,,3,6,,,episode,,,49,,Earth-616
+622,Runaways S3E7: Left-Hand Path,,runaways,,3,7,,,episode,,,44,,Earth-616
+623,Runaways S3E8: Devil's Torture Chamber,,runaways,,3,8,,,episode,,,43,,Earth-616
+624,Runaways S3E9: The Broken Circle,,runaways,,3,9,,,episode,,,52,,Earth-616
+625,Runaways S3E10: Cheat The Gallows,,runaways,,3,10,,,episode,,,49,,Earth-616
 329,Jessica Jones S3E13: AKA Everything,,jessica-jones,,3,13,,,episode,,,51,,Earth-616
 330,Agents of S.H.I.E.L.D. S5E19: Option Two,,agents-of-s-h-i-e-l-d,,5,19,,,episode,,,42,,Earth-616
 331,Agents of S.H.I.E.L.D. S5E20: The One Who Will Save Us All,,agents-of-s-h-i-e-l-d,,5,20,,,episode,,,42,,Earth-616
 332,Agents of S.H.I.E.L.D. S5E21: The Force of Gravity,,agents-of-s-h-i-e-l-d,,5,21,,,episode,,,43,,Earth-616
 333,Avengers: Infinity War,,avengers-infinity-war,,,,,,full,,,160,,Earth-616
+626,Ant-Man & The Wasp (All Credits),,ant-man-and-the-wasp,,,,,,post_credits,Escena post-créditos,,2,,Earth-616
 334,Agents of S.H.I.E.L.D. S5E22: The End,,agents-of-s-h-i-e-l-d,,5,22,,,episode,,,43,,Earth-616
 335,Agents of S.H.I.E.L.D. S6E1: Missing Pieces,,agents-of-s-h-i-e-l-d,,6,1,,,episode,,,42,,Earth-616
 336,Agents of S.H.I.E.L.D. S6E2: Window of Opportunity,,agents-of-s-h-i-e-l-d,,6,2,,,episode,,,43,,Earth-616
@@ -359,15 +428,32 @@
 358,Agents of S.H.I.E.L.D. S7E11: Brand New Day,,agents-of-s-h-i-e-l-d,,7,11,,,episode,,,43,,Earth-616
 359,Agents of S.H.I.E.L.D. S7E12: The End is at Hand,,agents-of-s-h-i-e-l-d,,7,12,,,episode,,,43,,Earth-616
 360,Agents of S.H.I.E.L.D. S7E13: What We’re Fighting For,,agents-of-s-h-i-e-l-d,,7,13,,,episode,,,43,,Earth-616
+627,Helstrom S1E1: Mother's Little Helpers,,helstrom,,1,1,,,episode,,,56,,Earth-616
+628,Helstrom S1E2: Viaticum,,helstrom,,1,2,,,episode,,,48,,Earth-616
+629,Helstrom S1E3: The One Who Got Away,,helstrom,,1,3,,,episode,,,45,,Earth-616
+630,Helstrom S1E4: Containment,,helstrom,,1,4,,,episode,,,52,,Earth-616
+631,Helstrom S1E5: Committed,,helstrom,,1,5,,,episode,,,45,,Earth-616
+632,Helstrom S1E6: Leviathan,,helstrom,,1,6,,,episode,,,47,,Earth-616
+633,Helstrom S1E7: Scars,,helstrom,,1,7,,,episode,,,52,,Earth-616
+634,Helstrom S1E8: Underneath,,helstrom,,1,8,,,episode,,,50,,Earth-616
+635,Helstrom S1E9: Vessels,,helstrom,,1,9,,,episode,,,52,,Earth-616
+636,Helstrom S1E10: Hell Storm,,helstrom,,1,10,,,episode,,,54,,Earth-616
+637,Captain Marvel (Post-Credits Scene),,captain-marvel,,,,,,post_credits,Escena post-créditos,,1,,Earth-616
 361,Avengers: Endgame,,avengers-endgame,,,,,,full,,,182,,Earth-616
-362,Avengers: Endgame | Re-Release,,avengers-endgame,,,,,re-release,bonus,Re-Release,,7,,Earth-616
-363,Avengers: Endgame Encore,,avengers-endgame,,,,,encore,bonus,Encore,,4,,Earth-616
 364,Loki S1E1: Glorious Purpose,,loki,,1,1,,,episode,,,52,,Earth-616
 365,Loki S1E2: The Variant,,loki,,1,2,,,episode,,,55,,loki
 366,Loki S1E3: Lamentis,,loki,,1,3,,,episode,,,43,,loki
 367,Loki S1E4: The Nexus Event,,loki,,1,4,,,episode,,,49,,loki
 368,Loki S1E5: Journey Into Mystery,,loki,,1,5,,,episode,,,50,,loki
 369,Loki S1E6: For All Time. Always.,,loki,,1,6,,,episode,,,47,,loki
+638,Spider-Noir S1E1: Step Into My Office,,spider-noir,,1,1,,,episode,,,47,,Earth-90214
+639,Spider-Noir S1E2: Tread Lightly,,spider-noir,,1,2,,,episode,,,43,,Earth-90214
+640,Spider-Noir S1E3: Double Cross,,spider-noir,,1,3,,,episode,,,47,,Earth-90214
+641,Spider-Noir S1E4: A Mistake I'll Never Make Again,,spider-noir,,1,4,,,episode,,,49,,Earth-90214
+642,Spider-Noir S1E5: Betrayal,,spider-noir,,1,5,,,episode,,,47,,Earth-90214
+643,Spider-Noir S1E6: Nightmare on a Gurney,,spider-noir,,1,6,,,episode,,,43,,Earth-90214
+644,Spider-Noir S1E7: Nobody's Hero,,spider-noir,,1,7,,,episode,,,43,,Earth-90214
+645,Spider-Noir S1E8: The Man in the Mask,,spider-noir,,1,8,,,episode,,,48,,Earth-90214
 370,What If...? S1E1: What If... Captain Carter Were The First Avenger?,,what-if,,1,1,,,episode,,,34,,Earth-82111
 371,What If...? S1E2: What If... T'Challa Became a Star-Lord?,,what-if,,1,2,,,episode,,,35,,Earth-21818
 372,What If...? S1E3: What If... The World Lost Its Mightiest Heroes?,,what-if,,1,3,,,episode,,,33,,Earth-51825
@@ -377,24 +463,298 @@
 376,What If...? S1E7: What If... Thor Were an Only Child?,,what-if,,1,7,,,episode,,,36,,Earth-72124
 377,What If...? S1E8: What If... Ultron Won?,,what-if,,1,8,,,episode,,,31,,Earth-29929
 378,What If...? S1E9: What If… The Watcher Broke His Oath?,,what-if,,1,9,,,episode,,,36,,barren-wasteland
+646,X-Men: The Animated Series S1E1: Night of the Sentinels - Part I,,x-men-the-animated-series,,1,1,,,episode,,,22,,Earth-92131
+647,X-Men: The Animated Series S1E2: Night of the Sentinels - Part II,,x-men-the-animated-series,,1,2,,,episode,,,22,,Earth-92131
+648,X-Men: The Animated Series S1E3: Enter Magneto,,x-men-the-animated-series,,1,3,,,episode,,,22,,Earth-92131
+649,X-Men: The Animated Series S1E4: Deadly Reunions,,x-men-the-animated-series,,1,4,,,episode,,,22,,Earth-92131
+650,X-Men: The Animated Series S1E5: Captive Hearts,,x-men-the-animated-series,,1,5,,,episode,,,22,,Earth-92131
+651,X-Men: The Animated Series S1E6: Cold Vengeance,,x-men-the-animated-series,,1,6,,,episode,,,22,,Earth-92131
+652,X-Men: The Animated Series S1E7: Slave Island,,x-men-the-animated-series,,1,7,,,episode,,,22,,Earth-92131
+653,X-Men: The Animated Series S1E8: The Unstoppable Juggernaut,,x-men-the-animated-series,,1,8,,,episode,,,22,,Earth-92131
+654,X-Men: The Animated Series S1E9: The Cure,,x-men-the-animated-series,,1,9,,,episode,,,22,,Earth-92131
+655,X-Men: The Animated Series S1E10: Come the Apocalypse,,x-men-the-animated-series,,1,10,,,episode,,,22,,Earth-92131
+656,X-Men: The Animated Series S1E11: Days of Future Past - Part I,,x-men-the-animated-series,,1,11,,,episode,,,22,,Earth-92131
+657,X-Men: The Animated Series S1E12: Days of Future Past - Part II,,x-men-the-animated-series,,1,12,,,episode,,,22,,Earth-92131
+658,X-Men: The Animated Series S1E13: The Final Decision,,x-men-the-animated-series,,1,13,,,episode,,,22,,Earth-92131
+659,X-Men: The Animated Series S2E1: Till Death Do Us Part - Part I,,x-men-the-animated-series,,2,1,,,episode,,,22,,Earth-92131
+660,X-Men: The Animated Series S2E2: Till Death Do Us Part - Part II,,x-men-the-animated-series,,2,2,,,episode,,,22,,Earth-92131
+661,X-Men: The Animated Series S2E3: Whatever It Takes,,x-men-the-animated-series,,2,3,,,episode,,,22,,Earth-92131
+662,X-Men: The Animated Series S2E4: Red Dawn,,x-men-the-animated-series,,2,4,,,episode,,,22,,Earth-92131
+663,X-Men: The Animated Series S2E5: Repo Man,,x-men-the-animated-series,,2,5,,,episode,,,22,,Earth-92131
+664,X-Men: The Animated Series S2E6: X-Ternally Yours,,x-men-the-animated-series,,2,6,,,episode,,,22,,Earth-92131
+665,X-Men: The Animated Series S2E7: Time Fugitives - Part I,,x-men-the-animated-series,,2,7,,,episode,,,22,,Earth-92131
+666,X-Men: The Animated Series S2E8: Time Fugitives - Part II,,x-men-the-animated-series,,2,8,,,episode,,,22,,Earth-92131
+667,X-Men: The Animated Series S2E9: A Rogue's Tale,,x-men-the-animated-series,,2,9,,,episode,,,22,,Earth-92131
+668,X-Men: The Animated Series S2E10: Beauty & the Beast,,x-men-the-animated-series,,2,10,,,episode,,,22,,Earth-92131
+669,X-Men: The Animated Series S2E11: Mojovision,,x-men-the-animated-series,,2,11,,,episode,,,22,,Earth-92131
+670,X-Men: The Animated Series S2E12: Reunion - Part I,,x-men-the-animated-series,,2,12,,,episode,,,22,,Earth-92131
+671,X-Men: The Animated Series S2E13: Reunion - Part II,,x-men-the-animated-series,,2,13,,,episode,,,22,,Earth-92131
+672,X-Men: The Animated Series S3E1: Out of the Past - Part I,,x-men-the-animated-series,,3,1,,,episode,,,22,,Earth-92131
+673,X-Men: The Animated Series S3E2: Out of the Past - Part II,,x-men-the-animated-series,,3,2,,,episode,,,22,,Earth-92131
+674,X-Men: The Animated Series S3E3: The Phoenix Saga - Part I: Sacrifice,,x-men-the-animated-series,,3,3,,,episode,,,22,,Earth-92131
+675,X-Men: The Animated Series S3E4: The Phoenix Saga - Part II: The Dark Shroud,,x-men-the-animated-series,,3,4,,,episode,,,22,,Earth-92131
+676,X-Men: The Animated Series S3E5: The Phoenix Saga - Part III: Cry of the Banshee,,x-men-the-animated-series,,3,5,,,episode,,,22,,Earth-92131
+677,X-Men: The Animated Series S3E6: The Phoenix Saga - Part IV: The Starjammers,,x-men-the-animated-series,,3,6,,,episode,,,22,,Earth-92131
+678,X-Men: The Animated Series S3E7: The Phoenix Saga - Part V: Child Of Light,,x-men-the-animated-series,,3,7,,,episode,,,22,,Earth-92131
+679,Iron Man: The Animated Series S1E1: And the Sea Shall Give Up Its Dead,,iron-man-the-animated-series,,1,1,,,episode,,,23,,Earth-534834
+680,"Iron Man: The Animated Series S1E2: Rejoice! I Am Ultimo, Thy Deliverer",,iron-man-the-animated-series,,1,2,,,episode,,,23,,Earth-534834
+681,"Iron Man: The Animated Series S1E3: Data In, Chaos Out",,iron-man-the-animated-series,,1,3,,,episode,,,23,,Earth-534834
+682,"Iron Man: The Animated Series S1E4: Silence My Companion, Death My Destination",,iron-man-the-animated-series,,1,4,,,episode,,,23,,Earth-534834
+683,"X-Men: The Animated Series S3E8: Savage Land, Savage Heart - Part I",,x-men-the-animated-series,,3,8,,,episode,,,22,,Earth-92131
+684,"X-Men: The Animated Series S3E9: Savage Land, Savage Heart - Part II",,x-men-the-animated-series,,3,9,,,episode,,,22,,Earth-92131
+685,Iron Man: The Animated Series S1E5: The Grim Reaper Wears a Teflon Coat,,iron-man-the-animated-series,,1,5,,,episode,,,23,,Earth-534834
+686,"Iron Man: The Animated Series S1E6: Enemy Without, Enemy Within",,iron-man-the-animated-series,,1,6,,,episode,,,23,,Earth-534834
+687,Iron Man: The Animated Series S1E7: The Origin of the Mandarin,,iron-man-the-animated-series,,1,7,,,episode,,,23,,Earth-534834
+688,Iron Man: The Animated Series S1E8: The Defection of Hawkeye,,iron-man-the-animated-series,,1,8,,,episode,,,23,,Earth-534834
+689,X-Men: The Animated Series S3E10: Obsession,,x-men-the-animated-series,,3,10,,,episode,,,22,,Earth-92131
+690,X-Men: The Animated Series S3E11: The Dark Phoenix - Part I: Dazzled,,x-men-the-animated-series,,3,11,,,episode,,,22,,Earth-92131
+691,X-Men: The Animated Series S3E12: The Dark Phoenix - Part II: The Inner Circle,,x-men-the-animated-series,,3,12,,,episode,,,22,,Earth-92131
+692,X-Men: The Animated Series S3E13: The Dark Phoenix - Part III: The Dark Phoenix,,x-men-the-animated-series,,3,13,,,episode,,,21,,Earth-92131
+693,X-Men: The Animated Series S3E14: The Dark Phoenix - Part IV: The Fate of the Phoenix,,x-men-the-animated-series,,3,14,,,episode,,,22,,Earth-92131
+694,X-Men: The Animated Series S3E15: Cold Comfort,,x-men-the-animated-series,,3,15,,,episode,,,22,,Earth-92131
+695,X-Men: The Animated Series S3E16: Orphan's End,,x-men-the-animated-series,,3,16,,,episode,,,21,,Earth-92131
+696,X-Men: The Animated Series S3E17: The Juggernaut Returns,,x-men-the-animated-series,,3,17,,,episode,,,22,,Earth-92131
+697,X-Men: The Animated Series S3E18: Nightcrawler,,x-men-the-animated-series,,3,18,,,episode,,,22,,Earth-92131
+698,"Fantastic Four: The Animated Series S1E5: The Silver Surfer and the Coming of Galactus, Part 1",,fantastic-four-the-animated-series,,1,5,,,episode,,,22,,Earth-534834
+699,"Fantastic Four: The Animated Series S1E6: The Silver Surfer and the Coming of Galactus, Part 2",,fantastic-four-the-animated-series,,1,6,,,episode,,,22,,Earth-534834
+700,Fantastic Four: The Animated Series S1E7: Super Skrull,,fantastic-four-the-animated-series,,1,7,,,episode,,,22,,Earth-534834
+701,"X-Men: The Animated Series S3E19: Weapon X, Lies, and Video Tape",,x-men-the-animated-series,,3,19,,,episode,,,22,,Earth-92131
+702,Spider-Man: The Animated Series S1E1: Night of the Lizard,,spider-man-the-animated-series,,1,1,,,episode,,,21,,Earth-92131
+703,Spider-Man: The Animated Series S1E2: The Spider Slayer,,spider-man-the-animated-series,,1,2,,,episode,,,21,,Earth-92131
+704,Spider-Man: The Animated Series S1E3: Return of the Spider Slayers,,spider-man-the-animated-series,,1,3,,,episode,,,21,,Earth-92131
+705,Spider-Man: The Animated Series S1E4: Doctor Octopus: Armed and Dangerous,,spider-man-the-animated-series,,1,4,,,episode,,,21,,Earth-92131
+706,Spider-Man: The Animated Series S1E5: The Menace of Mysterio,,spider-man-the-animated-series,,1,5,,,episode,,,21,,Earth-92131
+707,Spider-Man: The Animated Series S1E6: The Sting of the Scorpion,,spider-man-the-animated-series,,1,6,,,episode,,,21,,Earth-92131
+708,Spider-Man: The Animated Series S1E7: Kraven the Hunter,,spider-man-the-animated-series,,1,7,,,episode,,,20,,Earth-92131
+709,"Spider-Man: The Animated Series S1E8: The Alien Costume, Part One",,spider-man-the-animated-series,,1,8,,,episode,,,22,,Earth-92131
+710,"Spider-Man: The Animated Series S1E9: The Alien Costume, Part Two",,spider-man-the-animated-series,,1,9,,,episode,,,21,,Earth-92131
+711,"Spider-Man: The Animated Series S1E10: The Alien Costume, Part Three",,spider-man-the-animated-series,,1,10,,,episode,,,21,,Earth-92131
+712,"Spider-Man: The Animated Series S1E11: The Hobgoblin, Part One",,spider-man-the-animated-series,,1,11,,,episode,,,22,,Earth-92131
+713,"Spider-Man: The Animated Series S1E12: The Hobgoblin, Part Two",,spider-man-the-animated-series,,1,12,,,episode,,,22,,Earth-92131
+714,Spider-Man: The Animated Series S1E13: Day of the Chameleon,,spider-man-the-animated-series,,1,13,,,episode,,,21,,Earth-92131
+715,X-Men: The Animated Series S4E1: One Man's Worth - Part I,,x-men-the-animated-series,,4,1,,,episode,,,22,,Earth-92131
+716,X-Men: The Animated Series S4E2: One Man's Worth - Part II,,x-men-the-animated-series,,4,2,,,episode,,,22,,Earth-92131
+717,X-Men: The Animated Series S4E3: Courage,,x-men-the-animated-series,,4,3,,,episode,,,22,,Earth-92131
+718,X-Men: The Animated Series S4E4: Proteus - Part I,,x-men-the-animated-series,,4,4,,,episode,,,22,,Earth-92131
+719,X-Men: The Animated Series S4E5: Proteus - Part II,,x-men-the-animated-series,,4,5,,,episode,,,22,,Earth-92131
+720,Iron Man: The Animated Series S2E1: The Beast Within,,iron-man-the-animated-series,,2,1,,,episode,,,23,,Earth-534834
+721,Iron Man: The Animated Series S2E2: Fire and Rain,,iron-man-the-animated-series,,2,2,,,episode,,,23,,Earth-534834
+722,Iron Man: The Animated Series S2E3: Cell of Iron,,iron-man-the-animated-series,,2,3,,,episode,,,23,,Earth-534834
+723,X-Men: The Animated Series S4E6: Sanctuary - Part I,,x-men-the-animated-series,,4,6,,,episode,,,22,,Earth-92131
+724,X-Men: The Animated Series S4E7: Sanctuary - Part II,,x-men-the-animated-series,,4,7,,,episode,,,22,,Earth-92131
+725,Fantastic Four: The Animated Series S1E4: Incursion of the Skrulls,,fantastic-four-the-animated-series,,1,4,,,episode,,,22,,Earth-534834
+726,X-Men: The Animated Series S4E8: Beyond Good and Evil - Part I: The End of Time,,x-men-the-animated-series,,4,8,,,episode,,,22,,Earth-92131
+727,X-Men: The Animated Series S4E9: Beyond Good and Evil - Part II: Promise of Apocalypse,,x-men-the-animated-series,,4,9,,,episode,,,22,,Earth-92131
+728,X-Men: The Animated Series S4E10: Beyond Good and Evil - Part III: The Lazarus Chamber,,x-men-the-animated-series,,4,10,,,episode,,,22,,Earth-92131
+729,X-Men: The Animated Series S4E11: Beyond Good and Evil - Part IV: End and Beginning,,x-men-the-animated-series,,4,11,,,episode,,,22,,Earth-92131
+730,X-Men: The Animated Series S4E12: Have Yourself a Morlock Little X-Mas,,x-men-the-animated-series,,4,12,,,episode,,,21,,Earth-92131
+731,"Fantastic Four: The Animated Series S1E8: The Mask of Doom, Part 1",,fantastic-four-the-animated-series,,1,8,,,episode,,,22,,Earth-534834
+732,"Fantastic Four: The Animated Series S1E9: The Mask of Doom, Part 2",,fantastic-four-the-animated-series,,1,9,,,episode,,,22,,Earth-534834
+733,"Fantastic Four: The Animated Series S1E10: The Mask of Doom, Part 3",,fantastic-four-the-animated-series,,1,10,,,episode,,,22,,Earth-534834
+734,"Iron Man: The Animated Series S2E6: Iron Man, On the Inside",,iron-man-the-animated-series,,2,6,,,episode,,,23,,Earth-534834
+735,Iron Man: The Animated Series S2E7: Distant Boundaries,,iron-man-the-animated-series,,2,7,,,episode,,,23,,Earth-534834
+736,"Iron Man: The Animated Series S2E8: The Armor Wars, Part 1",,iron-man-the-animated-series,,2,8,,,episode,,,23,,Earth-534834
+737,"Iron Man: The Animated Series S2E9: The Armor Wars, Part 2",,iron-man-the-animated-series,,2,9,,,episode,,,23,,Earth-534834
+738,X-Men: The Animated Series S4E13: The Lotus and the Steel,,x-men-the-animated-series,,4,13,,,episode,,,22,,Earth-92131
+739,X-Men: The Animated Series S4E14: Love In Vain,,x-men-the-animated-series,,4,14,,,episode,,,21,,Earth-92131
+740,"Iron Man: The Animated Series S1E11: The Origin of Iron Man, Part 1",,iron-man-the-animated-series,,1,11,,,episode,,,23,,Earth-534834
+741,"Iron Man: The Animated Series S1E12: The Origin of Iron Man, Part 2",,iron-man-the-animated-series,,1,12,,,episode,,,23,,Earth-534834
+742,Iron Man: The Animated Series S1E13: The Wedding of Iron Man,,iron-man-the-animated-series,,1,13,,,episode,,,23,,Earth-534834
+743,Fantastic Four: The Animated Series S1E3: Now Comes the Sub-Mariner,,fantastic-four-the-animated-series,,1,3,,,episode,,,22,,Earth-534834
+744,"Fantastic Four: The Animated Series S1E1: The Origin of the Fantastic Four, Part 1",,fantastic-four-the-animated-series,,1,1,,,episode,,,22,,Earth-534834
+745,"Fantastic Four: The Animated Series S1E2: The Origin of the Fantastic Four, Part 2",,fantastic-four-the-animated-series,,1,2,,,episode,,,22,,Earth-534834
+746,"X-Men: The Animated Series S4E15: Secrets, Not Long Buried",,x-men-the-animated-series,,4,15,,,episode,,,21,,Earth-92131
+747,X-Men: The Animated Series S4E16: Xavier Remembers,,x-men-the-animated-series,,4,16,,,episode,,,21,,Earth-92131
+748,X-Men: The Animated Series S4E17: Family Ties,,x-men-the-animated-series,,4,17,,,episode,,,22,,Earth-92131
+749,Spider-Man: The Animated Series S2E1: The Insidious Six,,spider-man-the-animated-series,,2,1,,,episode,,,22,,Earth-92131
+750,Spider-Man: The Animated Series S2E2: Battle of the Insidious Six,,spider-man-the-animated-series,,2,2,,,episode,,,21,,Earth-92131
+751,Spider-Man: The Animated Series S2E3: Hydro-Man,,spider-man-the-animated-series,,2,3,,,episode,,,21,,Earth-92131
+752,Spider-Man: The Animated Series S2E4: The Mutant Agenda,,spider-man-the-animated-series,,2,4,,,episode,,,21,,Earth-92131
+753,Spider-Man: The Animated Series S2E5: Mutants' Revenge,,spider-man-the-animated-series,,2,5,,,episode,,,22,,Earth-92131
+754,Spider-Man: The Animated Series S2E6: Morbius,,spider-man-the-animated-series,,2,6,,,episode,,,22,,Earth-92131
+755,Spider-Man: The Animated Series S2E7: Enter the Punisher,,spider-man-the-animated-series,,2,7,,,episode,,,22,,Earth-92131
+756,Spider-Man: The Animated Series S2E8: Duel of the Hunters,,spider-man-the-animated-series,,2,8,,,episode,,,22,,Earth-92131
+757,"Spider-Man: The Animated Series S2E9: Blade, the Vampire Hunter",,spider-man-the-animated-series,,2,9,,,episode,,,22,,Earth-92131
+758,Spider-Man: The Animated Series S2E10: The Immortal Vampire,,spider-man-the-animated-series,,2,10,,,episode,,,22,,Earth-92131
+759,Spider-Man: The Animated Series S2E11: Tablet of Time,,spider-man-the-animated-series,,2,11,,,episode,,,22,,Earth-92131
+760,Spider-Man: The Animated Series S2E12: Ravages of Time,,spider-man-the-animated-series,,2,12,,,episode,,,22,,Earth-92131
+761,Spider-Man: The Animated Series S2E13: Shriek of the Vulture,,spider-man-the-animated-series,,2,13,,,episode,,,22,,Earth-92131
+762,Spider-Man: The Animated Series S2E14: The Final Nightmare,,spider-man-the-animated-series,,2,14,,,episode,,,22,,Earth-92131
+763,"Iron Man: The Animated Series S1E9: Iron Man to the Second Power, Part 1",,iron-man-the-animated-series,,1,9,,,episode,,,23,,Earth-534834
+764,"Iron Man: The Animated Series S1E10: Iron Man to the Second Power, Part 2",,iron-man-the-animated-series,,1,10,,,episode,,,23,,Earth-534834
+765,Spider-Man: The Animated Series S3E1: Doctor Strange,,spider-man-the-animated-series,,3,1,,,episode,,,21,,Earth-92131
+766,Spider-Man: The Animated Series S3E2: Make a Wish,,spider-man-the-animated-series,,3,2,,,episode,,,22,,Earth-92131
+767,Spider-Man: The Animated Series S3E3: Attack of the Octobot,,spider-man-the-animated-series,,3,3,,,episode,,,22,,Earth-92131
+768,Spider-Man: The Animated Series S3E4: Enter the Green Goblin,,spider-man-the-animated-series,,3,4,,,episode,,,22,,Earth-92131
+769,Spider-Man: The Animated Series S3E5: Rocket Racer,,spider-man-the-animated-series,,3,5,,,episode,,,22,,Earth-92131
+770,Spider-Man: The Animated Series S3E6: Framed,,spider-man-the-animated-series,,3,6,,,episode,,,22,,Earth-92131
+771,Spider-Man: The Animated Series S3E7: The Man Without Fear,,spider-man-the-animated-series,,3,7,,,episode,,,22,,Earth-92131
+772,Spider-Man: The Animated Series S3E8: The Ultimate Slayer,,spider-man-the-animated-series,,3,8,,,episode,,,22,,Earth-92131
+773,Spider-Man: The Animated Series S3E9: Tombstone,,spider-man-the-animated-series,,3,9,,,episode,,,22,,Earth-92131
+774,Iron Man: The Animated Series S2E4: Not Far From the Tree,,iron-man-the-animated-series,,2,4,,,episode,,,23,,Earth-534834
+775,Iron Man: The Animated Series S2E5: Beauty Knows No Pain,,iron-man-the-animated-series,,2,5,,,episode,,,23,,Earth-534834
+776,Spider-Man: The Animated Series S3E10: The Spot,,spider-man-the-animated-series,,3,10,,,episode,,,21,,Earth-92131
+777,Spider-Man: The Animated Series S3E11: Venom Returns,,spider-man-the-animated-series,,3,11,,,episode,,,22,,Earth-92131
+778,Spider-Man: The Animated Series S3E12: Carnage,,spider-man-the-animated-series,,3,12,,,episode,,,22,,Earth-92131
+779,Spider-Man: The Animated Series S3E13: Goblin War!,,spider-man-the-animated-series,,3,13,,,episode,,,22,,Earth-92131
+780,Spider-Man: The Animated Series S3E14: The Turning Point,,spider-man-the-animated-series,,3,14,,,episode,,,22,,Earth-92131
+781,Fantastic Four: The Animated Series S1E13: The Silver Surfer and the Return of Galactus,,fantastic-four-the-animated-series,,1,13,,,episode,,,22,,Earth-534834
+782,Fantastic Four: The Animated Series S1E11: Mole Man,,fantastic-four-the-animated-series,,1,11,,,episode,,,22,,Earth-534834
+783,Fantastic Four: The Animated Series S1E12: Behold the Negative Zone,,fantastic-four-the-animated-series,,1,12,,,episode,,,22,,Earth-534834
+784,Spider-Man: The Animated Series S4E1: Guilty,,spider-man-the-animated-series,,4,1,,,episode,,,21,,Earth-92131
+785,Spider-Man: The Animated Series S4E2: The Cat,,spider-man-the-animated-series,,4,2,,,episode,,,21,,Earth-92131
+786,Spider-Man: The Animated Series S4E3: The Black Cat,,spider-man-the-animated-series,,4,3,,,episode,,,22,,Earth-92131
+787,Fantastic Four: The Animated Series S2E1: And a Blind Man Shall Lead Them,,fantastic-four-the-animated-series,,2,1,,,episode,,,23,,Earth-534834
+788,"The Incredible Hulk S1E1: Return of the Beast, Part 1",,the-incredible-hulk-series,,1,1,,,episode,,,22,,Earth-534834
+789,"The Incredible Hulk S1E2: Return of the Beast, Part 2",,the-incredible-hulk-series,,1,2,,,episode,,,22,,Earth-534834
+790,Spider-Man: The Animated Series S4E4: The Return of Kraven,,spider-man-the-animated-series,,4,4,,,episode,,,21,,Earth-92131
+791,Spider-Man: The Animated Series S4E5: Partners,,spider-man-the-animated-series,,4,5,,,episode,,,22,,Earth-92131
+792,Spider-Man: The Animated Series S4E6: The Awakening,,spider-man-the-animated-series,,4,6,,,episode,,,22,,Earth-92131
+793,Spider-Man: The Animated Series S4E7: The Vampire Queen,,spider-man-the-animated-series,,4,7,,,episode,,,22,,Earth-92131
+794,The Incredible Hulk S1E8: Fantastic Fortitude,,the-incredible-hulk-series,,1,8,,,episode,,,22,,Earth-534834
+795,Fantastic Four: The Animated Series S2E6: To Battle the Living Planet,,fantastic-four-the-animated-series,,2,6,,,episode,,,23,,Earth-534834
+796,Fantastic Four: The Animated Series S2E7: Prey of the Black Panther,,fantastic-four-the-animated-series,,2,7,,,episode,,,23,,Earth-534834
+797,Fantastic Four: The Animated Series S2E8: When Calls Galactus,,fantastic-four-the-animated-series,,2,8,,,episode,,,23,,Earth-534834
+798,Spider-Man: The Animated Series S4E8: The Return of the Green Goblin,,spider-man-the-animated-series,,4,8,,,episode,,,22,,Earth-92131
+799,Spider-Man: The Animated Series S4E9: The Haunting of Mary Jane Watson,,spider-man-the-animated-series,,4,9,,,episode,,,22,,Earth-92131
+800,"Fantastic Four: The Animated Series S2E10: Behold, a Distant Star",,fantastic-four-the-animated-series,,2,10,,,episode,,,23,,Earth-534834
+801,Fantastic Four: The Animated Series S2E11: Hopelessly Impossible,,fantastic-four-the-animated-series,,2,11,,,episode,,,23,,Earth-534834
+802,The Incredible Hulk S1E9: Mortal Bounds,,the-incredible-hulk-series,,1,9,,,episode,,,22,,Earth-534834
+803,The Incredible Hulk S1E10: And the Wind Cries... Wendigo!,,the-incredible-hulk-series,,1,10,,,episode,,,22,,Earth-534834
+804,Spider-Man: The Animated Series S4E10: The Lizard King,,spider-man-the-animated-series,,4,10,,,episode,,,22,,Earth-92131
+805,Spider-Man: The Animated Series S4E11: The Prowler,,spider-man-the-animated-series,,4,11,,,episode,,,21,,Earth-92131
+806,Fantastic Four: The Animated Series S2E12: The Sentry Sinister,,fantastic-four-the-animated-series,,2,12,,,episode,,,23,,Earth-534834
+807,Fantastic Four: The Animated Series S2E13: Doomsday,,fantastic-four-the-animated-series,,2,13,,,episode,,,23,,Earth-534834
+808,"The Incredible Hulk S1E11: Darkness and Light, Part 1",,the-incredible-hulk-series,,1,11,,,episode,,,22,,Earth-534834
+809,"The Incredible Hulk S1E12: Darkness and Light, Part 2",,the-incredible-hulk-series,,1,12,,,episode,,,22,,Earth-534834
+810,"The Incredible Hulk S1E13: Darkness and Light, Part 3",,the-incredible-hulk-series,,1,13,,,episode,,,22,,Earth-534834
+811,Spider-Man: The Animated Series S5E1: The Wedding,,spider-man-the-animated-series,,5,1,,,episode,,,22,,Earth-92131
+812,The Incredible Hulk S2E1: Hulk of a Different Color,,the-incredible-hulk-series,,2,1,,,episode,,,22,,Earth-534834
+813,The Incredible Hulk S2E2: Down Memory Lane,,the-incredible-hulk-series,,2,2,,,episode,,,22,,Earth-534834
+814,Spider-Man: The Animated Series S5E2: Six Forgotten Warriors Chapter 1,,spider-man-the-animated-series,,5,2,,,episode,,,22,,Earth-92131
+815,Spider-Man: The Animated Series S5E3: Six Forgotten Warriors Chapter 2: Unclaimed Legacy,,spider-man-the-animated-series,,5,3,,,episode,,,22,,Earth-92131
+816,Spider-Man: The Animated Series S5E4: Six Forgotten Warriors Chapter 3: Secrets of the Six,,spider-man-the-animated-series,,5,4,,,episode,,,21,,Earth-92131
+817,Spider-Man: The Animated Series S5E5: Six Forgotten Warriors Chapter 4: The Six Fight Again,,spider-man-the-animated-series,,5,5,,,episode,,,22,,Earth-92131
+818,Spider-Man: The Animated Series S5E6: Six Forgotten Warriors Chapter 5: The Price of Heroism,,spider-man-the-animated-series,,5,6,,,episode,,,22,,Earth-92131
+819,The Incredible Hulk S2E3: Mind Over Anti-Matter,,the-incredible-hulk-series,,2,3,,,episode,,,22,,Earth-534834
+820,The Incredible Hulk S2E4: They Call Me Mr. Fixit,,the-incredible-hulk-series,,2,4,,,episode,,,22,,Earth-534834
+821,The Incredible Hulk S2E5: Fashion Warriors,,the-incredible-hulk-series,,2,5,,,episode,,,22,,Earth-534834
+822,"Spider-Man: The Animated Series S5E7: The Return of Hydro-Man, Part 1",,spider-man-the-animated-series,,5,7,,,episode,,,22,,Earth-92131
+823,"Spider-Man: The Animated Series S5E8: The Return of Hydro-Man, Part 2",,spider-man-the-animated-series,,5,8,,,episode,,,22,,Earth-92131
+824,The Incredible Hulk S2E6: Hollywood Rocks,,the-incredible-hulk-series,,2,6,,,episode,,,22,,Earth-534834
+825,The Incredible Hulk S2E7: The Lost Village,,the-incredible-hulk-series,,2,7,,,episode,,,22,,Earth-534834
+826,The Incredible Hulk S2E8: Mission: Incredible,,the-incredible-hulk-series,,2,8,,,episode,,,22,,Earth-534834
+827,"Spider-Man: The Animated Series S5E9: Secret Wars, Chapter 1: Arrival",,spider-man-the-animated-series,,5,9,,,episode,,,21,,Earth-92131
+828,"Spider-Man: The Animated Series S5E10: Secret Wars, Chapter 2: The Gauntlet of the Red Skull",,spider-man-the-animated-series,,5,10,,,episode,,,22,,Earth-92131
+829,"Spider-Man: The Animated Series S5E11: Secret Wars, Chapter 3: Doom",,spider-man-the-animated-series,,5,11,,,episode,,,21,,Earth-92131
+830,"Spider-Man: The Animated Series S5E12: Spider Wars, Chapter 1: I Really, Really Hate Clones",,spider-man-the-animated-series,,5,12,,,episode,,,22,,Earth-92131
+831,"Spider-Man: The Animated Series S5E13: Spider Wars, Chapter 2: Farewell, Spider-Man",,spider-man-the-animated-series,,5,13,,,episode,,,22,,Earth-92131
+832,X-Men: The Animated Series S5E1: Phalanx Covenant - Part I,,x-men-the-animated-series,,5,1,,,episode,,,21,,Earth-92131
+833,X-Men: The Animated Series S5E2: The Phalanx Covenant - Part II,,x-men-the-animated-series,,5,2,,,episode,,,21,,Earth-92131
+834,Iron Man: The Animated Series S2E10: Empowered,,iron-man-the-animated-series,,2,10,,,episode,,,23,,Earth-534834
+835,Iron Man: The Animated Series S2E11: Hulk Buster,,iron-man-the-animated-series,,2,11,,,episode,,,23,,Earth-534834
+836,"Iron Man: The Animated Series S2E12: Hands of the Mandarin, Part 1",,iron-man-the-animated-series,,2,12,,,episode,,,23,,Earth-534834
+837,"Iron Man: The Animated Series S2E13: Hands of the Mandarin, Part 2",,iron-man-the-animated-series,,2,13,,,episode,,,23,,Earth-534834
+838,X-Men: The Animated Series S5E3: A Deal with the Devil,,x-men-the-animated-series,,5,3,,,episode,,,21,,Earth-92131
+839,X-Men: The Animated Series S5E4: No Mutant Is an Island,,x-men-the-animated-series,,5,4,,,episode,,,21,,Earth-92131
+840,X-Men: The Animated Series S5E5: Longshot,,x-men-the-animated-series,,5,5,,,episode,,,21,,Earth-92131
+841,X-Men: The Animated Series S5E6: Bloodlines,,x-men-the-animated-series,,5,6,,,episode,,,21,,Earth-92131
+842,X-Men: The Animated Series S5E7: Storm Front - Part I,,x-men-the-animated-series,,5,7,,,episode,,,21,,Earth-92131
+843,X-Men: The Animated Series S5E8: Storm Front - Part II,,x-men-the-animated-series,,5,8,,,episode,,,22,,Earth-92131
+844,"Fantastic Four: The Animated Series S2E2: Inhumans Saga, Part 1: And the Wind Cries Medusa",,fantastic-four-the-animated-series,,2,2,,,episode,,,23,,Earth-534834
+845,"Fantastic Four: The Animated Series S2E3: Inhumans Saga, Part 2: The Inhumans Among Us",,fantastic-four-the-animated-series,,2,3,,,episode,,,23,,Earth-534834
+846,"Fantastic Four: The Animated Series S2E4: Inhumans Saga, Part 3: Beware the Hidden Land",,fantastic-four-the-animated-series,,2,4,,,episode,,,23,,Earth-534834
+847,X-Men: The Animated Series S5E9: The Fifth Horseman,,x-men-the-animated-series,,5,9,,,episode,,,21,,Earth-92131
+848,X-Men: The Animated Series S5E10: Jubilee's Fairytale Theater,,x-men-the-animated-series,,5,10,,,episode,,,21,,Earth-92131
+849,The Incredible Hulk S1E3: Raw Power,,the-incredible-hulk-series,,1,3,,,episode,,,22,,Earth-534834
+850,"The Incredible Hulk S1E4: Helping Hand, Iron Fist",,the-incredible-hulk-series,,1,4,,,episode,,,22,,Earth-534834
+851,The Incredible Hulk S1E5: Innocent Blood,,the-incredible-hulk-series,,1,5,,,episode,,,22,,Earth-534834
+852,"The Incredible Hulk S1E6: Man to Man, Beast to Beast",,the-incredible-hulk-series,,1,6,,,episode,,,22,,Earth-534834
+853,Fantastic Four: The Animated Series S2E5: Worlds Within Worlds,,fantastic-four-the-animated-series,,2,5,,,episode,,,23,,Earth-534834
+854,Fantastic Four: The Animated Series S2E9: Nightmare in Green,,fantastic-four-the-animated-series,,2,9,,,episode,,,23,,Earth-534834
+855,The Incredible Hulk S1E7: Doomed,,the-incredible-hulk-series,,1,7,,,episode,,,22,,Earth-534834
+856,X-Men: The Animated Series S5E11: Old Soldiers,,x-men-the-animated-series,,5,11,,,episode,,,22,,Earth-92131
+857,X-Men: The Animated Series S5E12: Hidden Agendas,,x-men-the-animated-series,,5,12,,,episode,,,22,,Earth-92131
+858,X-Men: The Animated Series S5E13: Descent,,x-men-the-animated-series,,5,13,,,episode,,,22,,Earth-92131
+859,X-Men: The Animated Series S5E14: Graduation Day,,x-men-the-animated-series,,5,14,,,episode,,,22,,Earth-92131
+860,"X-Men '97 S1E1: To Me, My X-Men",,x-men-97,,1,1,,,episode,,,33,,Earth-92131
+861,X-Men '97 S1E2: Mutant Liberation Begins,,x-men-97,,1,2,,,episode,,,33,,Earth-92131
+862,X-Men '97 S1E3: Fire Made Flesh,,x-men-97,,1,3,,,episode,,,33,,Earth-92131
+863,X-Men '97 S1E4: Motendo/Lifedeath - Part 1,,x-men-97,,1,4,,,episode,,,30,,Earth-92131
+864,X-Men '97 S1E5: Remember It,,x-men-97,,1,5,,,episode,,,37,,Earth-92131
+865,X-Men '97 S1E6: Lifedeath - Part 2,,x-men-97,,1,6,,,episode,,,34,,Earth-92131
+866,X-Men '97 S1E7: Bright Eyes,,x-men-97,,1,7,,,episode,,,35,,Earth-92131
+867,X-Men '97 S1E8: Tolerance Is Extinction - Part 1,,x-men-97,,1,8,,,episode,,,34,,Earth-92131
+868,X-Men '97 S1E9: Tolerance Is Extinction - Part 2,,x-men-97,,1,9,,,episode,,,32,,Earth-92131
+869,X-Men '97 S1E10: Tolerance Is Extinction - Part 3,,x-men-97,,1,10,,,episode,,,43,,Earth-92131
+870,X-Men '97 S2E1: Days of Past Future,,x-men-97,,2,1,,,episode,,,33,,Earth-92131
+871,X-Men '97 S2E2: A Force to Be Reckoned With,,x-men-97,,2,2,,,episode,,,29,,Earth-92131
+872,X-Men '97 S2E3: Rise of Apocalypse – Part I,,x-men-97,,2,3,,,episode,,,29,,Earth-92131
+873,X-Men '97 S2E4: Rise of Apocalypse – Part II,,x-men-97,,2,4,,,episode,,,35,,Earth-92131
+874,"X-Men '97 S2E5: Weapon X, Lies, and DVDs",,x-men-97,,2,5,,,episode,,,31,,Earth-92131
+875,X-Men '97 S2E6: Danger.exe,,x-men-97,,2,6,,,episode,,,34,,Earth-92131
+876,"X-Men '97 S2E7: Strange Land, Savage Heart",,x-men-97,,2,7,,,episode,,,30,,Earth-92131
+877,X-Men '97 S2E8: The Dead Man's Hand,,x-men-97,,2,8,,,episode,,,34,,Earth-92131
+878,X-Men '97 S2E9: Survival of the Fittest,,x-men-97,,2,9,,,episode,,,32,,Earth-92131
+879,Your Friendly Neighborhood Spider-Man S1E1: Amazing Fantasy,,your-friendly-neighborhood-spider-man,,1,1,,,episode,,,31,,Earth-86445
+880,Your Friendly Neighborhood Spider-Man S1E2: The Parker Luck,,your-friendly-neighborhood-spider-man,,1,2,,,episode,,,29,,Earth-86445
+881,Your Friendly Neighborhood Spider-Man S1E3: Secret Identity Crisis,,your-friendly-neighborhood-spider-man,,1,3,,,episode,,,32,,Earth-86445
+882,Your Friendly Neighborhood Spider-Man S1E4: Hitting the Big Time,,your-friendly-neighborhood-spider-man,,1,4,,,episode,,,33,,Earth-86445
+883,Your Friendly Neighborhood Spider-Man S1E5: The Unicorn Unleashed!,,your-friendly-neighborhood-spider-man,,1,5,,,episode,,,31,,Earth-86445
+884,Your Friendly Neighborhood Spider-Man S1E6: Duel With the Devil,,your-friendly-neighborhood-spider-man,,1,6,,,episode,,,32,,Earth-86445
+885,Your Friendly Neighborhood Spider-Man S1E7: Scorpion Rising,,your-friendly-neighborhood-spider-man,,1,7,,,episode,,,32,,Earth-86445
+886,Your Friendly Neighborhood Spider-Man S1E8: Tangled Web,,your-friendly-neighborhood-spider-man,,1,8,,,episode,,,33,,Earth-86445
+887,Your Friendly Neighborhood Spider-Man S1E9: Hero or Menace,,your-friendly-neighborhood-spider-man,,1,9,,,episode,,,31,,Earth-86445
+888,Your Friendly Neighborhood Spider-Man S1E10: If This Be My Destiny...,,your-friendly-neighborhood-spider-man,,1,10,,,episode,,,33,,Earth-86445
 379,X-Men: First Class,,x-men-first-class,,,,,,full,,,132,,Earth-TRN414
 380,X-Men Origins: Wolverine,,x-men-origins-wolverine,,,,,,full,,,119,,Earth-10005
+889,Blade,,blade,,,,,,full,,,120,,Earth-26320
 381,X-Men,,x-men,,,,,,full,,,104,,Earth-10005
+890,Blade II,,blade-ii,,,,,,full,,,117,,Earth-26320
 382,Daredevil,,daredevil-2003,,,,,,full,,,133,,Earth-701306
 383,X2,,x2,,,,,,full,,,133,,Earth-10005
 384,Madame Web,,madame-web,,,,,,full,,,114,,Earth-688
+891,Blade: Trinity,,blade-trinity,,,,,,full,,,122,,Earth-26320
 385,Fantastic Four,,fantastic-four,,,,,,full,,,125,,Earth-121698
 386,Elektra,,elektra,,,,,,full,,,97,,Earth-701306
 387,X-Men: The Last Stand,,x-men-the-last-stand,,,,,,full,,,104,,Earth-10005
 388,Fantastic Four: Rise of the Silver Surfer,,fantastic-four-rise-of-the-silver-surfer,,,,,,full,,,92,,Earth-121698
 389,The Wolverine,,the-wolverine,,,,,,full,,,126,,Earth-10005
+892,The Gifted S1E1: eXposed,,the-gifted,,1,1,,,episode,,,46,,Earth-17372
+893,The Gifted S1E2: rX,,the-gifted,,1,2,,,episode,,,45,,Earth-17372
+894,The Gifted S1E3: eXodus,,the-gifted,,1,3,,,episode,,,44,,Earth-17372
+895,The Gifted S1E4: eXit strategy,,the-gifted,,1,4,,,episode,,,43,,Earth-17372
+896,The Gifted S1E5: boXed in,,the-gifted,,1,5,,,episode,,,43,,Earth-17372
+897,The Gifted S1E6: got your siX,,the-gifted,,1,6,,,episode,,,44,,Earth-17372
+898,The Gifted S1E7: eXtreme measures,,the-gifted,,1,7,,,episode,,,44,,Earth-17372
+899,The Gifted S1E8: threat of eXtinction,,the-gifted,,1,8,,,episode,,,44,,Earth-17372
+900,The Gifted S1E9: outfoX,,the-gifted,,1,9,,,episode,,,44,,Earth-17372
+901,The Gifted S1E10: eXploited,,the-gifted,,1,10,,,episode,,,44,,Earth-17372
+902,The Gifted S1E11: 3 X 1,,the-gifted,,1,11,,,episode,,,44,,Earth-17372
+903,The Gifted S1E12: eXtraction,,the-gifted,,1,12,,,episode,,,44,,Earth-17372
+904,The Gifted S1E13: X-roads,,the-gifted,,1,13,,,episode,,,44,,Earth-17372
+905,The Gifted S2E1: eMergence,,the-gifted,,2,1,,,episode,,,44,,Earth-17372
+906,The Gifted S2E2: unMoored,,the-gifted,,2,2,,,episode,,,44,,Earth-17372
+907,The Gifted S2E3: coMplications,,the-gifted,,2,3,,,episode,,,44,,Earth-17372
+908,The Gifted S2E4: outMatched,,the-gifted,,2,4,,,episode,,,44,,Earth-17372
+909,The Gifted S2E5: afterMath,,the-gifted,,2,5,,,episode,,,43,,Earth-17372
+910,The Gifted S2E6: iMprint,,the-gifted,,2,6,,,episode,,,44,,Earth-17372
+911,The Gifted S2E7: no Mercy,,the-gifted,,2,7,,,episode,,,44,,Earth-17372
+912,The Gifted S2E8: the dreaM,,the-gifted,,2,8,,,episode,,,44,,Earth-17372
+913,The Gifted S2E9: gaMe changer,,the-gifted,,2,9,,,episode,,,44,,Earth-17372
+914,The Gifted S2E10: eneMy of My eneMy,,the-gifted,,2,10,,,episode,,,44,,Earth-17372
+915,The Gifted S2E11: meMento,,the-gifted,,2,11,,,episode,,,44,,Earth-17372
+916,The Gifted S2E12: hoMe,,the-gifted,,2,12,,,episode,,,44,,Earth-17372
+917,The Gifted S2E13: teMpted,,the-gifted,,2,13,,,episode,,,44,,Earth-17372
+918,The Gifted S2E14: calaMity,,the-gifted,,2,14,,,episode,,,44,,Earth-17372
+919,The Gifted S2E15: Monsters,,the-gifted,,2,15,,,episode,,,44,,Earth-17372
+920,The Gifted S2E16: oMens,,the-gifted,,2,16,,,episode,,,44,,Earth-17372
 390,X-Men: Days of Future Past,,x-men-days-of-future-past,,,,,,full,,,132,,Earth-TRN414
 391,X-Men: Apocalypse,,x-men-apocalypse,,,,,,full,,,144,,Earth-TRN414
 392,Dark Phoenix,,dark-phoenix,,,,,,full,,,114,,Earth-TRN414
 393,Deadpool,,deadpool,,,,,,full,,,108,,Earth-TRN414
 394,Logan,,logan,,,,,,full,,,137,,Earth-TRN414
 395,Deadpool 2,,deadpool-2,,,,,,full,,,119,,Earth-TRN414
-396,Deadpool 2 (Super Duper Cut),,deadpool-2,,,,,super-duper-cut,bonus,Super Duper Cut,,14,,Earth-TRN414
 397,What If...? An Immersive Story,,what-if-an-immersive-story,,,,,,full,,,60,,what-if-an-immersive-story
 398,Marvel Zombies S1E1: Episode 1,,marvel-zombies,,1,1,,,episode,,,38,,Earth-89521
 399,Marvel Zombies S1E2: Episode 2,,marvel-zombies,,1,2,,,episode,,,34,,Earth-89521
@@ -425,15 +785,14 @@
 424,Venom,,venom,,,,,,full,,,140,,Earth-688
 425,Venom: Let There Be Carnage,,venom-let-there-be-carnage,,,,,,full,,,90,,Earth-688
 426,Spider-Man: Far From Home,,spider-man-far-from-home,,,,,,full,,,129,,Earth-616
-427,Spider-Man: Far From Home | Re-Release,,spider-man-far-from-home,,,,,re-release,bonus,Re-Release,,4,,Earth-616
 428,Spider-Man: No Way Home,,spider-man-no-way-home,,,,,,full,,,148,,Earth-616
-429,Spider-Man: No Way Home | Re-Release,,spider-man-no-way-home,,,,,re-release,bonus,Re-Release,,11,,Earth-616
 430,Venom: The Last Dance,,venom-the-last-dance,,,,,,full,,,110,,Earth-688
 431,Morbius,,morbius,,,,,,full,,,104,,Earth-688
 432,Kraven The Hunter,,kraven-the-hunter,,,,,,full,,,127,,Earth-688
 433,Spider-Man: Across The Spider-Verse,,spider-man-across-the-spider-verse,,,,,,full,,,140,,Earth-1610
 434,Eternals,,eternals,,,,,,full,,,157,,Earth-616
 435,Doctor Strange In The Multiverse Of Madness,,doctor-strange-in-the-multiverse-of-madness,,,,,,full,,,126,,Earth-616
+921,Black Widow (Post-Credit Scene),,black-widow,,,,,,post_credits,Escena post-créditos,,3,,Earth-616
 436,Hawkeye S1E1: Never Meet Your Heroes,,hawkeye,,1,1,,,episode,,,50,,Earth-616
 437,Hawkeye S1E2: Hide and Seek,,hawkeye,,1,2,,,episode,,,52,,Earth-616
 438,Hawkeye S1E3: Echoes,,hawkeye,,1,3,,,episode,,,44,,Earth-616
@@ -529,7 +888,7 @@
 528,Daredevil: Born Again S1E8: Isle of Joy,,daredevil-born-again,,1,8,,,episode,,,52,,Earth-616
 529,Daredevil: Born Again S1E9: Straight to Hell,,daredevil-born-again,,1,9,,,episode,,,60,,Earth-616
 530,Captain America: Brave New World,,captain-america-brave-new-world,,,,,,full,,,118,,Earth-616
-531,Thunderbolts*,,thunderbolts,,,,,,full,,,126,,Earth-616
+531,Thunderbolts*,,thunderbolts,,,,,,main,,,126,,Earth-616
 532,The Fantastic Four: First Steps,,the-fantastic-four-first-steps,,,,,,full,,,115,,Earth-828
 533,Daredevil: Born Again S2E1: The Northern Star,,daredevil-born-again,,2,1,,,episode,,,54,,Earth-616
 534,Daredevil: Born Again S2E2: Shoot The Moon,,daredevil-born-again,,2,2,,,episode,,,49,,Earth-616
@@ -554,4 +913,8 @@
 553,VisionQuest S1E4: Malware,,visionquest,,1,4,,,episode,,,51,,Earth-616
 554,VisionQuest S1E5: Firewall,,visionquest,,1,5,,,episode,,,48,,Earth-616
 555,VisionQuest S1E6: Deadlock,,visionquest,,1,6,,,episode,,,57,,Earth-616
+922,VisionQuest S1E7: Immolation,,visionquest,,1,7,,,episode,,,65,,Earth-616
+923,VisionQuest S1E8: Forever,,visionquest,,1,8,,,episode,,,60,,Earth-616
 556,Spider-Man: Brand New Day,,spider-man-brand-new-day,,,,,,full,,,145,,Earth-616
+363,Avengers: Endgame Encore,,avengers-endgame,,,,,encore,post_credits,Encore,,4,,Earth-616
+557,Thunderbolts* (Post-Credits Scene),,thunderbolts,,,,,,post_credits,Escena post-créditos,,4,,Earth-616
