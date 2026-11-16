@@ -1,0 +1,125 @@
+﻿id,kind,title,slug,release_date,poster_url,synopsis,is_canon
+1,movie,X-Men,x-men,2000-07-14,,,true
+2,movie,Spider-Man,spider-man,2002-05-03,,,true
+3,movie,Daredevil,daredevil-2003,2003-02-14,,,true
+4,movie,X2,x2,2003-05-02,,,true
+5,movie,Spider-Man 2,spider-man-2,2004-06-30,,,true
+6,movie,Elektra,elektra,2005-01-14,,,true
+7,movie,Fantastic Four,fantastic-four,2005-07-08,,,true
+8,movie,X-Men: The Last Stand,x-men-the-last-stand,2006-05-26,,,true
+9,movie,Spider-Man 3,spider-man-3,2007-05-04,,,true
+10,movie,Fantastic Four: Rise of the Silver Surfer,fantastic-four-rise-of-the-silver-surfer,2007-06-15,,,true
+11,movie,Iron Man,iron-man,2008-04-29,,,true
+12,movie,The Incredible Hulk,the-incredible-hulk,2008-06-13,,,true
+13,movie,X-Men Origins: Wolverine,x-men-origins-wolverine,2009-05-01,,,true
+14,movie,Iron Man 2,iron-man-2,2010-05-07,,,true
+15,movie,Thor,thor,2011-05-06,,,true
+16,movie,X-Men: First Class,x-men-first-class,2011-05-25,,,true
+17,movie,Captain America: The First Avenger,captain-america-the-first-avenger,2011-07-22,,,true
+18,movie,Avengers,avengers,2012-05-04,,,true
+19,movie,The Amazing Spider-Man,the-amazing-spider-man,2012-07-03,,,true
+20,movie,Iron Man 3,iron-man-3,2013-05-03,,,true
+21,movie,The Wolverine,the-wolverine,2013-07-26,,,true
+22,series,Agents of S.H.I.E.L.D.,agents-of-s-h-i-e-l-d,2013-09-24,,,true
+23,movie,Thor: The Dark World,thor-the-dark-world,2013-11-08,,,true
+24,movie,Captain America: The Winter Soldier,captain-america-the-winter-soldier,2014-04-04,,,true
+25,movie,The Amazing Spider-Man 2,the-amazing-spider-man-2,2014-05-02,,,true
+26,movie,X-Men: Days of Future Past,x-men-days-of-future-past,2014-05-23,,,true
+27,movie,Guardians Of The Galaxy,guardians-of-the-galaxy,2014-08-01,,,true
+28,series,Agent Carter,agent-carter-series,2015-01-06,,,true
+29,series,Daredevil,daredevil,2015-04-10,,,true
+30,movie,Avengers: Age Of Ultron,avengers-age-of-ultron,2015-05-01,,,true
+31,movie,Ant-Man,ant-man,2015-07-17,,,true
+32,series,Jessica Jones,jessica-jones,2015-11-20,,,true
+33,movie,Deadpool,deadpool,2016-02-12,,,true
+34,movie,Captain America: Civil War,captain-america-civil-war,2016-05-06,,,true
+35,movie,X-Men: Apocalypse,x-men-apocalypse,2016-05-27,,,true
+36,series,Luke Cage,luke-cage,2016-09-30,,,true
+37,movie,Doctor Strange,doctor-strange,2016-11-04,,,true
+38,movie,Logan,logan,2017-03-03,,,true
+39,series,Iron Fist,iron-fist,2017-03-17,,,true
+40,movie,Guardians Of The Galaxy Vol. 2,guardians-of-the-galaxy-vol-2,2017-05-05,,,true
+41,movie,Spider-Man: Homecoming,spider-man-homecoming,2017-07-07,,,true
+42,series,The Defenders,the-defenders,2017-08-18,,,true
+43,series,Inhumans,inhumans,2017-09-29,,,true
+44,special,Midtown School of Science and Technology News,midtown-school-of-science-and-technology-news,2017-10-17,,,true
+45,movie,Thor: Ragnarok,thor-ragnarok,2017-11-03,,,true
+46,series,The Punisher,the-punisher,2017-11-17,,,true
+47,movie,Black Panther,black-panther,2018-02-16,,,true
+48,movie,Avengers: Infinity War,avengers-infinity-war,2018-04-27,,,true
+49,movie,Deadpool 2,deadpool-2,2018-05-01,,,true
+50,movie,Ant-Man and the Wasp,ant-man-and-the-wasp,2018-07-06,,,true
+51,movie,Venom,venom,2018-10-05,,,true
+52,movie,Spider-Man: Into the Spider-Verse,spider-man-into-the-spider-verse,2018-12-14,,,true
+53,movie,Captain Marvel,captain-marvel,2019-03-08,,,true
+54,movie,Avengers: Endgame,avengers-endgame,2019-04-26,,,true
+55,movie,Dark Phoenix,dark-phoenix,2019-06-13,,,true
+56,movie,Spider-Man: Far From Home,spider-man-far-from-home,2019-07-02,,,true
+57,movie,The New Mutants,the-new-mutants,2020-08-28,,,true
+58,series,WandaVision,wandavision,2021-01-15,,,true
+59,series,The Falcon And The Winter Soldier,the-falcon-and-the-winter-soldier,2021-03-19,,,true
+60,series,Loki,loki,2021-06-09,,,true
+61,movie,Black Widow,black-widow,2021-07-09,,,true
+62,series,What If...?,what-if,2021-08-11,,,true
+63,movie,Shang-Chi And The Legend Of The Ten Rings,shang-chi-and-the-legend-of-the-ten-rings,2021-09-03,,,true
+64,movie,Venom: Let There Be Carnage,venom-let-there-be-carnage,2021-10-01,,,true
+65,movie,Eternals,eternals,2021-11-05,,,true
+66,series,Hawkeye,hawkeye,2021-11-24,,,true
+67,movie,Spider-Man: No Way Home,spider-man-no-way-home,2021-12-17,,,true
+68,series,Moon Knight,moon-knight,2022-03-30,,,true
+69,movie,Morbius,morbius,2022-04-01,,,true
+70,movie,Doctor Strange In The Multiverse Of Madness,doctor-strange-in-the-multiverse-of-madness,2022-05-06,,,true
+71,series,Ms. Marvel,ms-marvel,2022-06-08,,,true
+72,movie,Thor: Love And Thunder,thor-love-and-thunder,2022-07-08,,,true
+73,series,I Am Groot,i-am-groot,2022-08-10,,,true
+74,series,She-Hulk: Attorney at Law,she-hulk-attorney-at-law,2022-08-18,,,true
+75,special,Werewolf By Night,werewolf-by-night,2022-10-07,,,true
+76,movie,Black Panther: Wakanda Forever,black-panther-wakanda-forever,2022-11-11,,,true
+77,special,The Guardians of the Galaxy Holiday Special,the-guardians-of-the-galaxy-holiday-special,2022-11-25,,,true
+78,movie,Ant-Man and the Wasp: Quantumania,ant-man-and-the-wasp-quantumania,2023-02-17,,,true
+79,movie,Guardians of the Galaxy Vol. 3,guardians-of-the-galaxy-vol-3,2023-05-05,,,true
+80,movie,Spider-Man: Across The Spider-Verse,spider-man-across-the-spider-verse,2023-06-02,,,true
+81,series,Secret Invasion,secret-invasion,2023-06-21,,,true
+82,movie,The Marvels,the-marvels,2023-11-10,,,true
+83,series,Echo,echo,2024-01-09,,,true
+84,movie,Madame Web,madame-web,2024-02-14,,,true
+85,special,What If...? An Immersive Story,what-if-an-immersive-story,2024-05-30,,,true
+86,movie,Deadpool & Wolverine,deadpool-and-wolverine,2024-07-26,,,true
+87,series,Agatha All Along,agatha-all-along,2024-09-18,,,true
+88,movie,Venom: The Last Dance,venom-the-last-dance,2024-10-25,,,true
+89,movie,Kraven The Hunter,kraven-the-hunter,2024-12-13,,,true
+90,movie,Captain America: Brave New World,captain-america-brave-new-world,2025-02-14,,,true
+91,series,Daredevil: Born Again,daredevil-born-again,2025-03-04,,,true
+92,movie,Thunderbolts*,thunderbolts,2025-05-02,,,true
+93,series,Ironheart,ironheart,2025-06-24,,,true
+94,movie,The Fantastic Four: First Steps,the-fantastic-four-first-steps,2025-07-25,,,true
+95,series,Eyes of Wakanda,eyes-of-wakanda,2025-08-27,,,true
+96,series,Marvel Zombies,marvel-zombies,2025-09-24,,,true
+97,series,Wonder Man,wonder-man,2026-01-27,,,true
+98,special,The Punisher: One Last Kill,the-punisher-one-last-kill,2026-05-12,,,true
+99,movie,Spider-Man: Brand New Day,spider-man-brand-new-day,2026-07-31,,,true
+100,series,VisionQuest,visionquest,2026-10-13,,,true
+101,short,Agent Carter,agent-carter-one-shot,2013-09-03,,,true
+102,short,A Funny Thing Happened On The Way To Thor’s Hammer,a-funny-thing-happened-on-the-way-to-thors-hammer,2011-10-25,,,true
+103,short,The Consultant,the-consultant,2011-09-13,,,true
+104,short,Item 47,item-47,2012-09-25,,,true
+105,short,All Hail The King,all-hail-the-king,2014-02-04,,,true
+106,short,Team Thor: Part 1,team-thor-part-1,2016-08-28,,,true
+107,short,Team Thor: Part 2,team-thor-part-2,2017-02-14,,,true
+108,series,Cloak and Dagger,cloak-and-dagger,2018-06-07,,,true
+109,series,Agents of S.H.I.E.L.D.: Slingshot,agents-of-s-h-i-e-l-d-slingshot,2016-12-13,,,true
+110,series,Runaways,runaways,2017-11-21,,,true
+111,short,Team Darryl,team-darryl,2018-02-20,,,true
+112,series,Helstrom,helstrom,2020-10-16,,,true
+113,series,Spider-Noir,spider-noir,2026-05-25,,,false
+114,series,X-Men: The Animated Series,x-men-the-animated-series,1992-10-31,,,false
+115,series,Iron Man: The Animated Series,iron-man-the-animated-series,1994-09-24,,,false
+116,series,Fantastic Four: The Animated Series,fantastic-four-the-animated-series,1994-09-24,,,false
+117,series,Spider-Man: The Animated Series,spider-man-the-animated-series,1994-11-19,,,false
+118,series,The Incredible Hulk,the-incredible-hulk-series,1996-09-08,,,false
+119,series,X-Men '97,x-men-97,2024-03-20,,,true
+120,series,Your Friendly Neighborhood Spider-Man,your-friendly-neighborhood-spider-man,2025-01-29,,,true
+121,movie,Blade,blade,1998-08-19,,,true
+122,movie,Blade II,blade-ii,2002-03-21,,,true
+123,movie,Blade: Trinity,blade-trinity,2004-12-08,,,true
+124,series,The Gifted,the-gifted,2017-10-02,,,false

@@ -1,5 +1,7 @@
 # By Devlights
+
 ## Bootcamp 5.0
+
 ### MÓDULO NODE.JS TRABAJO PRÁCTICO
 
 # Trabajo práctico integrador: Tu propia API REST
@@ -11,6 +13,7 @@
 ## Resumen
 
 ### Consigna del trabajo práctico
+
 **Modalidad individual**
 
 Vas a construir, de forma individual, una API REST completa sobre una temática a elección, aplicando todo lo visto en las clases 5 a 11. Tenés 2 semanas para entregarla, con un punto de control a mitad de camino.
@@ -55,17 +58,17 @@ Para aprobar, la API debe cumplir los 10 puntos:
 
 Suman puntos sobre la nota base (ver rúbrica). Podés elegir cuáles hacer:
 
-* **Filtros con `req.query`:** por ejemplo, `GET /api/books?genre=terror`.
-* **Roles:** que solo un usuario admin pueda eliminar.
-* **Relación entre modelos:** por ejemplo, cada tarea pertenece al usuario que la creó y cada uno ve solo las suyas.
-* **Middleware de logging:** que muestre en la consola el método y la URL de cada petición.
+- **Filtros con `req.query`:** por ejemplo, `GET /api/books?genre=terror`.
+- **Roles:** que solo un usuario admin pueda eliminar.
+- **Relación entre modelos:** por ejemplo, cada tarea pertenece al usuario que la creó y cada uno ve solo las suyas.
+- **Middleware de logging:** que muestre en la consola el método y la URL de cada petición.
 
 ---
 
 ## Qué tenés que entregar
 
-* **Repositorio de GitHub** con el código y un README que explique cómo instalar y ejecutar el proyecto, y que liste todos los endpoints.
-* **Pruebas en Thunder Client:** la colección exportada o capturas de cada endpoint funcionando, incluidos los casos de error (400, 401, 404).
+- **Repositorio de GitHub** con el código y un README que explique cómo instalar y ejecutar el proyecto, y que liste todos los endpoints.
+- **Pruebas en Thunder Client:** la colección exportada o capturas de cada endpoint funcionando, incluidos los casos de error (400, 401, 404).
 
 ---
 

@@ -1,0 +1,9 @@
+﻿id,category_id,_tag_categories_name,slug,name,description
+1,,Fases,fase-1,Fase 1,Fase 1 del UCM
+2,,Fases,fase-2,Fase 2,Fase 2 del UCM
+3,,Fases,fase-3,Fase 3,Fase 3 del UCM
+4,,Fases,fase-4,Fase 4,Fase 4 del UCM
+5,,Fases,fase-5,Fase 5,Fase 5 del UCM
+6,,Fases,fase-6,Fase 6,Fase 6 del UCM
+7,,Sagas,saga-del-infinito,Saga del Infinito,Fases 1 a 3
+8,,Sagas,saga-del-multiverso,Saga del Multiverso,Fases 4 a 6
