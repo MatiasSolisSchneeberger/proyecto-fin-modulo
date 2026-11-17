@@ -27,6 +27,20 @@ Desarrollar una **API REST de la cronología de Marvel** para que los usuarios p
 
 ---
 
+## 🔒 Reglas de Git y GitHub (OBLIGATORIAS)
+1. **Prohibido tocar Git/GitHub** (commits, ramas, push, pull, merge, rebase, reset, PRs, borrado de ramas, etc.) **a menos que el usuario lo ordene explícitamente** en el chat.
+2. **Solo comandos de lectura** permitidos por defecto (`git status`, `git log`, `git diff`, `git branch`, `git show`, etc.). Ningún comando que modifique el repo, el historial o el remoto.
+3. **Si el usuario dice algo ambiguo, preguntar** ante cualquier duda antes de actuar. Nunca asumir permiso.
+4. **Commits:** si corresponde hacer uno, **no ejecutarlo**. Explicarlo en el chat indicando:
+   - Nombre (título) del commit.
+   - Cuerpo del commit, si hace falta.
+   - Archivos que incluiría.
+   El usuario lo ejecuta por su cuenta.
+5. **Ramas:** lo mismo. Proponer en el chat el nombre de la rama y para qué sirve; no crearla ni cambiarla.
+6. **Sin atribución automática:** no agregar líneas `Co-Authored-By` ni similares a los mensajes de commit propuestos.
+
+---
+
 ## 📚 Documentación de Consulta
 
 - Consultar los documentos teóricos del curso si están disponibles en el workspace (ignoradas por git `.docs/`).
