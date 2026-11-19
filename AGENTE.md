@@ -41,6 +41,16 @@ Desarrollar una **API REST de la cronología de Marvel** para que los usuarios p
 
 ---
 
+## 🏷️ Convenciones de Código
+
+1. **Booleanos con prefijo** que se lea como pregunta de sí/no: `is`, `has`, `can`, `should`.
+    - Ejemplos: `isDescending`, `isCanon`, `hasMore`, `includeNonCanon` (en query params se mantiene el verbo `include...`, que ya es un flag explícito).
+    - Evitar nombres ambiguos como `desc`, `flag` o `check`, que además pueden pisar funciones importadas (por ejemplo `desc` de `drizzle-orm`).
+2. **Guion bajo adelante (`_req`, `_next`)** solo para parámetros obligatorios por posición que no se usan. En el `errorHandler` se mantiene `_next` porque Express reconoce un handler de errores por sus 4 parámetros.
+3. **No usar guion bajo al final** (`desc_`) para esquivar un choque de nombres: renombrar la variable con un nombre más descriptivo.
+
+---
+
 ## 📚 Documentación de Consulta
 
 - Consultar los documentos teóricos del curso si están disponibles en el workspace (ignoradas por git `.docs/`).
