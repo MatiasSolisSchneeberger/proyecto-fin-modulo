@@ -1,0 +1,8 @@
+$kind: http-request
+name: /universes?q=earth
+description: ""
+url: "{{baseUrl}}/universes?q=earth"
+method: GET
+queryParams:
+  q: earth
+order: 2000

@@ -1,0 +1,15 @@
+$kind: http-request
+name: "/titles?releasedFrom&releasedTo"
+description: ""
+url: "{{baseUrl}}/titles?releasedFrom=2008-01-01&releasedTo=2012-12-31"
+method: GET
+queryParams:
+  - key: "releasedFrom"
+    value: "2008-01-01"
+  - key: "releasedTo"
+    value: "2012-12-31"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 200\", function () {\n  pm.response.to.have.status(200);\n});"
+order: 4000

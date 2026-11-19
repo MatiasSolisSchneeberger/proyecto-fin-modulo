@@ -10,7 +10,7 @@ node_modules
 .gemini/
 .claude/
 skills-lock.json
-
+.postman/
 # env
 .env
 node_modules/

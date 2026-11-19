@@ -1,0 +1,15 @@
+$kind: http-request
+name: /titles?sort=password (400)
+description: ""
+url: "{{baseUrl}}/titles?sort=password"
+method: GET
+queryParams:
+  sort: password
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test("Status 400", function () {
+        pm.response.to.have.status(400);
+      });
+    language: text/javascript
+order: 10000
