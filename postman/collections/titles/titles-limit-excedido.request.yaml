@@ -1,0 +1,13 @@
+$kind: http-request
+name: "/titles?limit=500 (400)"
+description: ""
+url: "{{baseUrl}}/titles?limit=500"
+method: GET
+queryParams:
+  - key: "limit"
+    value: "500"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 400\", function () {\n  pm.response.to.have.status(400);\n});"
+order: 8000

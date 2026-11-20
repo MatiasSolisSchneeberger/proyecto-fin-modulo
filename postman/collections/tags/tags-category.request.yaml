@@ -1,0 +1,13 @@
+$kind: http-request
+name: "/tags?categoryId=1"
+description: ""
+url: "{{baseUrl}}/tags?categoryId=1"
+method: GET
+queryParams:
+  - key: "categoryId"
+    value: "1"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 200\", function () {\n  pm.response.to.have.status(200);\n});"
+order: 3000

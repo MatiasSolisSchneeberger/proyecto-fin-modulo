@@ -1,0 +1,13 @@
+$kind: http-request
+name: "/titles?q=iron"
+description: ""
+url: "{{baseUrl}}/titles?q=iron"
+method: GET
+queryParams:
+  - key: "q"
+    value: "iron"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 200\", function () {\n  pm.response.to.have.status(200);\n});"
+order: 2000

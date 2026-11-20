@@ -1,0 +1,13 @@
+$kind: http-request
+name: "/platforms?q= (400)"
+description: ""
+url: "{{baseUrl}}/platforms?q=%20"
+method: GET
+queryParams:
+  - key: "q"
+    value: "%20"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 400\", function () {\n  pm.response.to.have.status(400);\n});"
+order: 7000

@@ -1,0 +1,13 @@
+$kind: http-request
+name: "/titles?includeNonCanon=true"
+description: ""
+url: "{{baseUrl}}/titles?includeNonCanon=true"
+method: GET
+queryParams:
+  - key: "includeNonCanon"
+    value: "true"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 200\", function () {\n  pm.response.to.have.status(200);\n});"
+order: 5000
