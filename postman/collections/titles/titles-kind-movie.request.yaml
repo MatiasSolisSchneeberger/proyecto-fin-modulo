@@ -1,13 +1,15 @@
 $kind: http-request
-name: "/titles?kind=movie"
+name: /titles?kind=movie
 description: ""
 url: "{{baseUrl}}/titles?kind=movie"
 method: GET
 queryParams:
-  - key: "kind"
-    value: "movie"
+  kind: movie
 scripts:
   - type: afterResponse
+    code: |-
+      pm.test("Status 200", function () {
+        pm.response.to.have.status(200);
+      });
     language: text/javascript
-    code: "pm.test(\"Status 200\", function () {\n  pm.response.to.have.status(200);\n});"
 order: 3000
