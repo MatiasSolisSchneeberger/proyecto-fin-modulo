@@ -39,5 +39,31 @@ export const titleParams = z.object({
 	id: z.coerce.number().int().positive(),
 });
 
+export const createTitleBody = z.object({
+	kind: z.enum(titleKind.enumValues),
+	title: z.string().trim().min(1).max(255),
+	// si no viene, el service lo genera a partir del título
+	slug: z
+		.string()
+		.regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/, "Solo minúsculas, números y guiones")
+		.max(255)
+		.optional(),
+	releaseDate: dateString,
+	posterUrl: z.url().optional(),
+	synopsis: z.string().trim().min(1).optional(),
+	isCanon: z.boolean().default(true),
+});
+
+// PUT: solo se actualizan los campos que lleguen, pero al menos uno
+export const updateTitleBody = createTitleBody
+	.omit({ isCanon: true })
+	.extend({ isCanon: z.boolean().optional() })
+	.partial()
+	.refine((body) => Object.keys(body).length > 0, {
+		message: "Enviá al menos un campo para actualizar",
+	});
+
 export type ListTitlesQuery = z.infer<typeof listTitlesQuery>;
 export type TitleParams = z.infer<typeof titleParams>;
+export type CreateTitleBody = z.infer<typeof createTitleBody>;
+export type UpdateTitleBody = z.infer<typeof updateTitleBody>;
