@@ -1,0 +1,16 @@
+$kind: http-request
+name: "POST /titles sin token (401)"
+description: ""
+url: "{{baseUrl}}/titles"
+method: POST
+headers:
+  - key: "Content-Type"
+    value: "application/json"
+body:
+  type: json
+  content: "{\n  \"kind\": \"movie\",\n  \"title\": \"Postman Test Title\",\n  \"slug\": \"postman-test-title\",\n  \"releaseDate\": \"2030-01-01\",\n  \"synopsis\": \"Creado desde Postman\",\n  \"isCanon\": false\n}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 401\", function () {\n  pm.response.to.have.status(401);\n});"
+order: 19000

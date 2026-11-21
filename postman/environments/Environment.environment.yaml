@@ -10,4 +10,14 @@ values:
     value: ''
   - key: token
     value: ''
+  - key: adminName
+    value: ''
+  - key: adminEmail
+    value: ''
+  - key: adminPassword
+    value: ''
+  - key: adminToken
+    value: ''
+  - key: createdTitleId
+    value: ''
 color: 240

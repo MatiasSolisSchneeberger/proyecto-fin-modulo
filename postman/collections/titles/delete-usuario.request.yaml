@@ -1,0 +1,13 @@
+$kind: http-request
+name: "DELETE /titles/:id usuario no admin (403)"
+description: ""
+url: "{{baseUrl}}/titles/{{createdTitleId}}"
+method: DELETE
+headers:
+  - key: "Authorization"
+    value: "Bearer {{token}}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 403\", function () {\n  pm.response.to.have.status(403);\n});"
+order: 27000

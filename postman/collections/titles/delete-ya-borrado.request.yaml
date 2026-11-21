@@ -1,0 +1,13 @@
+$kind: http-request
+name: "DELETE /titles/:id ya borrado (404)"
+description: ""
+url: "{{baseUrl}}/titles/{{createdTitleId}}"
+method: DELETE
+headers:
+  - key: "Authorization"
+    value: "Bearer {{adminToken}}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 404\", function () {\n  pm.response.to.have.status(404);\n});"
+order: 29000

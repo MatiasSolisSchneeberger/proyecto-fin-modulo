@@ -1,0 +1,13 @@
+$kind: http-request
+name: "DELETE /titles/:id (204, admin)"
+description: ""
+url: "{{baseUrl}}/titles/{{createdTitleId}}"
+method: DELETE
+headers:
+  - key: "Authorization"
+    value: "Bearer {{adminToken}}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 204\", function () {\n  pm.response.to.have.status(204);\n});"
+order: 28000
