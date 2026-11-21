@@ -1,0 +1,18 @@
+$kind: http-request
+name: "POST /titles header sin Bearer (401)"
+description: "El header Authorization existe pero sin el prefijo 'Bearer ': MISSING_TOKEN"
+url: "{{baseUrl}}/titles"
+method: POST
+headers:
+  - key: "Content-Type"
+    value: "application/json"
+  - key: "Authorization"
+    value: "token.invalido"
+body:
+  type: json
+  content: "{\n  \"kind\": \"movie\",\n  \"title\": \"Postman Test Title\",\n  \"releaseDate\": \"2030-01-01\"\n}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 401\", function () {\n  pm.response.to.have.status(401);\n});\n\npm.test(\"Codigo MISSING_TOKEN\", function () {\n  pm.expect(pm.response.json().error.code).to.eql(\"MISSING_TOKEN\");\n});"
+order: 3000
