@@ -1,5 +1,13 @@
 name: Environment
 values:
-    - key: baseUrl
-      value: "http://localhost:3000/api/v1"
+  - key: baseUrl
+    value: 'http://localhost:3000/api/v1'
+  - key: userName
+    value: ''
+  - key: userEmail
+    value: ''
+  - key: userPassword
+    value: ''
+  - key: token
+    value: ''
 color: 240

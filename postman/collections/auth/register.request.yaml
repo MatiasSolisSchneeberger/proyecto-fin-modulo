@@ -1,0 +1,16 @@
+$kind: http-request
+name: "POST /auth/register (201)"
+description: ""
+url: "{{baseUrl}}/auth/register"
+method: POST
+headers:
+  - key: Content-Type
+    value: application/json
+body:
+  type: json
+  content: "{\n  \"username\": \"{{userName}}\",\n  \"email\": \"{{userEmail}}\",\n  \"password\": \"{{userPassword}}\"\n}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 201\", function () {\n  pm.response.to.have.status(201);\n});"
+order: 1000
