@@ -1,0 +1,18 @@
+$kind: http-request
+name: "GET /me/progress?page=2&limit=5"
+description: ""
+url: "{{baseUrl}}/me/progress?page=2&limit=5"
+method: GET
+queryParams:
+  - key: "page"
+    value: "2"
+  - key: "limit"
+    value: "5"
+headers:
+  - key: "Authorization"
+    value: "Bearer {{token}}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 200\", function () {\n  pm.response.to.have.status(200);\n});"
+order: 4000

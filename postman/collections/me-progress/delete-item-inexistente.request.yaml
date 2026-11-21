@@ -1,0 +1,13 @@
+$kind: http-request
+name: "DELETE /me/progress/999999 (404)"
+description: ""
+url: "{{baseUrl}}/me/progress/999999"
+method: DELETE
+headers:
+  - key: "Authorization"
+    value: "Bearer {{token}}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 404\", function () {\n  pm.response.to.have.status(404);\n});"
+order: 20000

@@ -1,0 +1,10 @@
+$kind: http-request
+name: "GET /me/progress sin token (401)"
+description: ""
+url: "{{baseUrl}}/me/progress"
+method: GET
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 401\", function () {\n  pm.response.to.have.status(401);\n});"
+order: 7000
