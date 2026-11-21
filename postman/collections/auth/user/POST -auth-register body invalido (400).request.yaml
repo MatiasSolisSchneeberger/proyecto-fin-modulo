@@ -8,9 +8,21 @@ headers:
     value: application/json
 body:
   type: json
-  content: "{\n  \"username\": \"ab\",\n  \"email\": \"no-es-email\",\n  \"password\": \"123\"\n}"
+  content: "{
+
+    \  \"username\": \"ab\",
+
+    \  \"email\": \"no-es-email\",
+
+    \  \"password\": \"123\"
+
+    }"
 scripts:
   - type: afterResponse
     language: text/javascript
-    code: "pm.test(\"Status 400\", function () {\n  pm.response.to.have.status(400);\n});"
+    code: "pm.test(\"Status 400\", function () {
+
+      \  pm.response.to.have.status(400);
+
+      });"
 order: 3000

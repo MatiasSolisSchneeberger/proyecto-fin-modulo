@@ -1,0 +1,31 @@
+$kind: http-request
+name: "POST /auth/login admin (200)"
+description: ""
+url: "{{baseUrl}}/auth/login"
+method: POST
+headers:
+  - key: "Content-Type"
+    value: "application/json"
+body:
+  type: json
+  content: "{
+
+    \  \"email\": \"{{adminEmail}}\",
+
+    \  \"password\": \"{{adminPassword}}\"
+
+    }"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 200\", function () {
+
+      \  pm.response.to.have.status(200);
+
+      });
+
+
+      const token = pm.response.json().data.token;
+
+      pm.environment.set(\"adminToken\", token);"
+order: 1000
