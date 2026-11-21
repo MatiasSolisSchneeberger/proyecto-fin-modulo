@@ -1,0 +1,18 @@
+$kind: http-request
+name: "PUT /titles/999999 (404)"
+description: ""
+url: "{{baseUrl}}/titles/999999"
+method: PUT
+headers:
+  - key: "Content-Type"
+    value: "application/json"
+  - key: "Authorization"
+    value: "Bearer {{adminToken}}"
+body:
+  type: json
+  content: "{\n  \"synopsis\": \"x\"\n}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 404\", function () {\n  pm.response.to.have.status(404);\n});"
+order: 23000

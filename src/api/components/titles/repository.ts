@@ -12,6 +12,11 @@ type TitleFilters = {
 	includeNonCanon: boolean;
 };
 
+// con exactOptionalPropertyTypes hay que permitir `undefined` explícito (viene de Zod)
+type TitleUpdate = {
+	[K in keyof typeof titles.$inferInsert]?: (typeof titles.$inferInsert)[K] | undefined;
+};
+
 type TitleSort =
 	"title" | "-title" | "releaseDate" | "-releaseDate" | "createdAt" | "-createdAt";
 
@@ -58,5 +63,33 @@ export const titlesRepository = {
 	async findById(id: number) {
 		const [row] = await db.select().from(titles).where(eq(titles.id, id)).limit(1);
 		return row;
+	},
+
+	async findBySlug(slug: string) {
+		const [row] = await db.select().from(titles).where(eq(titles.slug, slug)).limit(1);
+		return row;
+	},
+
+	async create(data: typeof titles.$inferInsert) {
+		const [row] = await db.insert(titles).values(data).returning();
+
+		if (!row) {
+			throw new Error("No se pudo crear la obra");
+		}
+
+		return row;
+	},
+
+	async update(id: number, data: TitleUpdate) {
+		const [row] = await db.update(titles).set(data).where(eq(titles.id, id)).returning();
+		return row; // undefined si no existía
+	},
+
+	async remove(id: number) {
+		const [row] = await db
+			.delete(titles)
+			.where(eq(titles.id, id))
+			.returning({ id: titles.id });
+		return row; // undefined si no existía
 	},
 };

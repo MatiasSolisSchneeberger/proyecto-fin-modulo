@@ -1,0 +1,18 @@
+$kind: http-request
+name: "POST /titles (201, admin)"
+description: ""
+url: "{{baseUrl}}/titles"
+method: POST
+headers:
+  - key: "Content-Type"
+    value: "application/json"
+  - key: "Authorization"
+    value: "Bearer {{adminToken}}"
+body:
+  type: json
+  content: "{\n  \"kind\": \"movie\",\n  \"title\": \"Postman Test Title\",\n  \"slug\": \"postman-test-title\",\n  \"releaseDate\": \"2030-01-01\",\n  \"synopsis\": \"Creado desde Postman\",\n  \"isCanon\": false\n}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 201\", function () {\n  pm.response.to.have.status(201);\n});\n\nconst id = pm.response.json().data.id;\npm.environment.set(\"createdTitleId\", String(id));"
+order: 16000

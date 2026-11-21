@@ -1,0 +1,10 @@
+$kind: http-request
+name: "DELETE /titles/:id sin token (401)"
+description: ""
+url: "{{baseUrl}}/titles/{{createdTitleId}}"
+method: DELETE
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 401\", function () {\n  pm.response.to.have.status(401);\n});"
+order: 26000

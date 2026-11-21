@@ -1,0 +1,18 @@
+$kind: http-request
+name: "PUT /titles/:id usuario no admin (403)"
+description: ""
+url: "{{baseUrl}}/titles/{{createdTitleId}}"
+method: PUT
+headers:
+  - key: "Content-Type"
+    value: "application/json"
+  - key: "Authorization"
+    value: "Bearer {{token}}"
+body:
+  type: json
+  content: "{\n  \"synopsis\": \"x\"\n}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 403\", function () {\n  pm.response.to.have.status(403);\n});"
+order: 25000
