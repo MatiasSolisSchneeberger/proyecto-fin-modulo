@@ -1,0 +1,13 @@
+$kind: http-request
+name: "DELETE /me/progress/1 otra vez (204)"
+description: ""
+url: "{{baseUrl}}/me/progress/1"
+method: DELETE
+headers:
+  - key: "Authorization"
+    value: "Bearer {{token}}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 204\", function () {\n  pm.response.to.have.status(204);\n});"
+order: 19000
