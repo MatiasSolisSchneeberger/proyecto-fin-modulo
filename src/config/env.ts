@@ -6,9 +6,8 @@ const envSchema = z.object({
 	PORT: z.coerce.number().default(3000),
 	DATABASE_URL: z.string().startsWith("postgresql://"),
 
-	// para mas tarde
-	//JWT_SECRET: z.string().min(16),
-	//JWT_EXPIRES_IN: z.string().default("1h"),
+	JWT_SECRET: z.string().min(16),
+	JWT_EXPIRES_IN: z.string().default("1h"),
 });
 
 const parsed = envSchema.safeParse(process.env);
