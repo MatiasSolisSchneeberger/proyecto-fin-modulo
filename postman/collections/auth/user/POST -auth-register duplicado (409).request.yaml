@@ -8,9 +8,21 @@ headers:
     value: application/json
 body:
   type: json
-  content: "{\n  \"username\": \"{{userName}}\",\n  \"email\": \"{{userEmail}}\",\n  \"password\": \"{{userPassword}}\"\n}"
+  content: "{
+
+    \  \"username\": \"{{userName}}\",
+
+    \  \"email\": \"{{userEmail}}\",
+
+    \  \"password\": \"{{userPassword}}\"
+
+    }"
 scripts:
   - type: afterResponse
     language: text/javascript
-    code: "pm.test(\"Status 409\", function () {\n  pm.response.to.have.status(409);\n});"
+    code: "pm.test(\"Status 409\", function () {
+
+      \  pm.response.to.have.status(409);
+
+      });"
 order: 2000

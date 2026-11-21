@@ -12,5 +12,9 @@ body:
 scripts:
   - type: afterResponse
     language: text/javascript
-    code: "pm.test(\"Status 400\", function () {\n  pm.response.to.have.status(400);\n});"
+    code: "pm.test(\"Status 400\", function () {
+
+      \  pm.response.to.have.status(400);
+
+      });"
 order: 6000

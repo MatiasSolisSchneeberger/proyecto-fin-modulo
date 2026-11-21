@@ -8,9 +8,19 @@ headers:
     value: application/json
 body:
   type: json
-  content: "{\n  \"email\": \"{{userEmail}}\",\n  \"password\": \"clave-incorrecta-123\"\n}"
+  content: "{
+
+    \  \"email\": \"{{userEmail}}\",
+
+    \  \"password\": \"clave-incorrecta-123\"
+
+    }"
 scripts:
   - type: afterResponse
     language: text/javascript
-    code: "pm.test(\"Status 401\", function () {\n  pm.response.to.have.status(401);\n});"
+    code: "pm.test(\"Status 401\", function () {
+
+      \  pm.response.to.have.status(401);
+
+      });"
 order: 5000
