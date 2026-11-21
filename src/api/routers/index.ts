@@ -6,6 +6,7 @@ import { studioRouter } from "../components/studios/routes.js";
 import { platformsRouter } from "@/api/components/platforms/routes.js";
 import { tagCategoriesRouter } from "@/api/components/tag-categories/routes.js";
 import { tagsRouter } from "../components/tags/routes.js";
+import { authRouter } from "../components/auth/routes.js";
 
 export const v1Router = Router();
 v1Router.use("/health", healthRouter);
@@ -15,3 +16,4 @@ v1Router.use("/studios", studioRouter);
 v1Router.use("/platforms", platformsRouter);
 v1Router.use("/tag-categories", tagCategoriesRouter);
 v1Router.use("/tags", tagsRouter);
+v1Router.use("/auth", authRouter);
