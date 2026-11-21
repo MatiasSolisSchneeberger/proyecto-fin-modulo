@@ -6,6 +6,7 @@ import {
 	seedTagCategories,
 	seedUniverses,
 } from "./seeders/catalogs.js";
+import { seedAdmin } from "./seeders/admin.js";
 import { seedEpisodes } from "./seeders/episodes.js";
 import { seedTags } from "./seeders/tags.js";
 import { seedTitleEditions } from "./seeders/title-editions.js";
@@ -76,6 +77,10 @@ async function main() {
 		// 5) orden de cada timeline (Fractional Indexing)
 		const nEntries = await seedTimelineEntries(tx, timelineIds, itemIds);
 		console.log(`✅ timeline_entries: ${nEntries}`);
+
+		// 6) usuario admin (credenciales del .env)
+		const nAdmin = await seedAdmin(tx);
+		console.log(`✅ admin: ${nAdmin}`);
 	});
 }
 
