@@ -1,0 +1,13 @@
+$kind: http-request
+name: "/platforms?q=Disney"
+description: ""
+url: "{{baseUrl}}/platforms?q=Disney"
+method: GET
+queryParams:
+  - key: "q"
+    value: "Disney"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 200\", function () {\n  pm.response.to.have.status(200);\n});"
+order: 2000

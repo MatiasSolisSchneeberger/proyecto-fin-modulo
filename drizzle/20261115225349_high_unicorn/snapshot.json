@@ -1,0 +1,47 @@
+{
+  "type": "diff",
+  "version": "9",
+  "dialect": "postgres",
+  "id": "3bf5a8f2-8d6a-4a1d-b057-91f2c1757594",
+  "prevIds": [
+    "7552012b-a2ec-4314-ab28-05642b947804"
+  ],
+  "footprints": [
+    {
+      "statementType": "add_column",
+      "statementTarget": [
+        "column",
+        "public",
+        "titles",
+        "is_canon"
+      ],
+      "writes": [
+        "s|col|public.titles.is_canon",
+        "n|col|public.titles.is_canon",
+        "e|col|public.titles.is_canon"
+      ],
+      "reads": [
+        "n|tbl|public.titles",
+        "n|sch|public"
+      ]
+    }
+  ],
+  "deltas": [
+    {
+      "op": "create",
+      "row": {
+        "schema": "public",
+        "table": "titles",
+        "name": "is_canon",
+        "type": "boolean",
+        "typeSchema": null,
+        "notNull": true,
+        "dimensions": 0,
+        "default": "true",
+        "generated": null,
+        "identity": null,
+        "entityType": "columns"
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+$kind: http-request
+name: "/platforms/999999 (404)"
+description: ""
+url: "{{baseUrl}}/platforms/999999"
+method: GET
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 404\", function () {\n  pm.response.to.have.status(404);\n});"
+order: 4000

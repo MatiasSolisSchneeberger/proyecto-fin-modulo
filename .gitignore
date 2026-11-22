@@ -8,7 +8,9 @@ node_modules
 .idea
 .DS_Store
 .gemini/
-
+.claude/
+skills-lock.json
+.postman/
 # env
 .env
 node_modules/
@@ -17,6 +19,9 @@ dist/
 
 # documentos de teoría
 .docs/
+
+docs/base-de-datos/schema copy.*
+docs/base-de-datos/schema.dbdiagram
 
 # docker
 db-data/

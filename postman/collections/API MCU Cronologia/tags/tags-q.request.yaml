@@ -1,0 +1,13 @@
+$kind: http-request
+name: "/tags?q=fase"
+description: ""
+url: "{{baseUrl}}/tags?q=fase"
+method: GET
+queryParams:
+  - key: "q"
+    value: "fase"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 200\", function () {\n  pm.response.to.have.status(200);\n});"
+order: 2000

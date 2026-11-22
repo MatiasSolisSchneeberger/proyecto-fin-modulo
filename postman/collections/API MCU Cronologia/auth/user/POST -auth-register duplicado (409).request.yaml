@@ -1,0 +1,28 @@
+$kind: http-request
+name: "POST /auth/register duplicado (409)"
+description: ""
+url: "{{baseUrl}}/auth/register"
+method: POST
+headers:
+  - key: Content-Type
+    value: application/json
+body:
+  type: json
+  content: "{
+
+    \  \"username\": \"{{userName}}\",
+
+    \  \"email\": \"{{userEmail}}\",
+
+    \  \"password\": \"{{userPassword}}\"
+
+    }"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 409\", function () {
+
+      \  pm.response.to.have.status(409);
+
+      });"
+order: 2000

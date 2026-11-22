@@ -1,0 +1,13 @@
+$kind: http-request
+name: "/titles?releasedFrom invalida (400)"
+description: ""
+url: "{{baseUrl}}/titles?releasedFrom=01-01-2008"
+method: GET
+queryParams:
+  - key: "releasedFrom"
+    value: "01-01-2008"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 400\", function () {\n  pm.response.to.have.status(400);\n});"
+order: 9000

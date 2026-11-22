@@ -1,0 +1,10 @@
+﻿id,item_id,_timeline_items_item_name,content,is_spoiler,order_index
+1,,Iron Man 2,**Iron Man 2 (Post-Credit Scene)**: Puntualizar: pausar/detener antes de los créditos de Iron Man 2. La escena post-créditos transcurre inmediatamente antes de los eventos de Thor.,false,0
+2,,Captain America: The First Avenger,**Captain America: The First Avenger (Credits)**: Puntualizar: detener antes de los créditos de Captain America: The First Avenger. La escena de créditos transcurre inmediatamente antes de The Avengers.,false,0
+3,,Thor,**Thor (Post-Credit Scene)**: La escena post-créditos de Thor (el teseracto con el Dr. Selvig y Nick Fury) transcurre inmediatamente antes de The Avengers.,false,0
+4,,Ant-Man and the Wasp,**Ant-Man & The Wasp (All Credits)**: Pausar/detener la película antes de los créditos. La escena post-créditos (el chasquido en el reino cuántico) transcurre inmediatamente después de Avengers: Infinity War.,false,0
+5,,Avengers: Infinity War,"**Avengers: Infinity War (Post-Credits Scene)**: Ver los créditos principales. Detener antes de la escena post-créditos (el beeper de Capitana Marvel), la cual transcurre luego de la escena de Ant-Man and the Wasp.",false,0
+6,,Captain Marvel,**Captain Marvel (Post-Credits Scene)**: Detener antes de los créditos finales en Captain Marvel. La escena post-créditos conecta directamente con la apertura de Avengers: Endgame.,false,0
+7,,WandaVision S1E9: The Series Finale,**WandaVision (Ep 9 Mid-Credit Scene)**: Escena post/mid-créditos del episodio 9 de WandaVision (Monica Rambeau y el Skrull en el cine). Conecta cronológicamente hacia las producciones espaciales/Secret Invasion.,false,0
+8,,Black Widow,**Black Widow (Post-Credit Scene)**: Detener antes de los créditos finales de Black Widow. La escena post-créditos (Yelena Belova y Valentina Allegra de Fontaine en la tumba de Natasha) transcurre en 2024 y prepara directamente la serie Hawkeye.,false,0
+9,,Avengers: Endgame Encore,**Avengers: Endgame Encore (New Scenes)**: Escenas adicionales y homenaje exhibidos en el reestreno cinematográfico (Encore) de Avengers: Endgame.,false,0

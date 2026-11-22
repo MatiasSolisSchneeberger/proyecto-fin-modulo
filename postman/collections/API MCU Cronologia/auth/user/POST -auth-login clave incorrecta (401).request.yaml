@@ -1,0 +1,26 @@
+$kind: http-request
+name: "POST /auth/login clave incorrecta (401)"
+description: ""
+url: "{{baseUrl}}/auth/login"
+method: POST
+headers:
+  - key: Content-Type
+    value: application/json
+body:
+  type: json
+  content: "{
+
+    \  \"email\": \"{{userEmail}}\",
+
+    \  \"password\": \"clave-incorrecta-123\"
+
+    }"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 401\", function () {
+
+      \  pm.response.to.have.status(401);
+
+      });"
+order: 5000

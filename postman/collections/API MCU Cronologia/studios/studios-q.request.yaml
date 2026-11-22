@@ -1,0 +1,13 @@
+$kind: http-request
+name: "/studios?q=Marvel"
+description: ""
+url: "{{baseUrl}}/studios?q=Marvel"
+method: GET
+queryParams:
+  - key: "q"
+    value: "Marvel"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 200\", function () {\n  pm.response.to.have.status(200);\n});"
+order: 2000

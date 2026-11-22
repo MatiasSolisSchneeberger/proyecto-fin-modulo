@@ -1,0 +1,10 @@
+$kind: http-request
+name: "/tags/inv%40lido (400)"
+description: ""
+url: "{{baseUrl}}/tags/inv%40lido"
+method: GET
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 400\", function () {\n  pm.response.to.have.status(400);\n});"
+order: 7000

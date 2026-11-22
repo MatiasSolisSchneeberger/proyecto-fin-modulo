@@ -1,0 +1,16 @@
+$kind: http-request
+name: "GET /me/progress?status=skipped"
+description: ""
+url: "{{baseUrl}}/me/progress?status=skipped"
+method: GET
+queryParams:
+  - key: "status"
+    value: "skipped"
+headers:
+  - key: "Authorization"
+    value: "Bearer {{token}}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 200\", function () {\n  pm.response.to.have.status(200);\n});"
+order: 3000

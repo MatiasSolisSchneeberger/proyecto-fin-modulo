@@ -1,0 +1,10 @@
+$kind: http-request
+name: "/ruta-inexistente (404)"
+description: ""
+url: "{{baseUrl}}/ruta-inexistente"
+method: GET
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 404\", function () {\n  pm.response.to.have.status(404);\n});"
+order: 1000

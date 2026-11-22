@@ -1,0 +1,13 @@
+$kind: http-request
+name: "PUT /me/progress/1 sin body (200)"
+description: ""
+url: "{{baseUrl}}/me/progress/1"
+method: PUT
+headers:
+  - key: "Authorization"
+    value: "Bearer {{token}}"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 200\", function () {\n  pm.response.to.have.status(200);\n});"
+order: 9000

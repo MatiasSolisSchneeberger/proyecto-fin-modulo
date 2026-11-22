@@ -1,0 +1,10 @@
+$kind: http-request
+name: "/titles"
+description: ""
+url: "{{baseUrl}}/titles"
+method: GET
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 200\", function () {\n  pm.response.to.have.status(200);\n});"
+order: 1000

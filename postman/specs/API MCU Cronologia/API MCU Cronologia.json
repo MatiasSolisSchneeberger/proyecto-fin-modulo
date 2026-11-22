@@ -1,0 +1,557 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "API MCU Cronologia",
+    "version": "1.0.0",
+    "description": ""
+  },
+  "servers": [
+    {
+      "url": "{{baseUrl}}"
+    }
+  ],
+  "paths": {
+    "/auth/register": {
+      "post": {
+        "summary": "POST /auth/register (201)",
+        "responses": {},
+        "tags": [
+          "auth",
+          "user"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "username": {
+                    "type": "string"
+                  },
+                  "email": {
+                    "type": "string"
+                  },
+                  "password": {
+                    "type": "string"
+                  }
+                }
+              },
+              "example": {
+                "username": "{{userName}}",
+                "email": "{{userEmail}}",
+                "password": "{{userPassword}}"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/auth/login": {
+      "post": {
+        "summary": "POST /auth/login (200)",
+        "responses": {},
+        "tags": [
+          "auth",
+          "user"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "email": {
+                    "type": "string"
+                  },
+                  "password": {
+                    "type": "string"
+                  }
+                }
+              },
+              "example": {
+                "email": "{{userEmail}}",
+                "password": "{{userPassword}}"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/health": {
+      "get": {
+        "summary": "/health",
+        "responses": {},
+        "tags": [
+          "health"
+        ]
+      }
+    },
+    "/me/progress": {
+      "get": {
+        "summary": "GET /me/progress",
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            },
+            "example": "Bearer {{token}}"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "me-progress"
+        ]
+      }
+    },
+    "/me/progress/1": {
+      "put": {
+        "summary": "PUT /me/progress/1 sin body (200)",
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            },
+            "example": "Bearer {{token}}"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "me-progress"
+        ]
+      },
+      "delete": {
+        "summary": "DELETE /me/progress/1 (204)",
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            },
+            "example": "Bearer {{token}}"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "me-progress"
+        ]
+      }
+    },
+    "/me/progress/999999": {
+      "put": {
+        "summary": "PUT /me/progress/999999 (404)",
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            },
+            "example": "Bearer {{token}}"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "me-progress"
+        ]
+      },
+      "delete": {
+        "summary": "DELETE /me/progress/999999 (404)",
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            },
+            "example": "Bearer {{token}}"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "me-progress"
+        ]
+      }
+    },
+    "/me/progress/abc": {
+      "put": {
+        "summary": "PUT /me/progress/abc (400)",
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            },
+            "example": "Bearer {{token}}"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "me-progress"
+        ]
+      }
+    },
+    "/ruta-inexistente": {
+      "get": {
+        "summary": "/ruta-inexistente (404)",
+        "responses": {},
+        "tags": [
+          "misc"
+        ]
+      }
+    },
+    "/titles": {
+      "post": {
+        "summary": "POST /titles token invalido (401)",
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            },
+            "example": "Bearer token.invalido"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "misc"
+        ],
+        "description": "Header con formato Bearer pero el token no es un JWT valido: INVALID_TOKEN",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "kind": {
+                    "type": "string"
+                  },
+                  "title": {
+                    "type": "string"
+                  },
+                  "releaseDate": {
+                    "type": "string",
+                    "format": "date"
+                  }
+                }
+              },
+              "example": {
+                "kind": "movie",
+                "title": "Postman Test Title",
+                "releaseDate": "2030-01-01"
+              }
+            }
+          }
+        }
+      },
+      "get": {
+        "summary": "/titles",
+        "responses": {},
+        "tags": [
+          "titles"
+        ]
+      }
+    },
+    "/platforms": {
+      "get": {
+        "summary": "/platforms",
+        "responses": {},
+        "tags": [
+          "platforms"
+        ]
+      }
+    },
+    "/platforms/1": {
+      "get": {
+        "summary": "/platforms/1",
+        "responses": {},
+        "tags": [
+          "platforms"
+        ]
+      }
+    },
+    "/platforms/999999": {
+      "get": {
+        "summary": "/platforms/999999 (404)",
+        "responses": {},
+        "tags": [
+          "platforms"
+        ]
+      }
+    },
+    "/platforms/abc": {
+      "get": {
+        "summary": "/platforms/abc (400)",
+        "responses": {},
+        "tags": [
+          "platforms"
+        ]
+      }
+    },
+    "/platforms/-1": {
+      "get": {
+        "summary": "/platforms/-1 (400)",
+        "responses": {},
+        "tags": [
+          "platforms"
+        ]
+      }
+    },
+    "/studios": {
+      "get": {
+        "summary": "/studios",
+        "responses": {},
+        "tags": [
+          "studios"
+        ]
+      }
+    },
+    "/studios/1": {
+      "get": {
+        "summary": "/studios/1",
+        "responses": {},
+        "tags": [
+          "studios"
+        ]
+      }
+    },
+    "/studios/999999": {
+      "get": {
+        "summary": "/studios/999999 (404)",
+        "responses": {},
+        "tags": [
+          "studios"
+        ]
+      }
+    },
+    "/studios/abc": {
+      "get": {
+        "summary": "/studios/abc (400)",
+        "responses": {},
+        "tags": [
+          "studios"
+        ]
+      }
+    },
+    "/studios/-1": {
+      "get": {
+        "summary": "/studios/-1 (400)",
+        "responses": {},
+        "tags": [
+          "studios"
+        ]
+      }
+    },
+    "/tag-categories": {
+      "get": {
+        "summary": "/tag-categories",
+        "responses": {},
+        "tags": [
+          "tag-categories"
+        ]
+      }
+    },
+    "/tags": {
+      "get": {
+        "summary": "/tags",
+        "responses": {},
+        "tags": [
+          "tags"
+        ]
+      }
+    },
+    "/tags/fase-1": {
+      "get": {
+        "summary": "/tags/fase-1",
+        "responses": {},
+        "tags": [
+          "tags"
+        ]
+      }
+    },
+    "/tags/no-existe": {
+      "get": {
+        "summary": "/tags/no-existe (404)",
+        "responses": {},
+        "tags": [
+          "tags"
+        ]
+      }
+    },
+    "/tags/inv%40lido": {
+      "get": {
+        "summary": "/tags/inv%40lido (400)",
+        "responses": {},
+        "tags": [
+          "tags"
+        ]
+      }
+    },
+    "/titles/1": {
+      "get": {
+        "summary": "/titles/1",
+        "responses": {},
+        "tags": [
+          "titles"
+        ]
+      }
+    },
+    "/titles/999999": {
+      "get": {
+        "summary": "/titles/999999 (404)",
+        "responses": {},
+        "tags": [
+          "titles"
+        ]
+      },
+      "put": {
+        "summary": "PUT /titles/999999 (404)",
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            },
+            "example": "Bearer {{adminToken}}"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "titles"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "synopsis": {
+                    "type": "string"
+                  }
+                }
+              },
+              "example": {
+                "synopsis": "x"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/titles/abc": {
+      "get": {
+        "summary": "/titles/abc (400)",
+        "responses": {},
+        "tags": [
+          "titles"
+        ]
+      }
+    },
+    "/titles/-1": {
+      "get": {
+        "summary": "/titles/-1 (400)",
+        "responses": {},
+        "tags": [
+          "titles"
+        ]
+      }
+    },
+    "/titles/{createdTitleId}": {
+      "put": {
+        "summary": "PUT /titles/:id (200, admin)",
+        "parameters": [
+          {
+            "name": "Authorization",
+            "in": "header",
+            "schema": {
+              "type": "string"
+            },
+            "example": "Bearer {{adminToken}}"
+          }
+        ],
+        "responses": {},
+        "tags": [
+          "titles"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "synopsis": {
+                    "type": "string"
+                  }
+                }
+              },
+              "example": {
+                "synopsis": "Sinopsis editada desde Postman"
+              }
+            }
+          }
+        }
+      },
+      "parameters": [
+        {
+          "name": "createdTitleId",
+          "in": "path",
+          "required": true,
+          "schema": {
+            "type": "string"
+          },
+          "example": "{{createdTitleId}}"
+        }
+      ],
+      "delete": {
+        "summary": "DELETE /titles/:id sin token (401)",
+        "responses": {},
+        "tags": [
+          "titles"
+        ]
+      }
+    },
+    "/universes": {
+      "get": {
+        "summary": "/universes",
+        "responses": {},
+        "tags": [
+          "universes"
+        ]
+      }
+    },
+    "/universes/no-existe": {
+      "get": {
+        "summary": "/universes/no-existe (404)",
+        "responses": {},
+        "tags": [
+          "universes"
+        ]
+      }
+    },
+    "/universes/Earth-616": {
+      "get": {
+        "summary": "/universes/earth-616",
+        "responses": {},
+        "tags": [
+          "universes"
+        ]
+      }
+    },
+    "/universes/inv%40lido": {
+      "get": {
+        "summary": "/universes/code invalido (400)",
+        "responses": {},
+        "tags": [
+          "universes"
+        ]
+      }
+    }
+  }
+}

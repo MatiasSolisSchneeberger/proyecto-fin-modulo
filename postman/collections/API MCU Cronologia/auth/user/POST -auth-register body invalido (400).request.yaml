@@ -1,0 +1,28 @@
+$kind: http-request
+name: "POST /auth/register body invalido (400)"
+description: ""
+url: "{{baseUrl}}/auth/register"
+method: POST
+headers:
+  - key: Content-Type
+    value: application/json
+body:
+  type: json
+  content: "{
+
+    \  \"username\": \"ab\",
+
+    \  \"email\": \"no-es-email\",
+
+    \  \"password\": \"123\"
+
+    }"
+scripts:
+  - type: afterResponse
+    language: text/javascript
+    code: "pm.test(\"Status 400\", function () {
+
+      \  pm.response.to.have.status(400);
+
+      });"
+order: 3000
