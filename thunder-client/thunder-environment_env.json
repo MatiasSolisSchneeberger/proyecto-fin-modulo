@@ -1,0 +1,52 @@
+{
+    "clientName": "Thunder Client",
+    "environmentName": "env",
+    "environmentId": "19c53727-7afb-4e7f-8428-38599fb293c7",
+    "dateExported": "2026-11-22T00:28:40.573Z",
+    "version": "1.2",
+    "variables": [
+        {
+            "name": "baseUrl",
+            "value": "http://localhost:3000/api/v1"
+        },
+        {
+            "name": "userName",
+            "value": ""
+        },
+        {
+            "name": "userEmail",
+            "value": ""
+        },
+        {
+            "name": "userPassword",
+            "value": ""
+        },
+        {
+            "name": "token",
+            "value": "",
+            "secret": true
+        },
+        {
+            "name": "adminName",
+            "value": ""
+        },
+        {
+            "name": "adminEmail",
+            "value": ""
+        },
+        {
+            "name": "adminPassword",
+            "value": ""
+        },
+        {
+            "name": "adminToken",
+            "value": "",
+            "secret": true
+        },
+        {
+            "name": "createdTitleId",
+            "value": ""
+        }
+    ],
+    "ref": "SohZZLzgznsSboJok88bM1Oa1JPgEH_VM_BYEsFmZeox1RQauENlyJ-LVz9SPYta"
+}
