@@ -6,6 +6,8 @@ API REST para consultar la **línea temporal del UCM** (películas, series, espe
 - Cada usuario registrado marca ítems como `watched` o `skipped` en `/me/progress` y solo ve **lo suyo**.
 - Datos reales: el seed carga las obras, episodios, ediciones, tags y la cronología desde los CSV de `docs/csv/`.
 
+**Contenido de este README:** [1. Stack](#1-stack) · [2. Instalación](#2-instalación-paso-a-paso) · [3. Estructura](#3-estructura-del-proyecto) · [4. Autenticación](#4-autenticación) · [5. Endpoints](#5-endpoints) · [6. Respuestas y códigos](#6-formato-de-respuesta-y-códigos-de-estado) · [7. Reglas de negocio](#7-reglas-de-negocio) · [8. Extras](#8-extras-implementados) · [9. Pruebas con Thunder Client](#9-pruebas-con-thunder-client)
+
 ---
 
 ## 1. Stack
@@ -24,34 +26,79 @@ API REST para consultar la **línea temporal del UCM** (películas, series, espe
 
 ## 2. Instalación paso a paso
 
-Requisitos: **Node.js** (probado con v24) y **Docker**.
+**Requisitos:** [Node.js](https://nodejs.org) (probado con v24), [Git](https://git-scm.com) y [Docker](https://www.docker.com/products/docker-desktop) (la base de datos corre en un contenedor, no hace falta instalar PostgreSQL).
+
+**1. Clonar el repositorio e instalar dependencias**
 
 ```bash
-# 1) Dependencias
+git clone https://github.com/MatiasSolisSchneeberger/proyecto-fin-modulo.git
+cd proyecto-fin-modulo
 npm install
+```
 
-# 2) Variables de entorno
-cp .env.example .env        # en PowerShell: Copy-Item .env.example .env
-#    ...y completar los valores (ver tabla de abajo)
+**2. Crear el archivo `.env`** a partir de la plantilla y completarlo (valores de ejemplo en la sección siguiente). Hay que hacerlo **antes** de levantar Docker, porque `docker-compose.yml` lee las credenciales de ese archivo.
 
-# 3) Base de datos en Docker
+```bash
+cp .env.example .env
+```
+
+En PowerShell: `Copy-Item .env.example .env`.
+
+**3. Levantar la base de datos** (PostgreSQL en Docker):
+
+```bash
 docker compose up -d
+```
 
-# 4) Crear las tablas
+**4. Crear las tablas** (aplica las migraciones de `drizzle/`):
+
+```bash
 npm run db:migrate
+```
 
-# 5) Cargar los datos (catálogo, cronología y usuario admin)
+**5. Cargar los datos** (catálogo, cronología completa y el usuario admin):
+
+```bash
 npm run db:seed
+```
 
-# 6) Levantar la API
+**6. Levantar la API:**
+
+```bash
 npm run dev
 ```
 
-Verificar que funciona: <http://localhost:3000/api/v1/health> debe responder `{ "data": { "status": "ok", "db": "ok", ... } }`.
+Verificar que funciona: abrir <http://localhost:3000/api/v1/health>. Debe responder `{ "data": { "status": "ok", "db": "ok", ... } }`.
 
-> ⚠️ `npm run db:seed` **vacía** las tablas del catálogo (y, en cascada, el progreso de los usuarios) antes de cargar. Es solo para desarrollo.
+> ⚠️ `npm run db:seed` **vacía** las tablas del catálogo (y, en cascada, el progreso de los usuarios) antes de cargar: se puede correr las veces que haga falta para volver al estado inicial, pero borra las obras creadas a mano. Los usuarios **no** se borran y el admin no se duplica.
 
 ### Variables de entorno (`.env`)
+
+Ejemplo de un `.env` completo para desarrollo (todos los valores son de ejemplo: cambiá las contraseñas):
+
+```env
+DB_USER=marvel
+DB_PASSWORD=una-clave-para-la-base
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=mcu
+
+DATABASE_URL=postgresql://${DB_USER}:${DB_PASSWORD}@${DB_HOST}:${DB_PORT}/${DB_NAME}
+
+JWT_SECRET=pegar-aca-un-secreto-largo-y-aleatorio
+JWT_EXPIRES_IN=1h
+
+ADMIN_USERNAME=admin
+ADMIN_EMAIL=admin@example.com
+ADMIN_PASSWORD=una-clave-de-admin-8-o-mas
+```
+
+Para generar un `JWT_SECRET` aleatorio:
+
+```bash
+node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"
+```
+
 
 | Variable | Para qué sirve |
 | --- | --- |
@@ -63,11 +110,34 @@ Verificar que funciona: <http://localhost:3000/api/v1/health> debe responder `{ 
 | `ADMIN_USERNAME`, `ADMIN_EMAIL`, `ADMIN_PASSWORD` | Datos del admin que crea el seed (`ADMIN_PASSWORD`: 8 a 72 caracteres). La API arranca aunque estén vacías, pero no habrá admin |
 | `PORT` | Puerto de la API (opcional, default `3000`) |
 
-El `.env` **no se versiona**: solo `.env.example`, sin valores.
+El `.env` **no se versiona** (está en `.gitignore`): en el repositorio solo está `.env.example`, con los nombres de las variables y sin valores.
+
+### Problemas frecuentes
+
+| Síntoma | Causa y solución |
+| --- | --- |
+| `Variables de entorno inválidas` al arrancar | Falta o es inválida alguna variable del `.env` (por ejemplo `JWT_SECRET` de menos de 16 caracteres). El mensaje indica cuál |
+| `ECONNREFUSED` o `/health` responde 503 | La base no está levantada: `docker compose up -d` y revisar `DB_HOST`/`DB_PORT` |
+| `npm run db:seed` avisa "Faltan ADMIN_*" | Completar `ADMIN_USERNAME`, `ADMIN_EMAIL` y `ADMIN_PASSWORD` y volver a correr el seed |
+| El puerto 3000 o 5432 está ocupado | Cambiar `PORT` / `DB_PORT` en el `.env` (y reiniciar Docker si cambia `DB_PORT`) |
 
 ---
 
 ## 3. Estructura del proyecto
+
+```
+.
+├── src/                  # código de la API (detalle abajo)
+├── drizzle/              # migraciones SQL generadas por drizzle-kit
+├── docs/                 # consigna, especificación, modelo de datos y CSV del seed (ver docs/README.md)
+├── thunder-client/       # colecciones y environment de pruebas (ver sección 9)
+├── postman/              # colección original en Postman (anterior a la migración a Thunder Client)
+├── docker-compose.yml    # PostgreSQL 16
+├── .env.example          # plantilla de variables de entorno
+└── package.json
+```
+
+Dentro de `src/`:
 
 ```
 src/
@@ -263,14 +333,58 @@ POST /api/v1/titles 401 2ms
 
 ---
 
-## 9. Pruebas
+## 9. Pruebas con Thunder Client
 
-Las pruebas manuales se hicieron con **Postman**. La colección está en `postman/collections/` (una carpeta por recurso: `auth`, `titles`, `me-progress`, `misc`, catálogos…) y usa el environment `postman/environments/Environment.environment.yaml` (`baseUrl`, `token`, `adminToken`).
+Las pruebas están en la carpeta [`thunder-client/`](thunder-client/), listas para importar en la extensión **Thunder Client** de VS Code. Son **87 requests**, casi todas con su test de status (`res-code`):
 
-Cubre, para cada endpoint del CRUD y de `/me/progress`: el caso feliz (200/201/204) y los errores **400** (validación), **401** (sin token, token inválido, sin `Bearer`), **403** (usuario sin rol admin), **404** e idempotencia del `DELETE`. Cada request lleva su `pm.test` de status.
+| Archivo | Contenido |
+| --- | --- |
+| `thunder-collection_API MCU Cronologia.json` | Colección **1/2** (47 requests): `auth` (admin y user), `health`, `me-progress`, `misc`, `platforms`, `studios`, `tag-categories` |
+| `thunder-collection_API MCU Cronologia - parte 2.json` | Colección **2/2** (40 requests): `titles` (el CRUD), `tags`, `universes` |
+| `thunder-environment_env.json` | Environment `env` con las variables (`baseUrl`, credenciales, tokens) |
 
-Para correrla: importar la carpeta `postman/` en Postman, cargar las credenciales en el environment, hacer login con un usuario y con el admin para guardar `token` y `adminToken`, y usar el **Runner**.
+> Son dos colecciones porque el plan gratuito de Thunder Client limita cada colección a 50 requests.
 
-El **500** no se puede provocar desde Postman: se probó apagando el contenedor (`docker stop mcu-chronological-order`) y llamando a `GET /titles`. Responde `500 INTERNAL_ERROR` sin stack trace.
+### Cómo correrlas
 
-Capturas de las pruebas: carpeta [`docs/capturas/`](docs/capturas/).
+1. Tener la API levantada y con datos (sección 2: `npm run db:seed` y `npm run dev`).
+2. En Thunder Client: **Collections → ⋯ → Import** y elegir las **dos** colecciones. En **Env → ⋯ → Import**, el archivo del environment, y dejar `env` como activo.
+3. Completar en el environment `env` (los tokens se llenan solos):
+
+   | Variable | Qué poner |
+   | --- | --- |
+   | `baseUrl` | `http://localhost:3000/api/v1` (ya viene) |
+   | `userName`, `userEmail`, `userPassword` | Datos de un usuario de prueba nuevo (ej. `tester`, `tester@example.com`, una clave de 8+ caracteres) |
+   | `adminEmail`, `adminPassword` | Los mismos valores de `ADMIN_EMAIL` y `ADMIN_PASSWORD` de tu `.env` |
+   | `token`, `adminToken`, `createdTitleId` | **No tocar**: los guardan los propios requests |
+
+4. Ejecutar **en este orden** (en la colección 1/2):
+   1. `auth / user` → `POST /auth/register (201)`: crea el usuario de prueba.
+   2. `auth / user` → `POST /auth/login (200)`: guarda `{{token}}`.
+   3. `auth / admin` → `POST /auth/login admin (200)`: guarda `{{adminToken}}`.
+5. Desde ahí se puede correr cualquier carpeta con **Run all** (o request por request). Las requests de escritura de `titles` usan `{{adminToken}}`; `/me/progress` usa `{{token}}`. En la colección 2/2, `POST /titles (201, admin)` guarda `{{createdTitleId}}`, que después usan el `PUT` y el `DELETE`.
+
+Si se repite la corrida con el mismo usuario, `POST /auth/register (201)` devuelve 409 (el usuario ya existe): es esperado; para que vuelva a dar 201, cambiá `userEmail` y `userName`.
+
+### Qué cubren
+
+Para cada endpoint del CRUD de `titles` y de `/me/progress`, el caso feliz y los errores:
+
+| Código | Casos probados |
+| --- | --- |
+| **200 / 201 / 204** | Listados con cada filtro, detalle, alta, edición, borrado, progreso |
+| **400** | Query inválida (`limit=500`, fecha mal formada, `sort` fuera de la lista), id no numérico o negativo, body inválido o vacío, `status` y `watchedAt` inválidos |
+| **401** | Sin token, token inválido, header sin `Bearer`, login con clave incorrecta |
+| **403** | Usuario común intentando crear, editar o borrar una obra |
+| **404** | Obra, ítem, plataforma, estudio o tag inexistente; ruta inexistente |
+| **409** | Slug de obra repetido, email ya registrado |
+
+### El error 500
+
+No se puede provocar con una request, así que se probó apagando la base de datos (`docker stop mcu-chronological-order`) y llamando a `GET /titles`. La API responde `500 INTERNAL_ERROR` con un mensaje genérico, **sin stack trace ni SQL**; el detalle queda solo en la consola del servidor (a la derecha de la captura):
+
+![500 con la base apagada](docs/capturas/500-base-apagada.png)
+
+Para volver a la normalidad: `docker start mcu-chronological-order`.
+
+> La carpeta [`postman/`](postman/) conserva la colección original en Postman, anterior a la migración a Thunder Client. No hace falta para probar la API.
